@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap domains="(map mapgroup-d)                            (map bookmap)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic xnal-d)                            (topic markup-d xml-d)   " xml:lang="en-US">
+<booktitle>
+<mainbooktitle>bookmap klant</mainbooktitle>
+</booktitle>
+<bookmeta>
+<author xml:lang="en-US">${author.name}</author>
+<authorinformation>
+<personinfo>
+<namedetails>
+<personname>
+<firstname/>
+<lastname> </lastname>
+</personname>
+</namedetails>
+<emailaddresses>
+<emailaddress/>
+</emailaddresses>
+</personinfo>
+</authorinformation>
+<metadata>
+<keywords/>
+<prodinfo>
+<prodname/>
+<vrmlist>
+<vrm version=""/>
+</vrmlist>
+</prodinfo>
+<data/>
+</metadata>
+<bookchangehistory>
+<reviewed>
+<started>
+<year/>
+<month/>
+<day/>
+</started>
+<completed>
+<year/>
+<month/>
+<day/>
+</completed>
+<summary/>
+</reviewed>
+<edited>
+<person/>
+<started>
+<year/>
+<month/>
+<day/>
+</started>
+<completed>
+<year/>
+<month/>
+<day/>
+</completed>
+<summary/>
+</edited>
+</bookchangehistory>
+<bookrights>
+<bookowner>
+<organization/>
+</bookowner>
+</bookrights>
+</bookmeta>
+<frontmatter>
+<booklists>
+<toc/>
+<figurelist/>
+<tablelist/>
+</booklists>
+<!--Add your warehouse and variable content in the frontmatter.-->
+</frontmatter>
+<chapter/>
+<backmatter/>
+</bookmap>

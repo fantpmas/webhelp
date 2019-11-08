@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serialized version="20.1" xml:space="preserve">
+	<serializableOrderedMap>
+		<entry>
+			<String>scenarios</String>
+			<scenario-array>
+				<ditaScenario>
+					<field name="useXEP">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="useAntennaHouse">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="baseDir">
+						<String>${pd}</String>
+					</field>
+					<field name="outputDir">
+						<String>${pd}\_output\pdf\${xpath_eval(substring-after('${cfd}','documentation'))}\</String>
+					</field>
+					<field name="tempDir">
+						<String>c:\temp</String>
+					</field>
+					<field name="transtype">
+						<String>mmpdf</String>
+					</field>
+					<field name="filters">
+						<ditavalFilters>
+							<field name="useDitavalFilePath">
+								<Boolean>false</Boolean>
+							</field>
+							<field name="useAppliedConditionSet">
+								<Boolean>false</Boolean>
+							</field>
+							<field name="appliedConditionSet">
+								<null/>
+							</field>
+							<field name="ditavalFilePath">
+								<null/>
+							</field>
+							<field name="simpleFiltersList">
+								<list/>
+							</field>
+						</ditavalFilters>
+					</field>
+					<field name="addOxygenJars">
+						<Boolean>true</Boolean>
+					</field>
+					<field name="skinCssFile">
+						<null/>
+					</field>
+					<field name="lastCustomSkinCssPath">
+						<null/>
+					</field>
+					<field name="webhelpResponsiveTemplate">
+						<null/>
+					</field>
+					<field name="publishingTemplateDataPO">
+						<null/>
+					</field>
+					<field name="additionalAntArgs">
+						<String></String>
+					</field>
+					<field name="buildTarget">
+						<String>dita2mmpdf</String>
+					</field>
+					<field name="buildFilePath">
+						<String></String>
+					</field>
+					<field name="ditaParams">
+						<list>
+							<ditaParameter>
+								<field name="name">
+									<String>args.rellinks</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>nofamily</String>
+								</field>
+								<field name="defaultValue">
+									<null/>
+								</field>
+								<field name="type">
+									<Integer>4</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String>none</String>
+										<String>all</String>
+										<String>noparent</String>
+										<String>nofamily</String>
+										<null/>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String>No links are included.</String>
+										<String>All links are included.</String>
+										<String>Parent links are not included.</String>
+										<String>Parent, child, next, and previous links are not included.</String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>clean.temp</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>yes</String>
+								</field>
+								<field name="defaultValue">
+									<String>yes</String>
+								</field>
+								<field name="type">
+									<Integer>4</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String>yes</String>
+										<String>no</String>
+										<null/>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>dita.temp.dir</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>c:\temp\oxygen</String>
+								</field>
+								<field name="defaultValue">
+									<null/>
+								</field>
+								<field name="type">
+									<Integer>3</Integer>
+								</field>
+								<field name="possibleValues">
+									<null/>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<null/>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>fix.external.refs.com.oxygenxml</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>true</String>
+								</field>
+								<field name="defaultValue">
+									<String>false</String>
+								</field>
+								<field name="type">
+									<Integer>4</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String>true</String>
+										<String>false</String>
+										<null/>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>mmpdf:cwd</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>${cfd}</String>
+								</field>
+								<field name="defaultValue">
+									<String></String>
+								</field>
+								<field name="type">
+									<Integer>0</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String></String>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>mmpdf:mfd.dir</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>${pd}\_custom_framework\miramo</String>
+								</field>
+								<field name="defaultValue">
+									<String></String>
+								</field>
+								<field name="type">
+									<Integer>0</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String></String>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>mmpdf:showProperties</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>Y</String>
+								</field>
+								<field name="defaultValue">
+									<String>Y</String>
+								</field>
+								<field name="type">
+									<Integer>4</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String>Y</String>
+										<String>N</String>
+										<null/>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>output.dir</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>${pd}\_output\pdf\${xpath_eval(substring-after('${cfd}','documentation'))}\</String>
+								</field>
+								<field name="defaultValue">
+									<null/>
+								</field>
+								<field name="type">
+									<Integer>3</Integer>
+								</field>
+								<field name="possibleValues">
+									<null/>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<null/>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>pdf.file</String>
+								</field>
+								<field name="description">
+									<String>Sample values:
+  "${cfd}\${cfn}.pdf" (default)</String>
+								</field>
+								<field name="value">
+									<String>${pd}\_output\pdf\${xpath_eval(substring-after('${cfd}','documentation'))}\${cfn}_pdfcomments.pdf</String>
+								</field>
+								<field name="defaultValue">
+									<String>${cfd}\${cfn}.pdf</String>
+								</field>
+								<field name="type">
+									<Integer>0</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String>${cfd}\${cfn}.pdf</String>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>transtype</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>mmpdf</String>
+								</field>
+								<field name="defaultValue">
+									<null/>
+								</field>
+								<field name="type">
+									<Integer>2</Integer>
+								</field>
+								<field name="possibleValues">
+									<null/>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<null/>
+								</field>
+							</ditaParameter>
+						</list>
+					</field>
+					<field name="jvmArgs">
+						<String>-Xmx384m</String>
+					</field>
+					<field name="useCustomJavaHome">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="customJavaHomeDir">
+						<String></String>
+					</field>
+					<field name="useCustomANTHome">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="customANTHomeDir">
+						<String></String>
+					</field>
+					<field name="workingDir">
+						<null/>
+					</field>
+					<field name="showConsoleAlways">
+						<Boolean>true</Boolean>
+					</field>
+					<field name="advancedOptionsMap">
+						<null/>
+					</field>
+					<field name="name">
+						<String>MiramoPDF - klant - (PDF comments)</String>
+					</field>
+					<field name="baseURL">
+						<null/>
+					</field>
+					<field name="footerURL">
+						<null/>
+					</field>
+					<field name="fOPMethod">
+						<null/>
+					</field>
+					<field name="fOProcessorName">
+						<null/>
+					</field>
+					<field name="headerURL">
+						<null/>
+					</field>
+					<field name="inputXSLURL">
+						<null/>
+					</field>
+					<field name="inputXMLURL">
+						<null/>
+					</field>
+					<field name="defaultScenario">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="isFOPPerforming">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="type">
+						<String>DITAMAP</String>
+					</field>
+					<field name="saveAs">
+						<Boolean>true</Boolean>
+					</field>
+					<field name="openInBrowser">
+						<Boolean>true</Boolean>
+					</field>
+					<field name="outputFile">
+						<null/>
+					</field>
+					<field name="outputResource">
+						<null/>
+					</field>
+					<field name="openOtherLocationInBrowser">
+						<Boolean>true</Boolean>
+					</field>
+					<field name="locationToOpenInBrowserURL">
+						<String>${pd}/_output/pdf/${xpath_eval(substring-after('${cfd}','documentation'))}/${cfn}_pdfcomments.pdf</String>
+					</field>
+					<field name="openInEditor">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="showInHTMLPane">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="showInXMLPane">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="showInSVGPane">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="showInResultSetPane">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="useXSLTInput">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="xsltParams">
+						<list/>
+					</field>
+					<field name="cascadingStylesheets">
+						<String-array/>
+					</field>
+					<field name="xslTransformer">
+						<String>DITA-OT</String>
+					</field>
+					<field name="extensionURLs">
+						<String-array/>
+					</field>
+				</ditaScenario>
+				<ditaScenario>
+					<field name="useXEP">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="useAntennaHouse">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="baseDir">
+						<String>${pd}</String>
+					</field>
+					<field name="outputDir">
+						<String>${pd}\_output\pdf\${xpath_eval(substring-after('${cfd}','documentation'))}</String>
+					</field>
+					<field name="tempDir">
+						<String>c:\temp</String>
+					</field>
+					<field name="transtype">
+						<String>mmpdf</String>
+					</field>
+					<field name="filters">
+						<ditavalFilters>
+							<field name="useDitavalFilePath">
+								<Boolean>false</Boolean>
+							</field>
+							<field name="useAppliedConditionSet">
+								<Boolean>false</Boolean>
+							</field>
+							<field name="appliedConditionSet">
+								<null/>
+							</field>
+							<field name="ditavalFilePath">
+								<null/>
+							</field>
+							<field name="simpleFiltersList">
+								<list/>
+							</field>
+						</ditavalFilters>
+					</field>
+					<field name="addOxygenJars">
+						<Boolean>true</Boolean>
+					</field>
+					<field name="skinCssFile">
+						<null/>
+					</field>
+					<field name="lastCustomSkinCssPath">
+						<null/>
+					</field>
+					<field name="webhelpResponsiveTemplate">
+						<null/>
+					</field>
+					<field name="publishingTemplateDataPO">
+						<null/>
+					</field>
+					<field name="additionalAntArgs">
+						<String></String>
+					</field>
+					<field name="buildTarget">
+						<String>dita2mmpdf</String>
+					</field>
+					<field name="buildFilePath">
+						<String></String>
+					</field>
+					<field name="ditaParams">
+						<list>
+							<ditaParameter>
+								<field name="name">
+									<String>args.draft</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>yes</String>
+								</field>
+								<field name="defaultValue">
+									<String>no</String>
+								</field>
+								<field name="type">
+									<Integer>4</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String>yes</String>
+										<String>no</String>
+										<null/>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>args.rellinks</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>nofamily</String>
+								</field>
+								<field name="defaultValue">
+									<null/>
+								</field>
+								<field name="type">
+									<Integer>4</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String>none</String>
+										<String>all</String>
+										<String>noparent</String>
+										<String>nofamily</String>
+										<null/>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String>No links are included.</String>
+										<String>All links are included.</String>
+										<String>Parent links are not included.</String>
+										<String>Parent, child, next, and previous links are not included.</String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>clean.temp</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>yes</String>
+								</field>
+								<field name="defaultValue">
+									<String>yes</String>
+								</field>
+								<field name="type">
+									<Integer>4</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String>yes</String>
+										<String>no</String>
+										<null/>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>dita.temp.dir</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>c:\temp\oxygen</String>
+								</field>
+								<field name="defaultValue">
+									<null/>
+								</field>
+								<field name="type">
+									<Integer>3</Integer>
+								</field>
+								<field name="possibleValues">
+									<null/>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<null/>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>fix.external.refs.com.oxygenxml</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>true</String>
+								</field>
+								<field name="defaultValue">
+									<String>false</String>
+								</field>
+								<field name="type">
+									<Integer>4</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String>true</String>
+										<String>false</String>
+										<null/>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>mmpdf:cwd</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>${cfd}</String>
+								</field>
+								<field name="defaultValue">
+									<String></String>
+								</field>
+								<field name="type">
+									<Integer>0</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String></String>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>mmpdf:mfd.dir</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>${pd}\_custom_framework\miramo</String>
+								</field>
+								<field name="defaultValue">
+									<String></String>
+								</field>
+								<field name="type">
+									<Integer>0</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String></String>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>mmpdf:showProperties</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>N</String>
+								</field>
+								<field name="defaultValue">
+									<String>Y</String>
+								</field>
+								<field name="type">
+									<Integer>4</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String>Y</String>
+										<String>N</String>
+										<null/>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>output.dir</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>${pd}\_output\pdf\${xpath_eval(substring-after('${cfd}','documentation'))}</String>
+								</field>
+								<field name="defaultValue">
+									<null/>
+								</field>
+								<field name="type">
+									<Integer>3</Integer>
+								</field>
+								<field name="possibleValues">
+									<null/>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<null/>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>pdf.file</String>
+								</field>
+								<field name="description">
+									<String>Sample values:
+  "${cfd}\${cfn}.pdf" (default)</String>
+								</field>
+								<field name="value">
+									<String>${pd}\_output\pdf\${xpath_eval(substring-after('${cfd}','documentation'))}\${cfn}_draftcomments.pdf</String>
+								</field>
+								<field name="defaultValue">
+									<String>${cfd}\${cfn}.pdf</String>
+								</field>
+								<field name="type">
+									<Integer>0</Integer>
+								</field>
+								<field name="possibleValues">
+									<String-array>
+										<String>${cfd}\${cfn}.pdf</String>
+									</String-array>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<String-array>
+										<String></String>
+									</String-array>
+								</field>
+							</ditaParameter>
+							<ditaParameter>
+								<field name="name">
+									<String>transtype</String>
+								</field>
+								<field name="description">
+									<null/>
+								</field>
+								<field name="value">
+									<String>mmpdf</String>
+								</field>
+								<field name="defaultValue">
+									<null/>
+								</field>
+								<field name="type">
+									<Integer>2</Integer>
+								</field>
+								<field name="possibleValues">
+									<null/>
+								</field>
+								<field name="possibleValuesDescriptions">
+									<null/>
+								</field>
+							</ditaParameter>
+						</list>
+					</field>
+					<field name="jvmArgs">
+						<String>-Xmx384m</String>
+					</field>
+					<field name="useCustomJavaHome">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="customJavaHomeDir">
+						<String></String>
+					</field>
+					<field name="useCustomANTHome">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="customANTHomeDir">
+						<String></String>
+					</field>
+					<field name="workingDir">
+						<null/>
+					</field>
+					<field name="showConsoleAlways">
+						<Boolean>true</Boolean>
+					</field>
+					<field name="advancedOptionsMap">
+						<null/>
+					</field>
+					<field name="name">
+						<String>MiramoPDF - klant - (PDF met draft-comments)</String>
+					</field>
+					<field name="baseURL">
+						<null/>
+					</field>
+					<field name="footerURL">
+						<null/>
+					</field>
+					<field name="fOPMethod">
+						<null/>
+					</field>
+					<field name="fOProcessorName">
+						<null/>
+					</field>
+					<field name="headerURL">
+						<null/>
+					</field>
+					<field name="inputXSLURL">
+						<null/>
+					</field>
+					<field name="inputXMLURL">
+						<null/>
+					</field>
+					<field name="defaultScenario">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="isFOPPerforming">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="type">
+						<String>DITAMAP</String>
+					</field>
+					<field name="saveAs">
+						<Boolean>true</Boolean>
+					</field>
+					<field name="openInBrowser">
+						<Boolean>true</Boolean>
+					</field>
+					<field name="outputFile">
+						<null/>
+					</field>
+					<field name="outputResource">
+						<null/>
+					</field>
+					<field name="openOtherLocationInBrowser">
+						<Boolean>true</Boolean>
+					</field>
+					<field name="locationToOpenInBrowserURL">
+						<String>${pd}/_output/pdf/${xpath_eval(substring-after('${cfd}','documentation'))}/${cfn}_draftcomments.pdf</String>
+					</field>
+					<field name="openInEditor">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="showInHTMLPane">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="showInXMLPane">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="showInSVGPane">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="showInResultSetPane">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="useXSLTInput">
+						<Boolean>false</Boolean>
+					</field>
+					<field name="xsltParams">
+						<list/>
+					</field>
+					<field name="cascadingStylesheets">
+						<String-array/>
+					</field>
+					<field name="xslTransformer">
+						<String>DITA-OT</String>
+					</field>
+					<field name="extensionURLs">
+						<String-array/>
+					</field>
+				</ditaScenario>
+			</scenario-array>
+		</entry>
+		<entry>
+			<String>scenarios.load.from.project</String>
+			<Boolean>false</Boolean>
+		</entry>
+	</serializableOrderedMap>
+</serialized>

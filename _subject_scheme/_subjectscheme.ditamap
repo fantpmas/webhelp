@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+<title>Attributes in use</title>
+    <hasInstance>
+        <subjectdef keys="outputclass">
+<subjectdef keys="DPI">
+<!--All outputclass values related to DPI of the figures.-->
+<subjectdef keys="fmdpi:124"/>
+<subjectdef keys="fmdpi:300"/>
+<subjectdef keys="fmdpi:600"/>
+</subjectdef>
+<subjectdef keys="Miramo">
+<!--All outputclass values related to publication to MiramoPDF-->
+<subjectdef keys="mmpdf:columnBreak"><!--force title/p/note paragraph to top of next column (or page, for single-column documents) --></subjectdef>
+<subjectdef keys=""/>
+</subjectdef>
+</subjectdef>
+<subjectdef keys="product"/>
+<subjectdef keys="platform"/>
+<subjectdef keys="audience"/>
+<subjectdef keys="deliveryTarget">
+<subjectdef keys="print"/>
+<subjectdef keys="screen"/>
+</subjectdef>
+    </hasInstance>
+    <enumerationdef>
+<!-- Bind an attribute to a tree of related values -->
+<attributedef name="outputclass"/>
+<subjectdef keyref="outputclass"/>
+</enumerationdef>
+<enumerationdef>
+<attributedef name="product"/>
+<subjectdef keyref="product"/>
+</enumerationdef>
+<enumerationdef>
+<attributedef name="deliveryTarget"/>
+<subjectdef keyref="deliveryTarget"/>
+</enumerationdef>
+<enumerationdef>
+<attributedef name="platform"/>
+<subjectdef keyref="platform"/>
+</enumerationdef>
+<enumerationdef>
+<attributedef name="audience"/>
+<subjectdef keyref="audience"/>
+</enumerationdef>
+</subjectScheme>
