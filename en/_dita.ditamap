@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="en-US">
+<title>DITA</title>
+<topicmeta>
+<author>Kimberley.De.Moor</author>
+<metadata/>
+</topicmeta>
+<topicref href="co_what_is_dita.dita"/>
+</map>
