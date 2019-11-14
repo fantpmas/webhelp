@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_add_collection_type_links" xml:lang="en-US">
+<title>Add collection-type links</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_v25_fp4_sjb">
+<p id="p_y25_fp4_sjb">A collection-type defines a relationship among nested topics and affects the way in which automatic links are generated in the output of your DITA map.</p>
+</section>
+<section id="section_vq4_1v4_sjb">
+<title>Elements to which you can apply the @collection-type attribute</title>
+<p id="p_ngb_sq4_sjb">You create a collection of links by setting the value of the @collection-type attribute, which defines how the nested topics are related. You can apply the @collection-type attribute to:<ul id="ul_x55_xt4_sjb">
+<li><codeph>&lt;topicref></codeph> elements in a DITA map. <note id="note_ubr_154_sjb">These have to be the parent <codeph>&lt;topicref></codeph> elements in the hierarchy.</note></li>
+<li><codeph>&lt;topicgroup></codeph> elements in a relationship table.</li>
+<li>columns in relationship tables.</li>
+</ul></p>
+<note id="note_qfd_m54_sjb">
+<p id="p_izb_n54_sjb">Although @collection-type attributes are valid in relationship table <codeph>&lt;relcell></codeph> elements, some don’t make a lot of sense in that context.</p>
+<p id="p_yqc_t54_sjb">For example, if you set a @collection-type attribute in a relationship table cell to <userinput>sequence</userinput>, it will result in a <uicontrol>Next Topic</uicontrol> link in the output linking to the next topic referenced in the cell, rather than to the next topic in the TOC sequence (as may logically be expected by the reader).</p>
+</note>
+</section>
+<section id="section_nxc_2v4_sjb">
+<title>Possible values of the @collection-type attribute</title>
+<p id="p_oxc_2v4_sjb">You can set the values of the @collection-type attribute to one of the four following values:<fig id="fig_rzs_lv4_sjb">
+<image href="../_graphics/collection-type_attributes.png" id="image_wxh_nv4_sjb"/>
+</fig><table frame="all" id="table_gyt_bw4_sjb">
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1*"/>
+<thead>
+<row>
+<entry>Collection-type value</entry>
+<entry>Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><userinput>choice</userinput></entry>
+<entry>Not commonly used, but it is intended for situations where the reader needs to select one child topic to proceed. This may be useful when the output document is an interactive decision-support application. Most processors treat choice in the same way as unordered.</entry>
+</row>
+<row>
+<entry><userinput>family</userinput></entry>
+<entry>Links are generated from parent to children, from children to parent, and from sibling to sibling.</entry>
+</row>
+<row>
+<entry><userinput>sequence</userinput></entry>
+<entry>Links are generated from parent to children, from children to parent, and from child to previous sibling (if applicable) and next sibling (if applicable). It creates a numbered sequence.</entry>
+</row>
+<row>
+<entry><userinput>unordered</userinput></entry>
+<entry>Links are generated from parent to children, and from children to parent. These links can be completed in any order.</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<p id="p_s2n_mw4_sjb">The following table can help you decide which type is most appropriate for your situation:<table frame="all" id="table_ml2_nw4_sjb">
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1*"/>
+<thead>
+<row>
+<entry>Question</entry>
+<entry>Value</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Should the nested task topics be completed in a particular order?</entry>
+<entry><userinput>sequence</userinput></entry>
+</row>
+<row>
+<entry>Do the topics represent choices?</entry>
+<entry><userinput>choice</userinput> or <userinput>family</userinput></entry>
+</row>
+<row>
+<entry>Can the task topics be done in any order?</entry>
+<entry><userinput>unordered</userinput> or <userinput>family</userinput></entry>
+</row>
+<row>
+<entry>Are the topics closely related and need links between sibling topics?</entry>
+<entry><userinput>family</userinput></entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<draft-comment author="Kimberley.De.Moor">Hieronder nog extra xrefs toevoegen</draft-comment>
+</section>
+</conbody>
+<related-links>
+<link href="to_different_levels_of_content_re_use.dita"/>
+<link href="co_free_e_learning_course_learningdita.dita"/>
+<link href="co_guidelines_for_chunking_content.dita"/>
+<link href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
+<link href="to_guidelines_for_creating_links.dita"/>
+</related-links>
+</concept>

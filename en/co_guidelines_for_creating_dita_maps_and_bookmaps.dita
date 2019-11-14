@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_guidelines_for_creating_dita_maps_and_bookmaps" xml:lang="en-US">
+<title>Guidelines for creating DITA maps and bookmaps</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_fb3_m24_sjb">
+<title>Mind Miller's Law (7±2)</title>
+<p id="p_gb3_m24_sjb">It is useful to take some time to structure your information in your DITA map. A well-organized structure can go a long way in helping your reader find and understand information. As such, it is useful to keep in mind the following guidelines.</p>
+<p id="p_s3b_r24_sjb">As much as it applies to creating sections within topics, Miller’s law (an average person can only hold 7±2 objects in working memory) applies to creating structure in your DITA map. As such, it is advised to create a parent topic with around seven child topics.</p>
+<p id="p_clv_r24_sjb">Additionally, the human mind can process about four concepts at a time, which means that when you start nesting topics, you should take care to create no more than four generations of topic families. The more you start nesting, the higher the chance the reader might start to lose track and forget how everything fits together.</p>
+</section>
+<section id="section_k11_cf4_sjb">
+<title>Use stub topics</title>
+<p id="p_l11_cf4_sjb">When you are organizing your topics into groups, avoid using topic headings (<codeph>topichead</codeph> elements). Instead, use stub or title topics: these are general topics that contain only a title.</p>
+<p id="p_ym3_sf4_sjb">This type of topic is automatically filled in with links to its child topics in output. If you want it to display content instead, you can use the @chunk attribute on this stub topic and enter the value <userinput>to-content</userinput>. This way all information from the child topics will be added to the stub topic in the output.</p>
+<p id="p_ghw_3g4_sjb">A stub topic as it appears in DITA:<fig id="fig_lzr_jg4_sjb">
+<image href="../_graphics/stub_topic.png" id="image_sf1_lg4_sjb"/>
+</fig></p>
+<p id="p_g4d_mg4_sjb">The same stub topic as it appears in webhelp. It only includes links to its child topics:<fig id="fig_qj5_pg4_sjb">
+<image href="../_graphics/stub_topic_webhelp.png" id="image_uwz_qg4_sjb"/>
+</fig></p>
+<p id="p_ryd_sg4_sjb">The same stub topic with the attribute @chunk and the value <userinput>to-content</userinput> added to it. The stub topic is automatically filled in with the information from the child topics:<fig id="fig_kgz_vg4_sjb">
+<image href="../_graphics/stub_topic_chunked.png" id="image_m1q_wg4_sjb"/>
+</fig></p>
+</section>
+<section id="section_myw_qh4_sjb">
+<title>Nest DITA-maps</title>
+<p id="p_nyw_qh4_sjb">To further enhance your structure, you can also use DITA maps nested within other DITA maps. This can help you organize your content more clearly by separating complex collections of topics into a number of smaller, simpler collections. </p>
+<p id="p_ajg_th4_sjb">You can, for instance:<ul id="ul_m34_th4_sjb">
+<li>organize your topics in separate DITA maps which represent different chapters. This way you enhance your structure to make it easier to navigate.</li>
+<li>re-use sets of topics. It is far easier to re-use a whole DITA map than it is to re-use every topic individually.</li>
+<li>divide your work load between colleagues. If everyone works in their designated DITA map, you decrease the risks of different writers working on the same file.</li>
+</ul></p>
+<note id="note_rd4_234_sjb" type="important">
+<p id="p_v5c_f34_sjb">Avoid nesting bookmaps within DITA maps as the structure will cause confusion for both processing software and documentation authors. Bookmaps should only be used at the top level.</p>
+</note>
+<draft-comment author="Kimberley.De.Moor">Hieronder nog extra xrefs toevoegen</draft-comment>
+</section>
+</conbody>
+<related-links>
+<link href="to_different_levels_of_content_re_use.dita"/>
+<link href="co_free_e_learning_course_learningdita.dita"/>
+<link href="co_guidelines_for_chunking_content.dita"/>
+</related-links>
+</concept>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_re_using_topics" xml:lang="en-US">
+<title>Re-using topics</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>Re-using topics is a very good way of making efficient use of your content. When you write your content according to the best-practice suggestions, your topics will be clear and self-contained, meaning they can easily be re-used elsewhere and still make sense.</p>
+<p id="p_l3h_dwm_sjb">The main way you can re-use a topic is by inserting it into multiple DITA maps. This way you essentially have a single repository of topics, and you link the ones you need in the relevant DITA map(s).<fig id="fig_qbx_3wm_sjb">
+<image href="../_graphics/dita_repository.png" id="image_ycf_kwm_sjb"/>
+</fig></p>
+<p id="p_vnz_4wm_sjb">There are types of topics that respond very well to being re-used like this, for instance:<ul id="ul_f5l_pwm_sjb">
+<li>Topics that contain standard text, such as legal information.</li>
+<li>Topics with a recurring information set, such as a procedure that must be done in multiple task flows or scenarios.</li>
+<li>Topics that need to appear in different sets of information. For example, when you need to add the same topic to a help system and to a PDF file for a user guide. </li>
+</ul></p>
+<note id="note_mth_lxm_sjb" type="tip">
+<p id="p_dvq_mxm_sjb">If you have a similar topic but with content that needs to be customized, you can create a DITA template instead. Writers can re-use that template to make similarly structured topics but with unique content.</p>
+</note>
+<note id="note_slf_nxm_sjb">
+<p id="p_igv_nxm_sjb">Using the same topic several times in the same DITA map can create problems when generating output (all links to the topic will point to the first instance of the topic). </p>
+<p id="p_opl_yxm_sjb">If you need the same topic to appear several times in the same map, you should use the @copy-to attribute. You enter a new filename in the @copy-to attribute of the <codeph>&lt;topicref></codeph> element. In this way, you create duplicate topic references in the DITA map without actually creating additional topics in the source files. You can then use the <codeph>&lt;linktext></codeph> and <codeph>&lt;shortdesc></codeph> elements in the <codeph>&lt;topicmeta></codeph> element of the topic reference to provide a unique title and short description to help you distinguish between the two in link previews.</p>
+<draft-comment author="Kimberley.De.Moor">Een aparte topic maken van deze note? (task-topic of troubleshooting)</draft-comment>
+</note>
+</conbody>
+</concept>

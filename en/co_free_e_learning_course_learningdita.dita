@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_free_e_learning_course_learningdita" xml:lang="en-US">
+<title>Free e-learning course LearningDITA</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_hb5_4sn_sjb">
+<p id="p_ob5_4sn_sjb">Scriptorium, one of our partners in the US, has launched the LearningDITA website.</p>
+<p id="p_lyr_3rn_sjb">It is a free and basic e-learning course for anyone who wants to learn DITA. You learn about the DITA specification and the different topic types in DITA, and also how to make bookmaps.</p>
+<p id="p_lkv_krn_sjb">The course itself is written in DITA, making use of the <xref href="http://oxygenxml.com/doc/m/dita1.2_spec/archSpec-learningTraining.html" format="html" scope="external">DITA-specialization for e-learning</xref>.</p>
+<p id="p_d31_lsn_sjb">More info on: <xref href="https://learningdita.com/about/" format="html" scope="external"/></p>
+</section>
+<section>
+<draft-comment author="Kimberley.De.Moor">Hieronder nog extra xrefs toevoegen</draft-comment>
+</section>
+</conbody>
+<related-links>
+<link href="to_different_levels_of_content_re_use.dita"/>
+</related-links>
+</concept>

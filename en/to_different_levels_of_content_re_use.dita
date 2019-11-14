@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="to_different_levels_of_content_re_use" xml:lang="en-US">
+<title>Different levels of content re-use</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<body>
+<p>
+<ul id="ul_lfc_5sn_sjb">
+<li><xref href="co_using_conrefs.dita"/></li>
+<li><xref href="co_re_using_elements.dita"/></li>
+<li><xref href="co_re_using_topics.dita"/></li>
+<li><xref href="co_re_using_dita_maps.dita"/></li>
+<li><xref href="co_re_using_content_from_non_dita_sources.dita"/></li>
+</ul>
+</p>
+</body>
+</topic>

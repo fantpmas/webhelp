@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_automatic_flowchart_generation" xml:lang="en-US">
+<title>Automatic flowchart generation</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>Some tools can generate flowcharts based on the DITA topics you have written.</p>
+<example>
+<p id="p_r3d_msm_sjb">TransforMagic from Intuillion</p>
+<p id="p_n3m_msm_sjb">Info: <xref href="http://intuillion.com/products/content-automation/videos/" format="html" scope="external"/></p>
+</example>
+</conbody>
+</concept>

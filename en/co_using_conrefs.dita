@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_using_conrefs" xml:lang="en-US">
+<title>Using content references (conrefs)</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>Content references (conrefs) are generally the smallest type of content re-use as you only reference a single element of your content. However, the size of the element may vary greatly from one word to an entire section.</p>
+<p id="p_ovp_xtm_sjb">You cannot conref loose bits of content; the text must always be embedded within its element tags. This is because text on its own cannot have an ID to reference, only elements can hold an ID. This also means you are bound by the DITA structure rules and need to re-use an element within its appropriate content. You cannot, for instance, conref a <codeph>&lt;step></codeph> element (used only in task topics) in a concept topic.</p>
+</conbody>
+</concept>

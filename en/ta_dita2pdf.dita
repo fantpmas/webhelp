@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ta_dita2pdf" xml:lang="en-US">
+<title>Publishing DITA files to PDF with DITA2PDF</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<taskbody>
+<context>
+<draft-comment author="Kimberley.De.Moor">Is "DITA2PDF" ook de naam van een transformatiescenario?</draft-comment>
+<p>DITA2PDF is a method of publishing DITA files to the PDF output format. Briefly summarized, you write texts in Oxygen and you publish them via FrameMaker:</p>
+</context>
+<steps>
+<step>
+<cmd>Write your content in Oxygen.</cmd>
+</step>
+<step id="step_xpz_jln_sjb">
+<cmd id="cmd_ypz_jln_sjb">Install the ditafmx-plugin for FrameMaker.</cmd>
+</step>
+<step id="step_fp2_mln_sjb">
+<cmd id="cmd_gp2_mln_sjb">Use the plugin to import your Oxygen files into FrameMaker. </cmd>
+<stepresult>The files will be transformed into FrameMaker files and a template (including layout) will be applied to the files.</stepresult>
+</step>
+<step id="step_iyv_pln_sjb">
+<cmd id="cmd_jyv_pln_sjb">If necessary, make some last-minute modifications to the text.</cmd>
+<info>
+<note id="note_odv_rln_sjb" type="note">Things to watch out for:<ul id="ul_q4m_zln_sjb">
+<li>Adjust the images to the right resolution.</li>
+<li>Resize the tables.</li>
+<li>Check if any spaces have disappeared (this can happen next to inline images).</li>
+<li>Check if all conditional text is correct.</li>
+<li>etc.</li>
+</ul></note>
+</info>
+</step>
+<step id="step_od3_2mn_sjb">
+<cmd id="cmd_pd3_2mn_sjb">Publish the document to PDF.</cmd>
+</step>
+</steps>
+</taskbody>
+</task>

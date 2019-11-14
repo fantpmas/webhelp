@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_think_about_the_phrasing_and_positioning_of_inline_links" xml:lang="en-US">
+<title>Think about the phrasing and positioning of inline links</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>For all their advantages, inline links are not without their flaws. Tests conducted by Jared Spool support the view that links outside of the text are more effective than inline, embedded links. Spool’s study concluded that:<ul id="ul_w1r_1l4_sjb">
+<li>Links are less usable when embedded in the text.</li>
+<li>Longer links are more effective than shorter ones.</li>
+<li>People scan for target words - the scent of information.</li>
+</ul></p>
+</conbody>
+</concept>

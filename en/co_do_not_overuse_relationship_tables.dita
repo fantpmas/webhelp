@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_do_not_overuse_relationship_tables" xml:lang="en-US">
+<title>Do not overuse relationship tables</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>Relationship tables are useful in linking content that does not get connected by the hierarchical linking system. Still, it is important not to start linking too much. What applies for inline linking, applies for relationship tables as well. Too many will only confuse the user.</p>
+<p id="p_jgl_3l4_sjb">A good general rule to keep in mind is that hierarchical linking is nearly error-proof and low maintenance. As such, it is a good system to rely on. Only start adding relationship tables if you need relevant topics of information to be linked for the user’s convenience. When you do, follow these guidelines:<ul id="ul_ffh_sm4_sjb">
+<li>Add links for sibling topics if you set the @linking attribute to <userinput>none</userinput> in the parent topic but want to have related links for a select few of the child topics.</li>
+<li>Add links between topics that would not otherwise be there in the hierarchy of links.</li>
+<li>Add links to topics outside of the hierarchy in the current DITA map.</li>
+<li>Keep the number of related links in each topic to fewer than five when possible.</li>
+</ul></p>
+</conbody>
+</concept>

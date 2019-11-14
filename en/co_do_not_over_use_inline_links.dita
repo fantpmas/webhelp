@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_do_not_over_use_inline_links" xml:lang="en-US">
+<title>Do not overuse inline links</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_oc2_w34_sjb">
+<p id="p_sc2_w34_sjb">It is easy to overuse inline links in your text, making it confusing to the reader. It is important to use them only when necessary and keep in mind the following guidelines:</p>
+</section>
+<section id="section_ec1_y34_sjb">
+<title>Avoid inline links to tables and figures in a topic</title>
+<p id="p_fc1_y34_sjb">Keep your topics short and self-contained. These links can become difficult to maintain when you update your topics, for instance by deleting a table or moving it to a different topic. They can also make it difficult to re-use topics. Instead, you can consider re-using the table or the figure somewhere else in the form of a content reference.</p>
+</section>
+<section id="section_imy_1j4_sjb">
+<title>Create inline links to repeated steps</title>
+<p id="p_jmy_1j4_sjb">You might use phrases such as ‘Repeat step 2 to add each topic to the DITA map’. In this case you will need to update this phrase every time you add a step before ‘step 2’. You can solve this by adding an <codeph>&lt;xref></codeph> element that links to the relevant step. In doing so, every time the numbering changes in the steps, the <codeph>&lt;xref></codeph> element will ensure the text changes automatically.</p>
+</section>
+<section id="section_ugv_rj4_sjb">
+<title><b>Create inline links to high-level tasks</b></title>
+<p id="p_vgv_rj4_sjb">If you have a manual that contains a task flow with too many task topics, the user might start to lose track of the big picture. As these tasks might be spread throughout your DITA map, you might not be able to take advantage of the default linking system. In this case, you can use inline links to show users a roadmap of the task flow they will have to follow. This way, they can plan for tasks they will need to complete in the future.</p>
+<draft-comment author="Kimberley.De.Moor">@PJ: "inline links" zijn toch hetzelfde als "inline cross references" he?</draft-comment>
+</section>
+</conbody>
+</concept>

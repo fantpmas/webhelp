@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_dita_for_kids" xml:lang="en-US">
+<title>DITA for kids</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>DITA for kids is a project teachers can make use of in class. The project itself is finished, but the code is open-source and can still be edited.</p>
+<p id="p_epb_pmn_sjb">Teachers can download and edit Wikipedia articles with the open-source tool. All content in the articles (including images) can be reused and edited in the DITA-editor. The teacher can then group the new topics in themes and publish everything to a package. This package can then be shared with other PCs.</p>
+<p id="p_fqs_ymn_sjb">The full explanation can be found on <xref href="http://dita.xml.org/node/2400" format="html" scope="external"/>.<draft-comment author="Kimberley.De.Moor">Deze link geeft een Privacy Error.</draft-comment></p>
+<p id="p_wr5_cnn_sjb">Don’t forget to take a look at the YouTube video: <object data="https://www.youtube.com/embed/Y0UDRi37MWM&amp;feature=youtu.be" outputclass="iframe">
+<param name="allowfullscreen"/>
+</object><draft-comment author="Kimberley.De.Moor">De youtube-video geeft ook een error-bericht (ook wanneer het gepubliceerd wordt naar de responsive webhelp).</draft-comment></p>
+</conbody>
+</concept>

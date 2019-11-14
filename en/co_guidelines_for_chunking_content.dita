@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_guidelines_for_chunking_content" xml:lang="en-US">
+<title>Guidelines for chunking content</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_jxp_z5n_sjb">
+<p id="p_qxp_z5n_sjb">The first challenge in topic-based authoring is chunking your content into discrete topics. It can be hard to determine the ideal length of a topic: it should be short enough to answer a single question yet still include enough information to stand on its own. Additionally, you should also keep in mind Miller’s law when chunking your content.</p>
+</section>
+<section id="section_n5v_z5n_sjb">
+<title>Answer a single question</title>
+<p id="p_o5v_z5n_sjb">Each topic should answer a single question. If you cannot grasp the content of a particular topic with a single question, you should split it into two or more smaller topics.</p>
+<p id="p_t2c_bvn_sjb">Which kind of question a particular topic answers, helps you to determine the information type of that topic:<table frame="all" id="table_fbq_dvn_sjb">
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1*"/>
+<thead>
+<row>
+<entry>Question</entry>
+<entry>Information type</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>How do I insert batteries in my camera?</entry>
+<entry>Task topic</entry>
+</row>
+<row>
+<entry>What is white balance?</entry>
+<entry>Concept topic</entry>
+</row>
+<row>
+<entry>What do these battery icons mean?</entry>
+<entry>Reference topic</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+</section>
+<section id="section_v3h_nvn_sjb">
+<title>Include enough information</title>
+<p id="p_w3h_nvn_sjb">Although a topic should only answer a single question, it should still contain enough information to make sense on its own. Which info the topic has to contain depends on the information type:<table frame="all" id="table_jtp_pvn_sjb">
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1*"/>
+<thead>
+<row>
+<entry>Information type</entry>
+<entry>Has to include enough info to</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Task topic</entry>
+<entry>Begin and complete a particular task</entry>
+</row>
+<row>
+<entry>Concept topic</entry>
+<entry>Grasp a particular concept</entry>
+</row>
+<row>
+<entry>Reference topic</entry>
+<entry>Look up and understand particular information</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<note id="note_ktw_yvn_sjb">Topics often include related content. A particular task topic can, for example, use concepts that are described in separate concept topics. As a result, it is impossible to make each topic completely autonomous. You can solve that problem by adding related links to your topic (using the <codeph>related-links</codeph> element); the body part of your topic remains discrete, while you still guide the user to the related information.</note>
+</section>
+<section id="section_acl_cxn_sjb">
+<title>Mind Miller's Law (7±2)</title>
+<p id="p_bcl_cxn_sjb">According to Miller’s law, an average person can only hold 7±2 objects in working memory. You should keep in mind this law when chunking content into topics. For instance, if you are writing a task topic and notice that it contains over ten steps, try to reduce the number of steps. You can do this by:<ul id="ul_atg_dyn_sjb">
+<li>grouping short steps. <note id="note_csk_gd4_sjb">For example, the following steps:<ol id="ul_xtq_5c4_sjb">
+<li>Choose <uicontrol>File</uicontrol></li>
+<li>Choose <uicontrol>New</uicontrol></li>
+<li>Choose <uicontrol>Topic</uicontrol></li>
+</ol>can be grouped into: Choose <menucascade>
+<uicontrol>File</uicontrol>
+<uicontrol>New</uicontrol>
+<uicontrol>Topic</uicontrol>
+</menucascade>.</note></li>
+<li>splitting your task into two or more subtasks. <note id="note_ucg_3d4_sjb">You can then include an overview topic that describes the entire process and refers to the different steps (subtasks) of that process.</note></li>
+</ul></p>
+<p id="p_uyc_nd4_sjb">The same goes for other lists. If you have a list of twenty safety instructions, for example, you can group the related instructions in separate sections. You can then also include a specific title for each group of safety instructions, to better guide the users.</p>
+<draft-comment author="Kimberley.De.Moor">Hieronder nog extra xrefs toevoegen</draft-comment>
+</section>
+</conbody>
+<related-links>
+<link href="to_different_levels_of_content_re_use.dita"/>
+<link href="co_free_e_learning_course_learningdita.dita"/>
+</related-links>
+</concept>

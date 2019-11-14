@@ -57,5 +57,35 @@
 </tgroup>
 </table></p>
 </section>
+<section id="section_g23_npm_sjb">
+<title>History</title>
+<p id="p_h23_npm_sjb">DITA was originally developed by IBM but since 2005 it is defined and maintained by OASIS, a non-profit consortium comprised of members from the technology industry, users and influencers.</p>
+</section>
+<section id="section_lq4_ppm_sjb">
+<title>Features</title>
+<draft-comment author="Kimberley.De.Moor">Hier nog xrefs toevoegen!</draft-comment>
+<p id="p_mq4_ppm_sjb">
+<ul id="ul_kc3_rpm_sjb">
+<li>Reuse (XX cross-reference XX)<ul id="ul_ggx_ypm_sjb">
+<li>single sourcing (content ↔ context)</li>
+<li>multichannel publishing (content ↔ output)</li>
+</ul></li>
+<li> Collaboration with other authors</li>
+<li>Minimalism (XX cross-reference XX)</li>
+<li>Structured authoring (XX cross-reference XX)</li>
+<li>Intelligent content</li>
+<li>Conditional content (XX cross-reference XX)</li>
+<li>Writing for translation</li>
+</ul>
+</p>
+<p id="p_kc4_5qm_sjb">DITA and structured authoring are closely related. The first three DITA features are also structured authoring features.</p>
+</section>
+<section id="section_jhl_wqm_sjb">
+<title>References</title>
+<p id="p_khl_wqm_sjb">As DITA is an open standard, you can consult the DITA specifications for free on the internet:<ul id="ul_ex5_yqm_sjb">
+<li>DITA 1.3: <xref href="http://docs.oasis-open.org/dita/dita/v1.3/errata01/os/complete/part0-overview/dita-v1.3-errata01-os-part0-overview-complete.html" format="html" scope="external"/></li>
+<li>DITA 1.2: <xref href="http://docs.oasis-open.org/dita/v1.2/os/spec/DITA1.2-spec.html" format="html" scope="external"/></li>
+</ul></p>
+</section>
 </conbody>
 </concept>

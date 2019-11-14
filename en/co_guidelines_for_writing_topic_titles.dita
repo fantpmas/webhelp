@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_guidelines_for_writing_topic_titles" xml:lang="en-US">
+<title>Guidelines for writing topic titles</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_kwb_vx4_sjb">
+<p id="p_lwb_vx4_sjb">Once you have decided which information you will include in a particular topic, you can choose an appropriate title for that topic. Well-chosen titles are crucial to the scannability of your document: they help users to quickly find the info they are looking for.</p>
+</section>
+<section id="section_hm3_wx4_sjb">
+<title>Reflect the content</title>
+<p id="p_im3_wx4_sjb">A good topic title reflects the content of the topic. Because most topics answer a specific question, you can use (a derivative of) that question as your title. For example:<table frame="all" id="table_vb1_1y4_sjb">
+<tgroup cols="3">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1*"/>
+<colspec colname="c3" colnum="3" colwidth="1*"/>
+<thead>
+<row>
+<entry>Information type</entry>
+<entry>Question</entry>
+<entry>Title</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Task topic</entry>
+<entry>How do I insert batteries in my camera?</entry>
+<entry>How to insert batteries in your camera</entry>
+</row>
+<row>
+<entry>Concept topic</entry>
+<entry>What is white balance?</entry>
+<entry>What is white balance</entry>
+</row>
+<row>
+<entry>Reference topic</entry>
+<entry>What do these battery icons mean?</entry>
+<entry>Overview of battery icons</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<p id="p_xxj_fy4_sjb">If you have a hard time finding a title that covers the content of a topic, that topic probably addresses more than one subject or includes several information types. You then have to split the topic into two or more smaller topics, so you can label them appropriately.</p>
+</section>
+<section id="section_ksh_gy4_sjb">
+<title>Be concise and specific</title>
+<p id="p_lsh_gy4_sjb">Concise topic titles are the best way to quickly guide the reader to the correct information. When you have written a title, always ask yourself if you cannot remove any words.</p>
+<p id="p_zwh_3y4_sjb">Although it might seem fun, avoid using puns, tropes and figures of speech. Technical documentation is not the place to give your literary aspirations free course.</p>
+<p id="p_y2t_3y4_sjb">However, you should also take care not to become too concise: your topic titles should still be specific. Vague topic titles are meaningless and do not speak to the user. When you have written a title, you should ask yourself if you do not have to add a word or two. Instead of using “Introduction” or “Overview” as a topic title, for example, specify what you are introducing or which information there is in the overview (“Introducing DITA”/“Getting started with DITA”, “Overview of DITA information types”).</p>
+</section>
+<section id="section_tbx_ly4_sjb">
+<title><b>Use consistent syntax</b></title>
+<p id="p_ubx_ly4_sjb">Use the same syntax for titles of similar topics or - if possible - for all topics of the same information type. Like that, the user immediately knows which kind of information he will find in the topic and can decide whether or not he has to read it.</p>
+<p id="p_jtb_ny4_sjb">“How to insert batteries in your camera”, “Inserting batteries in your camera”, “To insert batteries in your camera” or “Insert batteries in your camera”, for example, are all valid titles for a task topic. If you choose one formulation and use it for all your task topics, users can immediately distinguish task topics from concept and reference topics.</p>
+</section>
+</conbody>
+</concept>
