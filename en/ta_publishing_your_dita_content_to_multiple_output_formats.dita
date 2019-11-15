@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ta_publishing_your_dita_content_to_multiple_output_formats" xml:lang="en-US">
+<title>Publishing your DITA content to multiple output formats</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<taskbody>
+<context>
+<p>With the help of Oxygen, you can write one file and publish it to multiple output types, such as:<ul id="ul_kwy_g2w_sjb">
+<li>PDF</li>
+<li>DOCX</li>
+<li>EPUB</li>
+<li>Online help</li>
+<li>etc.</li>
+</ul></p>
+</context>
+<steps>
+<stepsection>To make outputs in different formats:</stepsection>
+<step>
+<cmd>Click <image href="../_graphics/configure.png" id="image_qff_q2w_sjb"/>.</cmd>
+<stepresult>The <wintitle>Configure transformation scenario(s)</wintitle> window opens.<fig id="fig_j2t_52w_sjb">
+<image href="../_graphics/configure_transformation_scenarios.png" id="image_srf_v2w_sjb"/>
+</fig></stepresult>
+</step>
+<step id="step_og1_1fw_sjb">
+<cmd id="cmd_pg1_1fw_sjb">Select all transformations you want to associate with the Oxygen project and click <uicontrol>Apply associated</uicontrol>.</cmd>
+<stepresult>The chosen transformations will be applied to the current project.</stepresult>
+</step>
+</steps>
+</taskbody>
+</task>

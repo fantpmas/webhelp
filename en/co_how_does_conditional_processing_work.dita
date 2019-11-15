@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_how_does_conditional_processing_work" xml:lang="en-US">
+<title>How does conditional processing work</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_xd2_wtv_sjb">
+<p id="p_yd2_wtv_sjb">Conditional processing means you apply attribute values to certain elements of your text. These values are then entered into a separate <filepath>DITAVAL</filepath> (DITA values) file in which you write rules that specify whether elements with those values need to be included, excluded (filtering) or flagged (highlighting). While generating output, the rules in this <filepath>DITAVAL</filepath> file are applied to the end-result. Below, the three main steps in conditional processing are described.</p>
+</section>
+<section id="section_ify_wtv_sjb">
+<title>Planning an attribute scheme</title>
+<p id="p_tbp_g5v_sjb">Before worrying about applying conditions, you should first establish a scheme and define exactly what you need to create conditions for. This way you can plan out which attributes you need and which values to assign to each of them. To do this, define your:</p>
+<ol id="ol_ubp_g5v_sjb">
+<li>Audience: who will use your product and what specific information do they need?</li>
+<li>Platform: which operating systems, platforms and other environments are used with your product?</li>
+<li>Product: which models/versions are you planning and how do they differ?</li>
+</ol>
+<note id="note_xnd_m5v_sjb" type="attention">
+<p id="p_kgz_m5v_sjb">Each of the items you define should receive a unique value in an attribute. Do not re-use value names in different attributes as this will lead to confusion for your writers.</p>
+</note>
+</section>
+<example>You want to teach your users how to save their files using Microsoft Word, but you know there are several version of Word on the market. As your documents only deal with Word 2003 and Word 2007, you plan your conditional attributes and values accordingly:<table frame="all" id="table_ey4_r5v_sjb">
+<tgroup cols="3">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1*"/>
+<colspec colname="c3" colnum="3" colwidth="1*"/>
+<thead>
+<row>
+<entry>Purpose</entry>
+<entry>Attribute</entry>
+<entry>Value</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Only for Word 2003</entry>
+<entry>@platform</entry>
+<entry>2003</entry>
+</row>
+<row>
+<entry>Only for Word 2007</entry>
+<entry>@platform</entry>
+<entry>2007</entry>
+</row>
+</tbody>
+</tgroup>
+</table></example>
+<section id="section_ad1_w5v_sjb">
+<title>Applying attributes</title>
+<p id="p_bd1_w5v_sjb">Once you have specified which values you need and in which circumstances you will need them, you can start applying them as you write. Applying them while writing is far easier than having to hunt through your documentation afterwards to find the elements that are product/audience specific.</p>
+<p id="p_fbx_y5v_sjb">You can apply conditional attribute values in:<table frame="all" id="table_y2k_z5v_sjb">
+<tgroup cols="2">
+<colspec colname="c2" colnum="1" colwidth="1*"/>
+<colspec colname="c3" colnum="2" colwidth="1*"/>
+<thead>
+<row>
+<entry>Element</entry>
+<entry>Purpose</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Topics</entry>
+<entry>Include, exclude or flag specific elements</entry>
+</row>
+<row>
+<entry>DITA maps</entry>
+<entry>Include or exclude whole topics</entry>
+</row>
+</tbody>
+</tgroup>
+</table><note id="note_h12_2vv_sjb">It is recommended to apply attributes to the topic references in the DITA map, and not to the <codeph>&lt;topic></codeph> element within the topic in question.</note></p>
+</section>
+<section id="section_f2d_mvv_sjb">
+<draft-comment author="Kimberley.De.Moor">Hieronder nog extra xref toevoegen</draft-comment>
+</section>
+</conbody>
+<related-links/>
+</concept>

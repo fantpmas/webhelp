@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_structure_vs__lay_out" xml:lang="en-US">
+<title>Structure vs. lay-out</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>DITA is an ideal writing tool as it helps you organize your content into specific elements embedded within a larger, universal structure. These structuring elements have nothing to do with a lay-out, instead they are fixed compartments in which you store your documentation. This also means that when your documentation is fully written, the DITA file cannot be published and immediately used as is.</p>
+<p id="p_cvj_yvv_sjb">The advantage of this universal (and free, open source) structure is that it can easily be opened in other programs more suited for publishing, such as publishing tools or DITA processors (oXygen, XMetaL), which will do the transformation for you. They transform your base DITA files into a publishable file of your choosing, and in doing so, apply a new lay-out on top of the structure. Lay-out, in this sense, is merely a layer that makes the structure more visible and accessible to the reader.</p>
+<p id="p_vlw_bwv_sjb">It is important to understand that the underlying structure is not changed when the DITA files are transformed. Your content does not change; it is merely put in a new outfit more suited to your needs.</p>
+<p id="p_ejv_cwv_sjb">In summary:<table frame="all" id="table_ydc_2wv_sjb">
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1*"/>
+<thead>
+<row>
+<entry>DITA structure</entry>
+<entry>Lay-out</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Focus on content</entry>
+<entry>Focus on appearance</entry>
+</row>
+<row>
+<entry>Fixed in unchanging elements</entry>
+<entry>Options change from program to program</entry>
+</row>
+<row>
+<entry>Will remain the same in different programs</entry>
+<entry>Might change if a document is opened in a different program</entry>
+</row>
+<row>
+<entry>Adheres to strict DITA rules</entry>
+<entry>Aheres to the rules of the individual programs and to the user's preferences</entry>
+</row>
+<row>
+<entry>Allows the user to focus on content</entry>
+<entry>Can distract the user from writing content</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+</conbody>
+</concept>

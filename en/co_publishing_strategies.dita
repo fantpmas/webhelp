@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_publishing_strategies" xml:lang="en-US">
+<title>Publishing strategies</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>There are several ways of publishing your documentation:<fig id="fig_t2k_vbw_sjb">
+<image href="../_graphics/publishing_documentation_scheme.png" id="image_ezx_wbw_sjb"/>
+</fig></p>
+<p id="p_nsv_gcw_sjb">These ways can be grouped into two main methods for publishing documentation:<ol id="ol_mfr_jcw_sjb">
+<li>
+<p id="p_h5l_lcw_sjb">The first method is by using the <xref href="co_what_is_the_dita_open_toolkit__ot.dita">DITA OT</xref> (Open Toolkit) that is embedded in many DITA editors, such as oXygen XML Editor. This makes the publishing process easier as you can apply the type of transformation you want directly to your files, using the same program in which you’ve written them. Your processor will then run the files through the toolkit and generate the output you want.</p>
+<p id="p_gxm_scw_sjb">While using the OT is easy at first, it may require a lot of work and understanding of the processes involved to achieve a proper result. More often than not, the output from the OT gives your text a very basic lay-out. When you write and publish for different clients and different products, you might need varying lay-outs. Therefore, you might need to adjust the process manually to achieve the desired result.</p>
+</li>
+<li>
+<p id="p_ygr_vcw_sjb">A second method that avoids this issue is <xref href="ta_dita2pdf.dita">DITA2PDF</xref>. Essentially, it involves using an intermediary program in which you can adjust the template of your lay-out accordingly before you publish to PDF. While it might still require some searching and puzzling, intermediary programs such as FrameMaker and Word tend to be more user-friendly and allow you to apply your desired lay-out template in one go.</p>
+</li>
+</ol></p>
+</conbody>
+</concept>
