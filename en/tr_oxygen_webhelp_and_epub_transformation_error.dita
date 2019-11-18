@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
 <troubleshooting id="tr_oxygen_webhelp_and_epub_transformation_error" xml:lang="en-US">
-<title>oXygen webhelp and EPUB transformation error</title>
+<title>Oxygen webhelp and EPUB transformation error</title>
 <prolog status="new">
 <author>Kimberley.De.Moor</author>
 <copyright status="new">
@@ -44,11 +44,11 @@
 <steps>
 <stepsection>In order to have a completely localized webhelp or EPUB file, follow this procedure:</stepsection>
 <step>
-<cmd>Make sure that all the topics in your project have the correct <codeph>xml:lang</codeph> code.</cmd>
+<cmd>Make sure that all the topics in your project have the correct <xmlatt>xml:lang</xmlatt> attribute.</cmd>
 </step>
 <step id="step_x4q_jcs_tjb">
 <cmd id="cmd_y4q_jcs_tjb">Look for the <filepath>strings-[lang1]-[lang2].xml</filepath> file in <filepath>DITA-OT-DIR/plugins/oxygen-webhelp-responsive/resources/localization</filepath> folder.</cmd>
-<stepxmp>For example, the Canadian French file would be: <filepath>strings-fr-ca.xml</filepath>.</stepxmp>
+<stepxmp>The Canadian French file would be: <filepath>strings-fr-ca.xml</filepath>.</stepxmp>
 </step>
 <step id="step_lxd_pcs_tjb">
 <cmd id="cmd_mxd_pcs_tjb">If the <filepath>strings-[lang1]-[lang2].xml</filepath> file does not exist, use the following procedure to create one:</cmd>
@@ -68,11 +68,17 @@
 </substeps>
 </step>
 <step id="step_x24_cds_tjb">
-<cmd id="cmd_y24_cds_tjb">Run Oxygen as administrator and run the predefined transformation scenario called <uicontrol>Run DITA OT Integrator</uicontrol> by executing it from the <wintitle>Apply Transformation Scenario(s)</wintitle> dialog box. If the integrator is not visible, select the <uicontrol>Show all scenarios</uicontrol> action that is available in the <uicontrol>Settings</uicontrol> drop-down menu.</cmd>
+<cmd id="cmd_y24_cds_tjb">Run Oxygen as administrator and run the predefined transformation scenario called <uicontrol>Run DITA OT Integrator</uicontrol> by executing it from the <wintitle>Apply Transformation Scenario(s)</wintitle> dialog box. </cmd>
+<info>
+<note id="note_fjh_t2s_tjb">If the integrator is not visible, select the <uicontrol>Show all scenarios</uicontrol> action that is available in the <uicontrol>Settings</uicontrol> drop-down menu.</note>
+</info>
 </step>
 <step id="step_msl_gds_tjb">
 <cmd id="cmd_nsl_gds_tjb">Edit the <uicontrol>WebHelp transformation scenario</uicontrol> and set the<parmname> args.default.language</parmname> parameter to the code of the language you want to localize.</cmd>
 <stepxmp><userinput>fr-ca</userinput> for Canadian French</stepxmp>
+<info>
+<draft-comment author="Kimberley.De.Moor">Nakijken of dit wel klopt.</draft-comment>
+</info>
 </step>
 <step id="step_eml_kds_tjb">
 <cmd id="cmd_fml_kds_tjb">Run the transformation scenario to produce the WebHelp output.</cmd>
