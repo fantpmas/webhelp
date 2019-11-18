@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_new_in_oxygen_19_0" xml:lang="en-US">
+<title>New in Oxygen 19.0</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>Text: <xref href="https://www.oxygenxml.com/xml_editor/whatisnew19.html" format="html" scope="external"/></p>
+<p id="p_j4b_d5r_tjb"><object data="https://www.youtube.com/embed/8zauzOSfyY4" outputclass="iframe">
+<param name="allowfullscreen"/>
+</object></p>
+<p id="p_rcp_h5r_tjb">If you do not have time to view the entire video, use this list with time stamps to view a particular topic at once.<ul id="ul_xqw_35r_tjb">
+<li>[0:30] Create (multiple) new topics at once and automatically add them to your DITA map</li>
+<li>[1:00] Convert topics to a different information type</li>
+<li>[1:23] DITA keydefs presented in a separate pane</li>
+<li>[1:45] Autocompletion in the webhelp search</li>
+<li>[2:01] Search for phrases in the webhelp by putting the text in quotes</li>
+<li>[2:24] Oxygen Chemistry (XML + CSS = PDF) makes it easier to style and customize your PDF output</li>
+<li>[3:07] Multimedia support: easily insert audio clips and video into your topics at the click of a button</li>
+</ul></p>
+<draft-comment author="Kimberley.De.Moor">Ook een nieuwe topic "New in Oxygen 21.0" maken.</draft-comment>
+</conbody>
+</concept>

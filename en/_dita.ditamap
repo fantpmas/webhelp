@@ -35,5 +35,38 @@
 </topicref>
 <topicref href="ta_publishing_your_dita_content_to_multiple_output_formats.dita"/>
 <topicref href="co_webcast__localization_and_the_dita_open_toolkit.dita"/>
+<topicref href="co_what_does_the_dita_open_toolkit__ot__do.dita"/>
+<topicref href="co_what_is_a_bookmap.dita"/>
+<topicref href="co_what_is_a_dita_map.dita"/>
+<topicref href="co_what_is_an_information_type.dita"/>
+<topicref href="co_what_is_a_topic.dita"/>
+<topicref href="co_what_is_conditional_processing.dita"/>
 <topicref href="co_what_is_the_dita_open_toolkit__ot.dita"/>
+<topicref href="co_why_re_use_content.dita"/>
+<topicref href="co_why_use_bookmaps.dita"/>
+<topicref href="co_why_use_conditional_processing.dita"/>
+<topicref href="co_why_use_dita_maps.dita"/>
+<topicref href="co_why_use_metadata.dita"/>
+<topicref href="co_xml_editors.dita">
+<topicref href="co_oxygen_xml.dita">
+<topicref href="to_glossaries_through_tooltips.dita">
+<topicref href="co_glossaries_versus_tooltips.dita"/>
+<topicref href="ta_creating_tooltips_in_oxygen_s_online_help_output.dita">
+<topicref href="ta_create_a_glossterm_topic.dita"/>
+<topicref href="ta_add_the_glossary_term_to_the_glossary_map.dita"/>
+<topicref href="ta_reference_the_glossary_term_in_a_topic.dita"/>
+</topicref>
+</topicref>
+<topicref href="co_new_in_oxygen_19_0.dita"/>
+<topicref href="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check.dita"/>
+<topicref href="co_quick_fixes.dita"/>
+<topicref href="co_responsive_online_help.dita">
+<topicref href="ta_selecting_dita_map_webhelp_responsive_as_output_format.dita"/>
+</topicref>
+<topicref href="tr_oxygen_webhelp_and_epub_transformation_error.dita"/>
+</topicref>
+</topicref>
+<topicref href="co_terminology.dita">
+<topicref href="co_information_type.dita"/>
+</topicref>
 </map>

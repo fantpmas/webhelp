@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ta_create_a_glossterm_topic" xml:lang="en-US">
+<title>Create a glossterm topic</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<taskbody>
+<steps>
+<step>
+<cmd>Select <menucascade>
+<uicontrol>File</uicontrol>
+<uicontrol>New</uicontrol>
+</menucascade>.</cmd>
+</step>
+<step id="step_gyh_m4r_tjb">
+<cmd id="cmd_hyh_m4r_tjb">In the <wintitle>New</wintitle> window, select <menucascade>
+<uicontrol>Framework templates</uicontrol>
+<uicontrol>DITA</uicontrol>
+<uicontrol>topic</uicontrol>
+<uicontrol>Learning</uicontrol>
+<uicontrol>Glossentry [DITA / topic]</uicontrol>
+</menucascade>.</cmd>
+</step>
+<step id="step_x3f_w4r_tjb">
+<cmd id="cmd_y3f_w4r_tjb">Click <uicontrol>Create</uicontrol>.</cmd>
+</step>
+<step id="step_rwc_x4r_tjb">
+<cmd id="cmd_swc_x4r_tjb">Fill out the <codeph>&lt;glossterm></codeph> and the <codeph>&lt;glossdef></codeph> elements.</cmd>
+</step>
+<step id="step_hvd_gpr_tjb">
+<cmd id="cmd_ivd_gpr_tjb">Save the glossentry topic in your project.</cmd>
+<info>
+<note id="note_wcg_jpr_tjb">You can give this topic any name you like, but for clarity’s sake, we suggest you start its name with <filepath>glos_</filepath>.</note>
+</info>
+</step>
+</steps>
+</taskbody>
+</task>

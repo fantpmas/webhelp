@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ta_add_the_glossary_term_to_the_glossary_map" xml:lang="en-US">
+<title>Add the glossary term to the glossary map</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<taskbody>
+<prereq id="prereq_hhr_4pr_tjb">
+<p id="p_kk4_ppr_tjb">Your publication needs to contain a glossary map. If this is not the case yet, add a ditamap to your publication.<note id="note_g4j_rpr_tjb">You can give this ditamap any name you like, but for clarity’s sake, we suggest you call it <filepath>_Glossary</filepath>.</note></p>
+</prereq>
+<steps>
+<step>
+<cmd>Open the <filepath>_Glossary</filepath> ditamap in the <uicontrol>DITA Maps Manager</uicontrol>.</cmd>
+</step>
+<step id="step_pxd_3qr_tjb">
+<cmd id="cmd_qxd_3qr_tjb">Right-click the <filepath>_Glossary</filepath> ditamap and select <menucascade>
+<uicontrol>Append child</uicontrol>
+<uicontrol>Glossary Reference…</uicontrol>
+</menucascade>.</cmd>
+</step>
+<step id="step_tsj_qqr_tjb">
+<cmd id="cmd_usj_qqr_tjb">Select your newly created glossentry topic.</cmd>
+</step>
+<step id="step_ktt_drr_tjb">
+<cmd id="cmd_ltt_drr_tjb">Click <uicontrol>Insert and close</uicontrol>.</cmd>
+<stepresult>Oxygen adds the topic to the <filepath>_Glossary</filepath>ditamap as a <codeph>&lt;glossref></codeph> but gives an error message that the <codeph>&lt;glossref></codeph> needs a key.</stepresult>
+</step>
+<step id="step_ydj_nrr_tjb">
+<cmd id="cmd_zdj_nrr_tjb">Open the publication or the <filepath>_Glossary</filepath> ditamap in the <wintitle>Author</wintitle> window.</cmd>
+</step>
+<step id="step_tds_5rr_tjb">
+<cmd id="cmd_uds_5rr_tjb">Select the newly added <filepath>&lt;glossref></filepath>.</cmd>
+</step>
+<step id="step_lrf_3sr_tjb">
+<cmd id="cmd_mrf_3sr_tjb">Fill out its <uicontrol>keys</uicontrol> attribute in the <wintitle>Attributes</wintitle> window.</cmd>
+<stepresult>You can give this <uicontrol>keys</uicontrol> attribute any name you like, but for clarity’s sake, we suggest you give it the same name as its <codeph>&lt;glossterm></codeph> or title.</stepresult>
+</step>
+<step id="step_ixs_msr_tjb">
+<cmd id="cmd_jxs_msr_tjb">Save your changes.</cmd>
+</step>
+</steps>
+</taskbody>
+</task>

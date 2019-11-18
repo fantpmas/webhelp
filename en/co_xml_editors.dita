@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_xml_editors" xml:lang="en-US">
+<title>XML editors</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_e5p_vhr_tjb">
+<p id="p_i5p_vhr_tjb">Since DITA is an open standard, it can of course be edited from any text editor such as Notepad++ or other text editing tools. However, most editing tools don’t have support for the specific DITA standard. For this you need a DITA authoring tool. The following tools are used within our company:</p>
+</section>
+<section id="section_hml_whr_tjb">
+<title>Technical editors</title>
+<p id="p_iml_whr_tjb">These editors give you the ability to ‘hide’ the tags while writing, allowing you to focus on the content while still writing structured XML documents.<ul id="ul_rgh_b3r_tjb">
+<li><b>Adobe FrameMaker</b> in Structured mode. In structured mode, you can edit DITA XML documents right from the familiar FrameMaker interface.</li>
+<li><b>Oxygen XML</b> is an editor especially for DITA. It consists of a few separate packages, with an ever-growing range of products:<ul id="ul_b3v_hjr_tjb">
+<li><b>Oxygen XML Editor</b> is the complete package, meant for people that do technical writing as well as developing DITA Schemas and transformations.</li>
+<li><b>Oxygen XML Author</b> is meant for technical writers. With this package you get a more user-friendly interface and most complicated DITA options are well-hidden in the interface.</li>
+<li><b>Oxygen XML Web Author</b> builds on the <b>Author</b> version, allowing online collaboration between different teams and automatic cloud storage.</li>
+<li><b>Oxygen XML Developer</b> is meant for documentation architects and designers. It is a tool you can use to determine how the documentation in the team should be structured and what the output should look like.</li>
+</ul></li>
+<li>
+<draft-comment author="Kimberley.De.Moor">@PJ: Bestaat er ook een element voor de naam van softwareprogramma's?</draft-comment>
+</li>
+</ul></p>
+</section>
+<section id="section_rjm_rjr_tjb">
+<title>User-friendly editors</title>
+<p id="p_sjm_rjr_tjb">DITA and XML both have a reputation of being complicated, with their tags and attributes. Recently, however, more and more user-friendly editors are being developed.</p>
+<p id="p_zz3_5jr_tjb">Some examples:<ul id="ul_igs_5jr_tjb">
+<li><xref href="https://www.fontoxml.com/" format="html" scope="external">Fonto Editor</xref>, made in The Netherlands, can be useful for the following scenario:<ol id="ul_zww_1kr_tjb">
+<li>Subject Matter Experts (SME’s) write reasonable structured topics</li>
+<li>Technical writer improves structure within the Fonto Editor or an alternative DITA-editor</li>
+</ol></li>
+<li><xref href="http://paligo.net/" format="html" scope="external">Paligo</xref>, made in Sweden</li>
+</ul></p>
+</section>
+</conbody>
+</concept>

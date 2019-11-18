@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_what_does_the_dita_open_toolkit__ot__do" xml:lang="en-US">
+<title>What does the DITA Open Toolkit (OT) do</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_o32_j1q_tjb">
+<title>What it does</title>
+<p id="p_ul2_k1q_tjb">The main goal of the DITA OT is transforming DITA content (maps and topics) into output formats such as PDF, XHTML, Help formats… This is often done by using a DITA editor such as Oxygen which has already integrated the OT into its programming.</p>
+<fig id="fig_e4h_n1q_tjb">
+<image href="../_graphics/dita_open_toolkit.png" id="image_hrz_n1q_tjb"/>
+</fig>
+<p id="p_m3j_t1q_tjb">All transformations require a base XML document (like what you see in the Oxygen Text view). This document is then transformed according to an XSL stylesheet, which contains your information and describes how it needs to be displayed. To this end, an XSL consists of three parts:</p>
+<ul id="ul_n3j_t1q_tjb">
+<li><term>XSL-T</term> (XSL Transformations): a language for transforming XML documents</li>
+<li><term>XML-Path</term> (Path Language): an expression language used by XSL-T to access or refer parts of an XML document</li>
+<li><term>XSL-FO</term> (XSL Formatting Objects): an XML vocabulary for specifying formatting semantics</li>
+</ul>
+<draft-comment author="Kimberley.De.Moor">@PJ: Welk element gebruik ik voor deze 3 onderdelen van XSL?</draft-comment>
+</section>
+<section id="section_n4n_hbq_tjb">
+<title>What it doesn't do</title>
+<p id="p_o4n_hbq_tjb">As the DITA OT is a free, open-source engine, it will not instantly give you a usable end-product. Concretely, when you generate a PDF from the OT, the PDF will display a very basic lay-out of low to medium quality. In order to change this into high-quality material, you need to customize the OT as well as engage in some XSL-FO development work.</p>
+</section>
+</conbody>
+<related-links>
+<link href="co_webcast__localization_and_the_dita_open_toolkit.dita"/>
+<link href="co_what_is_the_dita_open_toolkit__ot.dita"/>
+</related-links>
+</concept>

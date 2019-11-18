@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_what_is_a_bookmap" xml:lang="en-US">
+<title>What is a bookmap</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>A bookmap is a specialization of a <xref href="co_what_is_a_dita_map.dita">DITA map</xref> and is meant to be used when you intend to publish your documents in a book format. It contains structure and metadata, but no content. It is especially designed to create output in book-style formation and therefore includes the following major structures:<ul id="ul_v2n_tfq_tjb">
+<li>title</li>
+<li> bookmeta (owners, authors, publishing data,…)</li>
+<li>front matter (acknowledgements, definitions, abbrevations,…)</li>
+<li>chapters and parts</li>
+<li>appendix topics</li>
+<li>back matter (index, notices, lists,…)</li>
+<li>relationship tables</li>
+</ul><fig id="fig_yh1_bgq_tjb">
+<image href="../_graphics/ditamap.png" id="image_vdn_bgq_tjb"/>
+</fig></p>
+</conbody>
+<related-links>
+<link href="to_different_levels_of_content_re_use.dita"/>
+<link href="co_free_e_learning_course_learningdita.dita"/>
+<link href="co_guidelines_for_chunking_content.dita"/>
+<link href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
+<link href="to_guidelines_for_creating_links.dita"/>
+<link href="co_what_is_a_bookmap.dita"/>
+<link href="co_why_use_bookmaps.dita"/>
+<link href="co_what_is_a_dita_map.dita"/>
+<link href="co_what_is_an_information_type.dita"/>
+<link href="co_what_is_a_topic.dita"/>
+<link href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
+</related-links>
+</concept>

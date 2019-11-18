@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="tr_oxygen_webhelp_and_epub_transformation_error" xml:lang="en-US">
+<title>oXygen webhelp and EPUB transformation error</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<troublebody>
+<condition>
+<title>Condition</title>
+<p>When publishing a project using a transformation scenario, you might see an error message like this:<fig id="fig_w5v_bcs_tjb">
+<image href="../_graphics/epub.jpg" id="image_qsp_dcs_tjb"/>
+</fig></p>
+</condition>
+<troubleSolution>
+<cause>
+<title>Cause</title>
+<p>It is possible that the language you are writing in isn’t defined in Oxygen. In that case, words such as Chapter, Search and Part might not be translated when creating output.</p>
+</cause>
+<remedy>
+<title>Remedy</title>
+<steps>
+<stepsection>In order to have a completely localized webhelp or EPUB file, follow this procedure:</stepsection>
+<step>
+<cmd>Make sure that all the topics in your project have the correct <codeph>xml:lang</codeph> code.</cmd>
+</step>
+<step id="step_x4q_jcs_tjb">
+<cmd id="cmd_y4q_jcs_tjb">Look for the <filepath>strings-[lang1]-[lang2].xml</filepath> file in <filepath>DITA-OT-DIR/plugins/oxygen-webhelp-responsive/resources/localization</filepath> folder.</cmd>
+<stepxmp>For example, the Canadian French file would be: <filepath>strings-fr-ca.xml</filepath>.</stepxmp>
+</step>
+<step id="step_lxd_pcs_tjb">
+<cmd id="cmd_mxd_pcs_tjb">If the <filepath>strings-[lang1]-[lang2].xml</filepath> file does not exist, use the following procedure to create one:</cmd>
+<substeps>
+<substep>
+<cmd id="cmd_zhk_rcs_tjb">Copy the <filepath>…/localization/strings-en-us.xml</filepath> file. Change the name and open it.</cmd>
+</substep>
+<substep>
+<cmd id="cmd_mch_5cs_tjb">Add all the labels found in the <filepath>DITA-OT_DIR/xsl/common/strings-en-us.xml</filepath> file and paste them into your file.</cmd>
+</substep>
+<substep>
+<cmd id="cmd_mfk_vcs_tjb">Translate all the labels from the above language file. Labels are stored in XML elements that have the following format: <codeph>&lt;str name=“Label name”>Caption&lt;/str></codeph>.</cmd>
+</substep>
+<substep>
+<cmd id="cmd_jsp_xcs_tjb">Add the new language to the <filepath>strings.xml</filepath> file in the <filepath>localization</filepath> folder by adding <codeph>&lt;lang xml:lang=“nl-nl” filename=“strings-[lang1]-[lang2].xml”/></codeph>.</cmd>
+</substep>
+</substeps>
+</step>
+<step id="step_x24_cds_tjb">
+<cmd id="cmd_y24_cds_tjb">Run Oxygen as administrator and run the predefined transformation scenario called <uicontrol>Run DITA OT Integrator</uicontrol> by executing it from the <wintitle>Apply Transformation Scenario(s)</wintitle> dialog box. If the integrator is not visible, select the <uicontrol>Show all scenarios</uicontrol> action that is available in the <uicontrol>Settings</uicontrol> drop-down menu.</cmd>
+</step>
+<step id="step_msl_gds_tjb">
+<cmd id="cmd_nsl_gds_tjb">Edit the <uicontrol>WebHelp transformation scenario</uicontrol> and set the<parmname> args.default.language</parmname> parameter to the code of the language you want to localize.</cmd>
+<stepxmp><userinput>fr-ca</userinput> for Canadian French</stepxmp>
+</step>
+<step id="step_eml_kds_tjb">
+<cmd id="cmd_fml_kds_tjb">Run the transformation scenario to produce the WebHelp output.</cmd>
+</step>
+</steps>
+</remedy>
+</troubleSolution>
+</troublebody>
+</troubleshooting>

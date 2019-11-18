@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ta_reference_the_glossary_term_in_a_topic" xml:lang="en-US">
+<title>Reference the glossary term in a topic</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<taskbody>
+<steps>
+<step>
+<cmd>In a topic, select the words for which you wish to show a tooltip.</cmd>
+</step>
+<step id="step_o1s_dtr_tjb">
+<cmd id="cmd_p1s_dtr_tjb">Surround them with a <codeph>&lt;term></codeph> element.</cmd>
+</step>
+<step id="step_qjv_dtr_tjb">
+<cmd id="cmd_rjv_dtr_tjb">In the <uicontrol>Attributes</uicontrol> window, open the <uicontrol>keyref</uicontrol> attribute list by clicking the downward arrow in the <uicontrol>keyref</uicontrol> field. </cmd>
+<stepresult>It lists all possible glossentries for your publication.</stepresult>
+</step>
+<step id="step_ysz_dtr_tjb">
+<cmd id="cmd_zsz_dtr_tjb">Select the appropriate <uicontrol>keyref</uicontrol>.</cmd>
+</step>
+<step id="step_czc_2tr_tjb">
+<cmd id="cmd_dzc_2tr_tjb">Save your changes.</cmd>
+</step>
+</steps>
+</taskbody>
+</task>

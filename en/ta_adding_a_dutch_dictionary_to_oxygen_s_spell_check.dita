@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check" xml:lang="en-US">
+<title>Adding a Dutch dictionary to Oxygen's Spell Check</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<taskbody>
+<context>
+<p>If you use Oxygen to write Dutch texts, you can add a Dutch dictionary to the spell checker.</p>
+<draft-comment author="Kimberley.De.Moor">@PJ: Hoe deze eerste 2 stappen aanpassen?</draft-comment>
+</context>
+<steps>
+<stepsection>Proceed as follows to install the Dutch dictionary in Oxygen:</stepsection>
+<step>
+<cmd>Locate the following file: <filepath>S: \ temp \ hunspell_NL </filepath><draft-comment author="Kimberley.De.Moor">⇒ LINK NEEDS TO BE UPDATED</draft-comment></cmd>
+</step>
+<step id="step_sgg_w5r_tjb">
+<cmd id="cmd_tgg_w5r_tjb">Copy both files to <filepath>C: \ Program Files \ Oxygen XML Author 20 \ dicts \ spell</filepath>.<draft-comment author="Kimberley.De.Moor">Both files?</draft-comment></cmd>
+</step>
+<step id="step_ftz_1vr_tjb">
+<cmd id="cmd_gtz_1vr_tjb">Restart Oxygen.</cmd>
+</step>
+<step id="step_yb1_cvr_tjb">
+<cmd id="cmd_zb1_cvr_tjb">Make sure the language of your topics is set to NL, so for example: <codeph>&lt;task xml: lang = “nl”></codeph>.</cmd>
+</step>
+<step id="step_g4z_dvr_tjb">
+<cmd id="cmd_h4z_dvr_tjb">Do one of the following:</cmd>
+<choicetable frame="all" relcolwidth="1* 1*" id="choicetable_sjk_3wr_tjb">
+<chhead>
+<choptionhd>If you prefer ...</choptionhd>
+<chdeschd>select ...</chdeschd>
+</chhead>
+<chrow>
+<choption>Automatic spell check</choption>
+<chdesc><menucascade>
+<uicontrol>Options</uicontrol>
+<uicontrol>Preferences</uicontrol>
+<uicontrol>Spell Check</uicontrol>
+<uicontrol>Automatic spell check</uicontrol>
+</menucascade></chdesc>
+</chrow>
+<chrow>
+<choption>Manual spell check</choption>
+<chdesc><menucascade>
+<uicontrol>Edit</uicontrol>
+<uicontrol>Check Spelling or Edit</uicontrol>
+<uicontrol>Check Spelling in Files</uicontrol>
+</menucascade></chdesc>
+</chrow>
+</choicetable>
+</step>
+</steps>
+</taskbody>
+</task>

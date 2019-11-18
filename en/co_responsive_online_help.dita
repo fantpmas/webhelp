@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_responsive_online_help" xml:lang="en-US">
+<title>Responsive online help</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>One of the outputs you can select in Oxygen is <uicontrol>DITA Map Webhelp Responsive</uicontrol>.The name comes from the system’s ability to adapt to any device or screen size to provide an optimal viewing and interaction experience.<fig id="fig_kqf_l1s_tjb">
+<image href="../_graphics/result_of_oxygen_s_webhelp_responsive.png" id="image_cyv_n1s_tjb"/>
+</fig></p>
+<p id="p_oyf_s1s_tjb">The skins exist in two versions:<draft-comment author="Kimberley.De.Moor">@PJ: "The skins"? Hier moet waarschijnlijk een definitie van toegevoegd worden.</draft-comment><ul id="ul_pyf_s1s_tjb">
+<li>The first-level topics in tiles.</li>
+<li>The first- and second-level topics as a tree.</li>
+</ul>For more information, see <xref href="https://www.oxygenxml.com/doc/versions/18/ug-editor/topics/webhelp-responsive-description.html" format="html" scope="external">https://www.oxygenxml.com/doc/versions/18/ug-editor/topics/webhelp-responsive-description.html</xref>.</p>
+</conbody>
+<related-links>
+<link href="ta_selecting_dita_map_webhelp_responsive_as_output_format.dita"/>
+</related-links>
+</concept>

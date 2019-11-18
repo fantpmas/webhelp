@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_what_is_conditional_processing" xml:lang="en-US">
+<title>What is conditional processing</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>Conditional processing is a method through which content can be included, excluded or highlighted in the output, allowing you to create different output from a single source file.</p>
+<p id="p_kym_rlq_tjb">In essence, conditional processing is a form of content re-use, though rather than using one item of information (through a conref) in different files, you contain everything in one file and filter out what you don’t need. It is at its most useful when you write nearly identical information for very similar products, so you do not need to write and maintain separate but mostly similar manuals. Conditional processing allows you to write just one manual which contains everything, and then highlights or filters out the necessary information during the publishing process.<fig id="fig_rqx_smq_tjb">
+<image href="../_graphics/filtering_content.png" id="image_nz5_yqq_tjb"/>
+</fig></p>
+<p id="p_gxj_4rq_tjb">Highlighting and filtering content is done by applying attributes to the information that differs per product/model. These attributes can then be used to:</p>
+<ul id="ul_hxj_4rq_tjb">
+<li>Highlight the content as only being valid for a certain version or model (for example: information that only applies for Windows or Mac).</li>
+<li>Filter out that content when output is being generated.</li>
+</ul>
+</conbody>
+</concept>

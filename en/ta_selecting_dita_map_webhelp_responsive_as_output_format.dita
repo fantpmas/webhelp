@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ta_selecting_dita_map_webhelp_responsive_as_output_format" xml:lang="en-US">
+<title>Selecting DITA Map Webhelp Responsive as output format</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<taskbody>
+<steps>
+<stepsection>Proceed as follows:</stepsection>
+<step>
+<cmd>Click <image href="../_graphics/configure.png" id="image_ncm_pbs_tjb"/>.</cmd>
+</step>
+<step id="step_epr_pbs_tjb">
+<cmd id="cmd_fpr_pbs_tjb">Select <uicontrol>DITA Map Webhelp Responsive</uicontrol>, with or without <uicontrol>feedback</uicontrol>.</cmd>
+</step>
+<step id="step_fdb_rbs_tjb">
+<cmd id="cmd_gdb_rbs_tjb">Click <uicontrol>Duplicate</uicontrol>.</cmd>
+</step>
+<step id="step_xxn_sbs_tjb">
+<cmd id="cmd_yxn_sbs_tjb">Give your copy a name.</cmd>
+</step>
+<step id="step_tzc_tbs_tjb">
+<cmd id="cmd_uzc_tbs_tjb">In tab <uicontrol>Templates</uicontrol>, select your skin.</cmd>
+</step>
+<step id="step_k1f_5bs_tjb">
+<cmd id="cmd_l1f_5bs_tjb">Adapt the other tabs where necessary.</cmd>
+</step>
+<step id="step_ghz_5bs_tjb">
+<cmd id="cmd_hhz_5bs_tjb">Click <uicontrol>OK</uicontrol>.</cmd>
+</step>
+</steps>
+</taskbody>
+<related-links>
+<link href="co_responsive_online_help.dita"/>
+</related-links>
+</task>

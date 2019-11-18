@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_why_re_use_content" xml:lang="en-US">
+<title>Why re-use content</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_jj2_b5q_tjb">
+<p id="p_kj2_b5q_tjb">Content re-use is one of the most important advantages of using DITA for authoring: it allows you to create content once and then re-use it wherever you need it again. Of course, if you want to take advantage of this feature, you have to write your topics in a way that they still make sense in different contexts, meaning your topics need to be self-contained snippets of content. When that is the case, you can enjoy the following merits of content re-use.</p>
+</section>
+<section id="section_a1l_b5q_tjb">
+<title>Efficiency</title>
+<p id="p_b1l_b5q_tjb">
+<ul id="ul_gk2_c5q_tjb">
+<li>By re-using content, you only have to write a certain topic once and you can re-use it in other locations. This means you free up time to create more content.</li>
+<li>You reduce your maintenance time and costs as you only need to adjust your original topic once and all locations where the topic is used will automatically be updated accordingly. This way you save time as you do not need to search through your entire document for the other snippets of text that also need to be changed.</li>
+<li>You reduce translation costs as the topic only needs to be translated once.</li>
+</ul>
+</p>
+</section>
+<section id="section_wjj_hvq_tjb">
+<title>Consistensy and accuracy</title>
+<p id="p_xjj_hvq_tjb">By re-using content, you ensure consistency everywhere as the re-used content is the same in all places. Similarly, updated content is going to be the same everywhere so you can be sure the correct changes are applied to every relevant topic. This means you also reduce human error that could be caused by different writers updating all information.</p>
+</section>
+<section id="section_ztj_kvq_tjb">
+<title>Risk management</title>
+<p id="p_a5j_kvq_tjb">By re-using content, you reduce the risks that come with last-minute changes as your content is easier to update; you ensure that all instances are updated at once. If you need to update every instance of an element, the risk is far higher that one or two mistakes will slip through.</p>
+</section>
+</conbody>
+</concept>

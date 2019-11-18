@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_why_use_conditional_processing" xml:lang="en-US">
+<title>Why use conditional processing</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>When you write documentation for a certain series of products, several products can share much information. For instance, the task describing how to install an appliance can largely be shared between different models or versions of that appliance. At the same time, each model might have its own unique requirements for the installation procedure.</p>
+<p id="p_dlb_lwq_tjb">Rather than having to rewrite the whole procedure for each model, you can include all information in one topic or map and apply conditional attributes to the model-specific information. When you later publish this information, you can use these attributes to either highlight relevant information per model or filter out unwanted information.</p>
+<p id="p_kqy_mwq_tjb">Concretely, conditional processing allows you to:<ul id="ul_wyh_nwq_tjb">
+<li>Create different output from a single topic by filtering out unnecessary information for each output type. This way you only have to maintain one core set of topics and automatically ensure that all generated versions of it contain the same up-to-date shared content.</li>
+<li>Highlight specific content: for instance, information which is only relevant to a specific version of a program.</li>
+<li>Improve how writers find specific content: writers can find topics in their content management systems by searching for information about the topics, such as feature numbers or product names.</li>
+</ul></p>
+</conbody>
+<related-links>
+<link href="co_how_does_conditional_processing_work.dita"/>
+</related-links>
+</concept>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_why_use_metadata" xml:lang="en-US">
+<title>Why use metadata</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_z25_mzq_tjb">
+<p id="p_af5_mzq_tjb">Metadata is of essential importance when organizing information. By correctly creating and applying metadata you can make it easier to search through information which is relevant to your company or organization. This way, you can add digital identifying criteria to your documents, which help you organize your resources in a digital information architecture.</p>
+</section>
+<section id="section_gzn_4zq_tjb">
+<title>What is metadata?</title>
+<p id="p_hzn_4zq_tjb">Metadata is data that provides information about other data. That information can contain a lot of things:<ul id="ul_ikz_pzq_tjb">
+<li>Content</li>
+<li>Facts</li>
+<li>Records</li>
+<li>Tools</li>
+<li>Data</li>
+<li>...</li>
+</ul></p>
+</section>
+<section id="section_wdk_szq_tjb">
+<title>What types of metadata are there?</title>
+<p id="p_xdk_szq_tjb">Metadata of documents are not set in stone. As the owner of a document, you can add and delete metadata as you wish. But it is essential, when saving documents in an organization or company, that there is one administrator who created well-thought-out rules.</p>
+<p id="p_ul4_b1r_tjb">Some examples of common metadata include:<ul id="ul_ysd_c1r_tjb">
+<li>Author or creator of the file or document</li>
+<li>Time and date of creation</li>
+<li>File size</li>
+</ul></p>
+<p id="p_wpb_21r_tjb">These examples occur frequently when applying metadata. But you can add different types of metadata to files if you think that is necessary. For example: if you’re working in Photoshop, Lightroom or other graphic editors, it is not uncommon to add metadata that apply to the size of the picture or the location where the picture was taken.<ul id="ul_q5q_h1r_tjb">
+<li>How large is the picture?</li>
+<li>Which colors are being used?</li>
+<li>Where has the picture been taken?</li>
+</ul></p>
+<p id="p_tkw_j1r_tjb">But you can even go further: Which mood does this picture provoke? The possibilities with metadata are infinite.</p>
+</section>
+<section id="section_a1k_k1r_tjb">
+<title>International standards for metadata</title>
+<p id="p_b1k_k1r_tjb">The possibilities may be endless, but they are bound by international standards. The most important of these are the American National Standards Institute (ANSI) and the International Organization for Standardization (ISO). The most exalted metadata standard is ISO/IEC 11179 Metadata Registries (MDR).</p>
+</section>
+<section id="section_t5s_n1r_tjb">
+<title>Sources</title>
+<p id="p_u5s_n1r_tjb">
+<ul id="ul_wsy_41r_tjb">
+<li><xref href="http://oxforddictionaries.com/" format="html" scope="external"/></li>
+<li><xref href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=39438" format="htm" scope="external"/></li>
+</ul>
+</p>
+</section>
+</conbody>
+</concept>

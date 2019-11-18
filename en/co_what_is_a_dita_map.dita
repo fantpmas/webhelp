@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_what_is_a_dita_map" xml:lang="en-US">
+<title>What is a DITA map</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_lvc_vgq_tjb">
+<p id="p_tvc_vgq_tjb">A DITA map is a collection of <xref href="co_what_is_a_topic.dita">topics</xref> assembled into a sequence and hierarchy.</p>
+</section>
+<section id="section_ay3_vgq_tjb">
+<title>Description</title>
+<p id="p_by3_vgq_tjb">DITA maps are files with the extension <filepath>.ditamap</filepath>. Unlike topics, DITA maps shouldn’t contain any content of their own. Instead, they contain references to the content and provide a structure for these references. In this sense, you can best compare a DITA map to an outline that describes the hierarchy and the order of its topics.</p>
+</section>
+<section id="section_b5y_xgq_tjb">
+<title>Hierarchy and nesting</title>
+<p id="p_c5y_xgq_tjb">DITA maps contain the structure of your topic references. This structure resembles a table of contents and helps your reader locate the required information. To create a meaningful structure, you can group relevant topics together and nest them under a topic grouping or a title topic. The head topic is referred to as the ‘parent topic’ and the nested topics underneath it as its ‘child topics’. The relationship between the child topics is defined as ‘siblings’.<fig id="fig_ipz_2hq_tjb">
+<image href="../_graphics/dita_map_tree.png" id="image_h14_fhq_tjb"/>
+</fig></p>
+</section>
+<example>
+<p id="p_r2n_g3q_tjb">Here you can see the table-of-contents-like structure of a DITA map created by the nested topics:</p>
+<fig id="fig_ijx_h3q_tjb">
+<image href="../_graphics/dita_map_tree_structure.png" id="image_hzn_33q_tjb"/>
+</fig>
+</example>
+</conbody>
+<related-links>
+<link href="to_different_levels_of_content_re_use.dita"/>
+<link href="co_free_e_learning_course_learningdita.dita"/>
+<link href="co_guidelines_for_chunking_content.dita"/>
+<link href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
+<link href="to_guidelines_for_creating_links.dita"/>
+<link href="co_what_is_a_bookmap.dita"/>
+<link href="co_what_is_a_topic.dita"/>
+<link href="co_what_is_an_information_type.dita"/>
+</related-links>
+</concept>

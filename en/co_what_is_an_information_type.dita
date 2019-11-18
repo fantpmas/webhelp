@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_what_is_an_information_type" xml:lang="en-US">
+<title>What is an information type</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>DITA distinguishes different types of topics, each intended for a particular type of information. These topic types are therefore also called information types. A well-written topic includes only one type of information.</p>
+<p id="p_mvs_s3q_tjb">The three core information types in DITA are task topics, concept topics and reference topics. Generic topics and composite topics should only be used for specific purposes:<table frame="all" id="table_brk_x3q_tjb">
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1*"/>
+<thead>
+<row>
+<entry>Type</entry>
+<entry>Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><uicontrol>Task</uicontrol></entry>
+<entry>Task topics include the steps of a particular task or procedure. They answer the question “How to…?”.</entry>
+</row>
+<row>
+<entry><uicontrol>Concept</uicontrol></entry>
+<entry>Concept topics include background information that users must know (e.g. definitions, examples…) before executing a particular task or procedure. They answer the question “What is…?”.</entry>
+</row>
+<row>
+<entry><uicontrol>Reference</uicontrol></entry>
+<entry>Reference topics provide quick access to simple facts. Reference information is often presented as a list or a table (e.g. an overview of error codes, a bibliography…).</entry>
+</row>
+<row>
+<entry><uicontrol>Generic</uicontrol></entry>
+<entry>Generic topics are designed as a starting point for specialization. We use them, however, to create title-only topics (stub topics) when composing a DITA map.</entry>
+</row>
+<row>
+<entry><uicontrol>Composite</uicontrol></entry>
+<entry>Composite topics can include task, concept and reference elements. You can only use these topics to create conref libraries, not to create topics with mixed content.</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<p id="p_syl_djq_tjb">See also: <xref href="co_information_type.dita"/></p>
+</conbody>
+</concept>

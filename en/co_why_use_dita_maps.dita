@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_why_use_dita_maps" xml:lang="en-US">
+<title>Why use DITA maps</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_dqh_hxq_tjb">
+<p id="p_eqh_hxq_tjb">As a DITA map defines the relationships between its topics, it forms the basis for navigating and linking content. A well-organized DITA map allows you to quickly find the topics you need.</p>
+</section>
+<section id="section_wr4_hxq_tjb">
+<title>Main purposes</title>
+<p id="p_xr4_hxq_tjb">Concretely, you use a DITA map structure to:<ul id="ul_mgy_pxq_tjb">
+<li>Collect topics you want to appear in your output.</li>
+<li>Organize the topics in a manageable structure that is easy to navigate - both for you and your reader.</li>
+<li>Define the relationship between topics and correctly link them.</li>
+</ul></p>
+</section>
+<section id="section_yxd_hyq_tjb">
+<title>Topic collection</title>
+<p id="p_zxd_hyq_tjb">In essence, the topics you write are loose files that you can gather in a DITA map. You enter a topic into your DITA map by adding a reference to that topic - a link. As such, when you delete a topic from the list, you do not delete the actual file but only its reference within the map. This makes adding, reorganizing or deleting topics an easy task. For instance, when a particular topic is no longer useful for the product you write about (the new model no longer carries a particular function), you can delete its reference from the map. When later the function is relevant again, you can just re-add the topic reference, as you never deleted the actual topic file in the first place.</p>
+</section>
+<example>
+<p id="p_fgn_qyq_tjb">The newest model of a photo camera no longer supports the option to add color filters while you take pictures, so you remove the topicrefs about color filters from the DITA structure. The new manual for the camera no longer contains these topics, but you keep the original topic files in case a future camera model does have filters.</p>
+</example>
+<section id="section_blx_syq_tjb">
+<title>DITA hierarchy in output</title>
+<p id="p_clx_syq_tjb">In the DITA map, you organize your topics in a usable structure. When you generate output, this structure is used to organize your content and your table of contents. Nothing actually changes on the topic-level of your content. You do not need to start numbering or changing titles to reflect their position in the organization. This structure is automatically generated and numbered (if applicable) while output is being generated. Of course, how exactly it appears in the output depends entirely on the type of format you are generating and (if applicable) the template you use.</p>
+</section>
+<example>
+<p id="p_snk_yyq_tjb">The table of contents of this webhelp file follows the DITA map structure of the original document:</p>
+<fig id="fig_ign_1zq_tjb">
+<image href="../_graphics/dita_web_help.png" id="image_eyg_bzq_tjb"/>
+</fig>
+</example>
+<section id="section_rcf_czq_tjb">
+<p id="p_scf_czq_tjb">Additionally, when you later want to change the order of your topics, promote or demote them, the structure will automatically change when you generate output once more. This makes structuring and re-using topics an easy task where you do not need to manually change every title according to its new position, nor adjust the table of contents afterwards.</p>
+</section>
+<section id="section_zbx_2zq_tjb">
+<title>Relationships</title>
+<p id="p_acx_2zq_tjb">The DITA map is a hierarchy of links to your topics. If you add a relationship table to the DITA map, you can also create links that go beyond the hierarchical structure. As such, most of your linking is centralized and easy to navigate in one file. This makes it easier to glance over the entire structure and establish which relationships exist and how they might need to be adjusted.</p>
+</section>
+</conbody>
+</concept>
