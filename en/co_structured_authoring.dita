@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_structured_authoring" xml:lang="en-US">
+<title>Structured authoring</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_xng_z4x_tjb">
+<title>Definition</title>
+<p id="p_lcy_z4x_tjb">Structured authoring is a way of writing in which one or more authors use:</p>
+<ul id="ul_mcy_z4x_tjb">
+<li>a common, limited set of components (“information building blocks”) set by an information model.</li>
+<li>standards, rules and guidelines to structure the text.</li>
+</ul>
+</section>
+<section id="section_xdq_1px_tjb">
+<title>Result</title>
+<p id="p_ydq_1px_tjb">Structured authoring seperates the content from the layout. It structures content through information models and layout through templates and stylesheets. These output any content in different layout styles.</p>
+</section>
+<section id="section_wsp_bpx_tjb">
+<title>Purpose</title>
+<ul id="ul_z5k_4px_tjb">
+<li>Maximize consistency<ul id="ul_avk_4px_tjb">
+<li>content</li>
+<li>structure</li>
+</ul></li>
+<li>Reuse<ul id="ul_bvk_4px_tjb">
+<li>single sourcing (content ↔ context)</li>
+<li>multichannel publishing (content ↔ output)</li>
+</ul></li>
+<li>Collaboration with other authors</li>
+</ul>
+<draft-comment author="Kimberley.De.Moor">Hier hergebruik mogelijk: zie <xref href="co_what_is_dita.dita"/></draft-comment>
+</section>
+<section id="section_e3q_tpx_tjb">
+<title>Use</title>
+<p id="p_jzl_5px_tjb">You can apply structured authoring to all kinds of texts. It is not limited to the type of software application you use. You can therefore use structured authoring in:</p>
+<ul id="ul_kzl_5px_tjb">
+<li>word processing programs such as Microsoft Word</li>
+<li>desk top publishing software such as Adobe InDesign</li>
+<li>document processors such as Adobe FrameMaker</li>
+<li>help authoring tools such as MadCap Flare</li>
+<li>XML programs such as oXygen XML Author or JustSystems XMetaL</li>
+<li>wikis such as Confluence or MediaWiki</li>
+</ul>
+</section>
+<section id="section_sty_vpx_tjb">
+<title>Best practices @ Flow</title>
+<p id="p_tty_vpx_tjb">Every technical writer should frame the list below (or stick it to the door of the lavatory) to be reminded daily of how to write good documentation.<ol id="ol_i33_xpx_tjb">
+<li><xref href="co_segmentation.dita"/></li>
+<li><xref href="co_coherence.dita"/></li>
+<li><xref href="co_titles.dita"/></li>
+<li><xref href="co_consistency.dita"/></li>
+<li><xref href="co_illustrations_and_animations.dita"/></li>
+<li><xref href="co_audience_oriented_authoring.dita"/></li>
+<li><xref href="co_structure.dita"/></li>
+<li><xref href="co_minimalism.dita"/></li>
+</ol></p>
+</section>
+</conbody>
+</concept>

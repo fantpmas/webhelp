@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_single_sourcing" xml:lang="en-US">
+<title>Single sourcing</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p id="p_xtl_5cx_tjb">Writing technique by which you write content once but reuse it in several places.</p>
+<p id="p_ytl_5cx_tjb">Reusing content instead of copying it has the advantage that, in case of changes, you only need to modify the text once and it changes automaticly in all places where the text occurs. This is at the same time its biggest disadvantage: you always need to check if the change applies to all places where the text occurs.</p>
+<p id="p_ztl_5cx_tjb">You can reuse several levels of information units, from <xmlelement>ph</xmlelement> elements to entire topics.</p>
+</conbody>
+</concept>

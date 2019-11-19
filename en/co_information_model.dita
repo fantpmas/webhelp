@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_information_model" xml:lang="en-US">
+<title>Information model</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p>An information model is a formal description of the structure and the components of your information product.<table frame="all" id="table_cbt_qbx_tjb">
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1*"/>
+<tbody>
+<row>
+<entry>structure</entry>
+<entry>the combination of the components’ order and hierarchy</entry>
+</row>
+<row>
+<entry>component</entry>
+<entry>title, warning, table, illustration, (un)ordered list …</entry>
+</row>
+<row>
+<entry>information product</entry>
+<entry>this can be a “document” such as a manual or a work instruction, but it can be an online help as well, or an intranet system or data base.</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<p id="p_ogs_vbx_tjb">An information model defines rules on how to structure the content. These rules need to be logical and make sense, so writers can easily learn and apply them. Some writing applications can validate these rules to enforce consistency. Validation greatly facilitates the writer’s task.</p>
+<example>
+<ul id="ul_cpw_wbx_tjb">
+<li><xref href="co_what_is_dita.dita">DITA</xref></li>
+<li>DocBook</li>
+<li>Information Mapping</li>
+<li>templates in authoring tools</li>
+</ul>
+</example>
+</conbody>
+</concept>

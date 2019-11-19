@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_five_copywriting_errors" xml:lang="en-US">
+<title>Five copywriting errors</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_wbv_dnx_tjb">
+<p id="p_snt_cnx_tjb">You can find the full article <xref href="https://www.smashingmagazine.com/2011/06/five-copywriting-errors-that-can-ruin-a-company-website/" format="html" scope="external">here</xref>. </p>
+<p id="p_tnt_cnx_tjb">In summary:</p>
+</section>
+<section id="section_yqz_2nx_tjb">
+<title>1st error: Writing inwardly</title>
+<p id="p_zqz_2nx_tjb">The writer focuses on his own experience with the product, not on what the product can offer to the reader.</p>
+</section>
+<section id="section_j3k_hnx_tjb">
+<title>2nd error: Burying the lead</title>
+<p id="p_k3k_hnx_tjb">To keep the attention of the reader, it is important to sell your message succinctly and put your most important points first.</p>
+</section>
+<section id="section_i4r_3nx_tjb">
+<title>3rd error: Mediocre meta material</title>
+<p id="p_j4r_3nx_tjb">Make intelligent use of meta information which will be picked up by search engines.</p>
+</section>
+<section id="section_xxr_jnx_tjb">
+<title>4th error: Saying too much</title>
+<p id="p_yxr_jnx_tjb">Less is more.</p>
+</section>
+<section id="section_ixt_knx_tjb">
+<title>5th error: Weak or no calls to action</title>
+<p id="p_jxt_knx_tjb">Make clear which actions the reader can take.</p>
+</section>
+</conbody>
+</concept>

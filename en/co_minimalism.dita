@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_minimalism" xml:lang="en-US">
+<title>Minimalism</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_x2m_4gx_tjb">
+<p id="p_dfm_4gx_tjb">Keep it simple. Avoid walls of text <xref href="#./fn_hkf_zjx_tjb" format="dita"><sup/></xref>.</p>
+</section>
+<section id="section_d4q_vkx_tjb">
+<title>Only provide the information your readers need to grasp the concept or perform the task</title>
+<p id="p_e4q_vkx_tjb">Cut into redundant information. Do not crowd your page with unnecessary information or too many details. Your reader will lose interest or even get lost.</p>
+</section>
+<section id="section_pmb_xkx_tjb">
+<title>Only provide the information once</title>
+<p id="p_qmb_xkx_tjb">Do not offer a thousand ways to reach the same solution: one is enough. Avoid repeating information in several places in the document, if possible. Links are a useful solution here.</p>
+</section>
+<section id="section_bkb_1lx_tjb">
+<title>Some advantages</title>
+<p id="p_ckb_1lx_tjb">
+<ul id="ul_tgb_blx_tjb">
+<li>Information scanning improves.</li>
+<li>Users remember more.</li>
+<li>Smaller costs for DTP work, translations and printing.</li>
+</ul>
+</p>
+</section>
+<section id="section_qjv_blx_tjb">
+<title>Do not exaggerate</title>
+<p id="p_rjv_blx_tjb">Minimalism walks a thin line between leaving out the unnecessary and keeping the essentials. Check that you have not cut out so much that there are gaps in your explanation or procedure. This is very important in work instructions: gaps can create safety risks.<fig id="fig_srn_mlx_tjb">
+<xref href="#./fn_kqp_slx_tjb" format="dita"><image href="../_graphics/minimalism.jpg" id="image_nqz_mlx_tjb"/><sup/></xref>
+</fig></p>
+</section>
+<section id="section_w4x_b3x_tjb">
+<p id="p_ktc_rlx_tjb"><fn id="fn_hkf_zjx_tjb">Source: 16 quick tips for better work instructions, by Dozuki</fn></p>
+<p id="p_v1j_rlx_tjb"><fn id="fn_kqp_slx_tjb">Source: unknown</fn></p>
+<draft-comment author="Kimberley.De.Moor">@PJ: Is er een manier om genummerde footnotes te krijgen in Oxygen (waarbij het overeenkomstige nummer van de footnote ook in de tekst (in superscript) verschijnt?</draft-comment>
+</section>
+</conbody>
+</concept>

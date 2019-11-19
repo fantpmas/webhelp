@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_segmentation" xml:lang="en-US">
+<title>Segmentation</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<p id="p_eb4_jmx_tjb">Split long blocks of text into smaller information units to facilitate access to the information.</p>
+<p id="p_fb4_jmx_tjb">Use:</p>
+<ul id="ul_gb4_jmx_tjb">
+<li><xref href="co_information_type.dita">information types</xref></li>
+<li>titles and subtitles</li>
+<li>tables</li>
+<li>lists</li>
+</ul>
+</conbody>
+</concept>

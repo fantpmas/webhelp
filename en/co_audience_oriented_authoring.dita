@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_audience_oriented_authoring" xml:lang="en-US">
+<title>Audience-oriented authoring</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_epf_pfx_tjb">
+<p id="p_nbz_jfx_tjb">Know who you are writing for and keep your readers in mind when putting text to paper. Continually ask yourself: is this piece of information relevant for my readers?</p>
+<p id="p_pbz_jfx_tjb">You might want to work with layers of complexity through conditionalized text. </p>
+</section>
+<example>
+<p id="p_u24_4fx_tjb">
+<ul id="ul_qbz_jfx_tjb">
+<li>beginners versus advanced users</li>
+<li>end users versus administrators</li>
+</ul>
+</p>
+</example>
+<section id="section_ykt_qfx_tjb">
+<p id="p_rbz_jfx_tjb">Audience-oriented writing is also called user-oriented writing or profiling.</p>
+</section>
+</conbody>
+</concept>
