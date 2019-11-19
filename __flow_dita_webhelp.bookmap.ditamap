@@ -73,5 +73,6 @@
 <!--Add your warehouse and variable content in the frontmatter.-->
 </frontmatter>
 <chapter href="en/_dita.ditamap" type="map" format="ditamap" scope="local"/>
+<chapter href="en/_dita_2019.ditamap" type="map" format="ditamap" scope="local"/>
 <backmatter/>
 </bookmap>

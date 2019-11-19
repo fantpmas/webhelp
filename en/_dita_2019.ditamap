@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="en-US">
+<title>DITA 2019</title>
+<topicmeta>
+<author>Kimberley.De.Moor</author>
+<metadata/>
+</topicmeta>
+<topicref href="co_what_is_dita.dita"/>
+<topicref href="co_automatic_flowchart_generation.dita"/>
+<topicref href="to_different_levels_of_content_re_use.dita">
+<topicref href="co_using_conrefs.dita"/>
+<topicref href="co_re_using_elements.dita"/>
+<topicref href="co_re_using_topics.dita"/>
+<topicref href="co_re_using_dita_maps.dita"/>
+<topicref href="co_re_using_content_from_non_dita_sources.dita"/>
+</topicref>
+<topicref href="ta_dita2pdf.dita"/>
+<topicref href="co_dita_for_kids.dita"/>
+<topicref href="co_free_e_learning_course_learningdita.dita"/>
+<topicref href="co_guidelines_for_chunking_content.dita"/>
+<topicref href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
+<topicref href="to_guidelines_for_creating_links.dita">
+<topicref href="co_do_not_over_use_inline_links.dita"/>
+<topicref href="co_think_about_the_phrasing_and_positioning_of_inline_links.dita"/>
+<topicref href="co_do_not_overuse_relationship_tables.dita"/>
+<topicref href="co_add_collection_type_links.dita"/>
+</topicref>
+<topicref href="co_guidelines_for_writing_topic_titles.dita"/>
+<topicref href="co_how_does_conditional_processing_work.dita"/>
+<topicref href="co_multi_channel_publishing.dita">
+<topicref href="co_structure_vs__lay_out.dita"/>
+<topicref href="co_publishing.dita"/>
+<topicref href="co_publishing_strategies.dita"/>
+</topicref>
+<topicref href="ta_publishing_your_dita_content_to_multiple_output_formats.dita"/>
+<topicref href="co_webcast__localization_and_the_dita_open_toolkit.dita"/>
+<topicref href="co_what_does_the_dita_open_toolkit__ot__do.dita"/>
+<topicref href="co_what_is_a_bookmap.dita"/>
+<topicref href="co_what_is_a_dita_map.dita"/>
+<topicref href="co_what_is_an_information_type.dita"/>
+<topicref href="co_what_is_a_topic.dita"/>
+<topicref href="co_what_is_conditional_processing.dita"/>
+<topicref href="co_what_is_the_dita_open_toolkit__ot.dita"/>
+<topicref href="co_why_re_use_content.dita"/>
+<topicref href="co_why_use_bookmaps.dita"/>
+<topicref href="co_why_use_conditional_processing.dita"/>
+<topicref href="co_why_use_dita_maps.dita"/>
+<topicref href="co_why_use_metadata.dita"/>
+<topicref href="co_xml_editors.dita">
+<topicref href="co_oxygen_xml.dita">
+<topicref href="to_glossaries_through_tooltips.dita">
+<topicref href="co_glossaries_versus_tooltips.dita"/>
+<topicref href="ta_creating_tooltips_in_oxygen_s_online_help_output.dita">
+<topicref href="ta_create_a_glossterm_topic.dita"/>
+<topicref href="ta_add_the_glossary_term_to_the_glossary_map.dita"/>
+<topicref href="ta_reference_the_glossary_term_in_a_topic.dita"/>
+</topicref>
+</topicref>
+<topicref href="co_new_in_oxygen_19_0.dita"/>
+<topicref href="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check.dita"/>
+<topicref href="co_quick_fixes.dita"/>
+<topicref href="co_responsive_online_help.dita">
+<topicref href="ta_selecting_dita_map_webhelp_responsive_as_output_format.dita"/>
+</topicref>
+<topicref href="tr_oxygen_webhelp_and_epub_transformation_error.dita"/>
+</topicref>
+</topicref>
+<topicref href="to_technical_writing.dita">
+<topicref href="co_structured_authoring.dita">
+<topicref href="co_audience_oriented_authoring.dita"/>
+<topicref href="co_coherence.dita"/>
+<topicref href="co_consistency.dita"/>
+<topicref href="co_illustrations_and_animations.dita"/>
+<topicref href="co_minimalism.dita"/>
+<topicref href="co_segmentation.dita"/>
+<topicref href="co_structure.dita"/>
+<topicref href="co_titles.dita"/>
+</topicref>
+<topicref href="co_five_copywriting_errors.dita"/>
+</topicref>
+<topicref href="co_terminology.dita">
+<topicref href="co_information_model.dita"/>
+<topicref href="co_information_type.dita"/>
+<topicref href="co_information_unit.dita"/>
+<topicref href="co_single_sourcing.dita"/>
+</topicref>
+</map>
