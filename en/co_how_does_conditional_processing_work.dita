@@ -58,12 +58,12 @@
 <tbody>
 <row>
 <entry>Only for Word 2003</entry>
-<entry>@platform</entry>
+<entry><xmlatt>platform</xmlatt></entry>
 <entry>2003</entry>
 </row>
 <row>
 <entry>Only for Word 2007</entry>
-<entry>@platform</entry>
+<entry><xmlatt>platform</xmlatt></entry>
 <entry>2007</entry>
 </row>
 </tbody>
@@ -93,11 +93,10 @@
 </row>
 </tbody>
 </tgroup>
-</table><note id="note_h12_2vv_sjb">It is recommended to apply attributes to the topic references in the DITA map, and not to the <codeph>&lt;topic></codeph> element within the topic in question.</note></p>
-</section>
-<section id="section_f2d_mvv_sjb">
-<draft-comment author="Kimberley.De.Moor">Hieronder nog extra xref toevoegen</draft-comment>
+</table><note id="note_h12_2vv_sjb">It is recommended to apply attributes to the topic references in the DITA map, and not to the <xmlelement>topic</xmlelement> element within the topic in question.</note></p>
 </section>
 </conbody>
-<related-links/>
+<related-links>
+<link href="co_why_use_conditional_processing.dita"/>
+</related-links>
 </concept>

@@ -31,7 +31,7 @@
 <section id="section_bdx_s11_sjb">
 <title>Definition</title>
 <p id="p_cdx_s11_sjb">DITA is an open standard to structure documentation and is therefore often used in technical writing.</p>
-<p id="p_dff_v11_sjb">It stands for <term>Darwin Information Typing Architecture</term>.<table frame="all" id="table_ckl_bb1_sjb">
+<p id="p_dff_v11_sjb">It stands for <term>Darwin Information Typing Architecture</term>.<draft-comment author="Kimberley.De.Moor">@PJ: is het goed dat ik hier een term-element gebruik, of overbodig?</draft-comment><table frame="all" id="table_ckl_bb1_sjb">
 <tgroup cols="2">
 <colspec colname="c1" colnum="1" colwidth="1*"/>
 <colspec colname="c2" colnum="2" colwidth="1*"/>
@@ -47,6 +47,9 @@
 <li>concept</li>
 <li>reference</li>
 <li>(or other types of information)</li>
+</ul>See also:<ul id="ul_wjl_w4x_tjb">
+<li><xref href="co_what_is_an_information_type.dita"/></li>
+<li><xref href="co_information_type.dita"/></li>
 </ul></entry>
 </row>
 <row>
@@ -63,18 +66,17 @@
 </section>
 <section id="section_lq4_ppm_sjb">
 <title>Features</title>
-<draft-comment author="Kimberley.De.Moor">Hier nog xrefs toevoegen!</draft-comment>
 <p id="p_mq4_ppm_sjb">
 <ul id="ul_kc3_rpm_sjb">
-<li>Reuse (XX cross-reference XX)<ul id="ul_ggx_ypm_sjb">
-<li>single sourcing (content ↔ context)</li>
-<li>multichannel publishing (content ↔ output)</li>
+<li><xref href="co_why_re_use_content.dita">Re-use</xref><ul id="ul_ggx_ypm_sjb">
+<li><xref href="co_single_sourcing.dita"/> (content ↔ context)</li>
+<li><xref href="co_multi_channel_publishing.dita"/> (content ↔ output)</li>
 </ul></li>
 <li> Collaboration with other authors</li>
-<li>Minimalism (XX cross-reference XX)</li>
-<li>Structured authoring (XX cross-reference XX)</li>
+<li><xref href="co_minimalism.dita"/></li>
+<li><xref href="co_structured_authoring.dita"/></li>
 <li>Intelligent content</li>
-<li>Conditional content (XX cross-reference XX)</li>
+<li><xref href="co_what_is_conditional_processing.dita">Conditional content</xref></li>
 <li>Writing for translation</li>
 </ul>
 </p>

@@ -89,7 +89,7 @@
 </tbody>
 </tgroup>
 </table></p>
-<note id="note_ktw_yvn_sjb">Topics often include related content. A particular task topic can, for example, use concepts that are described in separate concept topics. As a result, it is impossible to make each topic completely autonomous. You can solve that problem by adding related links to your topic (using the <codeph>related-links</codeph> element); the body part of your topic remains discrete, while you still guide the user to the related information.</note>
+<note id="note_ktw_yvn_sjb">Topics often include related content. A particular task topic can, for example, use concepts that are described in separate concept topics. As a result, it is impossible to make each topic completely autonomous. You can solve that problem by adding related links to your topic (using the <xmlelement>related-links</xmlelement> element); the body part of your topic remains discrete, while you still guide the user to the related information.</note>
 </section>
 <section id="section_acl_cxn_sjb">
 <title>Mind Miller's Law (7±2)</title>
@@ -106,11 +106,16 @@
 <li>splitting your task into two or more subtasks. <note id="note_ucg_3d4_sjb">You can then include an overview topic that describes the entire process and refers to the different steps (subtasks) of that process.</note></li>
 </ul></p>
 <p id="p_uyc_nd4_sjb">The same goes for other lists. If you have a list of twenty safety instructions, for example, you can group the related instructions in separate sections. You can then also include a specific title for each group of safety instructions, to better guide the users.</p>
-<draft-comment author="Kimberley.De.Moor">Hieronder nog extra xrefs toevoegen</draft-comment>
 </section>
 </conbody>
 <related-links>
 <link href="to_different_levels_of_content_re_use.dita"/>
 <link href="co_free_e_learning_course_learningdita.dita"/>
+<link href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
+<link href="to_guidelines_for_creating_links.dita"/>
+<link href="co_what_is_a_bookmap.dita"/>
+<link href="co_what_is_a_dita_map.dita"/>
+<link href="co_what_is_a_topic.dita"/>
+<link href="co_what_is_an_information_type.dita"/>
 </related-links>
 </concept>

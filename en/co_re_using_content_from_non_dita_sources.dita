@@ -32,9 +32,5 @@
 <p id="p_fyy_21n_sjb">You can re-use existing content such as product codes and external sources by automatically pulling it into your DITA topics. For example, instead of writing a programming reference guide from scratch, you might pull comments from the software code and use those comments in your DITA topics.</p>
 <p id="p_sch_yzm_sjb">Because DITA is a semantic tagging language, it can easily map non-DITA content to the proper DITA elements and insert the content in the correct location in your DITA topics.</p>
 </section>
-<section id="section_ajk_f1n_sjb">
-<draft-comment author="Kimberley.De.Moor">Hieronder nog xrefs toevoegen, ofwel deze conrefs in de "Different levels of content re-use" topic?</draft-comment>
-</section>
 </conbody>
-<related-links/>
 </concept>

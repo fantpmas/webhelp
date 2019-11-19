@@ -34,11 +34,15 @@
 <p id="p_lkv_krn_sjb">The course itself is written in DITA, making use of the <xref href="http://oxygenxml.com/doc/m/dita1.2_spec/archSpec-learningTraining.html" format="html" scope="external">DITA-specialization for e-learning</xref>.</p>
 <p id="p_d31_lsn_sjb">More info on: <xref href="https://learningdita.com/about/" format="html" scope="external"/></p>
 </section>
-<section>
-<draft-comment author="Kimberley.De.Moor">Hieronder nog extra xrefs toevoegen</draft-comment>
-</section>
 </conbody>
 <related-links>
 <link href="to_different_levels_of_content_re_use.dita"/>
+<link href="co_guidelines_for_chunking_content.dita"/>
+<link href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
+<link href="to_guidelines_for_creating_links.dita"/>
+<link href="co_what_is_a_bookmap.dita"/>
+<link href="co_what_is_a_dita_map.dita"/>
+<link href="co_what_is_a_topic.dita"/>
+<link href="co_what_is_an_information_type.dita"/>
 </related-links>
 </concept>

@@ -28,6 +28,14 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p/>
+<p>“Information type” is a term from <xref href="co_what_is_dita.dita">DITA</xref> and other standards, <xref href="co_structured_authoring.dita">structured authoring</xref> and <xref href="co_information_model.dita">information models</xref>.</p>
+<p id="p_xkf_gbx_tjb">Technical writers split up texts depending on the kind of information they want to present to the reader:<ul id="ul_pwl_hbx_tjb">
+<li>What does a certain term mean? (concept)</li>
+<li>How to implement something? (task or procedure)</li>
+<li>Which existing information is relevant to the subject? (reference information)</li>
+</ul></p>
+<p id="p_v2z_3bx_tjb">These information types filter and structure the information so users no longer have to spend energy on this when they read the text.</p>
+<p id="p_w2z_3bx_tjb">The components in an information type and their structure and hierarchy are defined in the information model the writer uses.</p>
+<p id="p_dyh_lbx_tjb">See also: <xref href="co_what_is_an_information_type.dita"/></p>
 </conbody>
 </concept>

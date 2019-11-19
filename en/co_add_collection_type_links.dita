@@ -29,23 +29,23 @@
 </prolog>
 <conbody>
 <section id="section_v25_fp4_sjb">
-<p id="p_y25_fp4_sjb">A collection-type defines a relationship among nested topics and affects the way in which automatic links are generated in the output of your DITA map.</p>
+<p id="p_y25_fp4_sjb">A <xmlatt>collection-type</xmlatt> attribute defines a relationship among nested topics and affects the way in which automatic links are generated in the output of your DITA map.</p>
 </section>
 <section id="section_vq4_1v4_sjb">
-<title>Elements to which you can apply the @collection-type attribute</title>
-<p id="p_ngb_sq4_sjb">You create a collection of links by setting the value of the @collection-type attribute, which defines how the nested topics are related. You can apply the @collection-type attribute to:<ul id="ul_x55_xt4_sjb">
-<li><codeph>&lt;topicref></codeph> elements in a DITA map. <note id="note_ubr_154_sjb">These have to be the parent <codeph>&lt;topicref></codeph> elements in the hierarchy.</note></li>
-<li><codeph>&lt;topicgroup></codeph> elements in a relationship table.</li>
+<title>Elements to which you can apply the <xmlatt>collection-type</xmlatt> attribute</title>
+<p id="p_ngb_sq4_sjb">You create a collection of links by setting the value of the <xmlatt>collection-type</xmlatt> attribute, which defines how the nested topics are related. You can apply the <xmlatt>collection-type</xmlatt> attribute to:<ul id="ul_x55_xt4_sjb">
+<li><xmlelement>topicref</xmlelement> elements in a DITA map. <note id="note_ubr_154_sjb">These have to be the parent <xmlelement>topicref</xmlelement> elements in the hierarchy.</note></li>
+<li><xmlelement>topicgroup</xmlelement> elements in a relationship table.</li>
 <li>columns in relationship tables.</li>
 </ul></p>
 <note id="note_qfd_m54_sjb">
-<p id="p_izb_n54_sjb">Although @collection-type attributes are valid in relationship table <codeph>&lt;relcell></codeph> elements, some don’t make a lot of sense in that context.</p>
-<p id="p_yqc_t54_sjb">For example, if you set a @collection-type attribute in a relationship table cell to <userinput>sequence</userinput>, it will result in a <uicontrol>Next Topic</uicontrol> link in the output linking to the next topic referenced in the cell, rather than to the next topic in the TOC sequence (as may logically be expected by the reader).</p>
+<p id="p_izb_n54_sjb">Although <xmlatt>collection-type</xmlatt> attributes are valid in relationship table <xmlelement>relcell</xmlelement> elements, some don’t make a lot of sense in that context.</p>
+<p id="p_yqc_t54_sjb">For example, if you set a <xmlatt>collection-type</xmlatt> attribute in a relationship table cell to <userinput>sequence</userinput>, it will result in a <uicontrol>Next Topic</uicontrol> link in the output linking to the next topic referenced in the cell, rather than to the next topic in the TOC sequence (as may logically be expected by the reader).</p>
 </note>
 </section>
 <section id="section_nxc_2v4_sjb">
-<title>Possible values of the @collection-type attribute</title>
-<p id="p_oxc_2v4_sjb">You can set the values of the @collection-type attribute to one of the four following values:<fig id="fig_rzs_lv4_sjb">
+<title>Possible values of the <xmlatt>collection-type</xmlatt> attribute</title>
+<p id="p_oxc_2v4_sjb">You can set the values of the <xmlatt>collection-type</xmlatt> attribute to one of the four following values:<fig id="fig_rzs_lv4_sjb">
 <image href="../_graphics/collection-type_attributes.png" id="image_wxh_nv4_sjb"/>
 </fig><table frame="all" id="table_gyt_bw4_sjb">
 <tgroup cols="2">
@@ -53,7 +53,7 @@
 <colspec colname="c2" colnum="2" colwidth="1*"/>
 <thead>
 <row>
-<entry>Collection-type value</entry>
+<entry>Value of <xmlatt>collection-type</xmlatt> attribute</entry>
 <entry>Description</entry>
 </row>
 </thead>
@@ -107,14 +107,6 @@
 </tbody>
 </tgroup>
 </table></p>
-<draft-comment author="Kimberley.De.Moor">Hieronder nog extra xrefs toevoegen</draft-comment>
 </section>
 </conbody>
-<related-links>
-<link href="to_different_levels_of_content_re_use.dita"/>
-<link href="co_free_e_learning_course_learningdita.dita"/>
-<link href="co_guidelines_for_chunking_content.dita"/>
-<link href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
-<link href="to_guidelines_for_creating_links.dita"/>
-</related-links>
 </concept>

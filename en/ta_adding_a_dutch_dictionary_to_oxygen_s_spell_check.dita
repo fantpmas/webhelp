@@ -35,7 +35,7 @@
 <steps>
 <stepsection>Proceed as follows to install the Dutch dictionary in Oxygen:</stepsection>
 <step>
-<cmd>Locate the following file: <filepath>S: \ temp \ hunspell_NL </filepath><draft-comment author="Kimberley.De.Moor">⇒ LINK NEEDS TO BE UPDATED</draft-comment></cmd>
+<cmd>Locate the following file: <filepath>S: \ temp \ hunspell_NL </filepath><draft-comment author="Kimberley.De.Moor">⇒ LINK NEEDS TO BE UPDATED (deze opmerking stond in de wiki zelf)</draft-comment></cmd>
 </step>
 <step id="step_sgg_w5r_tjb">
 <cmd id="cmd_tgg_w5r_tjb">Copy both files to <filepath>C: \ Program Files \ Oxygen XML Author 20 \ dicts \ spell</filepath>.<draft-comment author="Kimberley.De.Moor">Both files?</draft-comment></cmd>

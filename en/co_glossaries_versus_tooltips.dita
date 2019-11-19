@@ -28,7 +28,7 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p id="p_s4v_3nr_tjb">If your documentation contains a lot of technical terms or acronyms, you can support your reader with a glossary.Glossaries are usually limited to static lists, added as a chapter at the end of a manual.</p>
+<p id="p_s4v_3nr_tjb">If your documentation contains a lot of technical terms or acronyms, you can support your reader with a glossary. Glossaries are usually limited to static lists, added as a chapter at the end of a manual.</p>
 <p id="p_t4v_3nr_tjb">However, Oxygen’s online help outputs offer a solution whereby users are no longer forced to leave the page they are reading: glossaries through tooltips. Tooltips are one-term glossary pop-ups that appear on screen if you hover your mouse over the term or acronym. If you click the term, the glossary item opens as a separate topic.</p>
 <draft-comment author="Kimberley.De.Moor">@PJ: Hierna volgt normaal een voorbeeld, maar de pagina wordt niet gevonden wanneer je de link aanklikt: <xref href="http://flowtime.be/samples/dita_glossary/to_term.html" format="html" scope="external"/>.</draft-comment>
 </conbody>

@@ -66,7 +66,23 @@
 <topicref href="tr_oxygen_webhelp_and_epub_transformation_error.dita"/>
 </topicref>
 </topicref>
+<topicref href="to_technical_writing.dita">
+<topicref href="co_structured_authoring.dita">
+<topicref href="co_audience_oriented_authoring.dita"/>
+<topicref href="co_coherence.dita"/>
+<topicref href="co_consistency.dita"/>
+<topicref href="co_illustrations_and_animations.dita"/>
+<topicref href="co_minimalism.dita"/>
+<topicref href="co_segmentation.dita"/>
+<topicref href="co_structure.dita"/>
+<topicref href="co_titles.dita"/>
+</topicref>
+<topicref href="co_five_copywriting_errors.dita"/>
+</topicref>
 <topicref href="co_terminology.dita">
+<topicref href="co_information_model.dita"/>
 <topicref href="co_information_type.dita"/>
+<topicref href="co_information_unit.dita"/>
+<topicref href="co_single_sourcing.dita"/>
 </topicref>
 </map>

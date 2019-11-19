@@ -41,23 +41,23 @@
 </thead>
 <tbody>
 <row>
-<entry><codeph>&lt;cite></codeph></entry>
+<entry><xmlelement>cite</xmlelement></entry>
 <entry>Titles of books</entry>
 </row>
 <row>
-<entry><codeph>&lt;filepath></codeph></entry>
+<entry><xmlelement>filepath</xmlelement></entry>
 <entry>File, directory or path names</entry>
 </row>
 <row>
-<entry><codeph>&lt;keyword></codeph></entry>
+<entry><xmlelement>keyword</xmlelement></entry>
 <entry>Product names, model numbers</entry>
 </row>
 <row>
-<entry><codeph>&lt;menucascade></codeph> and <codeph>&lt;uicontrol></codeph></entry>
+<entry><xmlelement>menucascade</xmlelement> and <xmlelement>uicontrol</xmlelement></entry>
 <entry>Interface buttons, menus, check boxes, tabs</entry>
 </row>
 <row>
-<entry><codeph>&lt;wintitle></codeph></entry>
+<entry><xmlelement>wintitle</xmlelement></entry>
 <entry>Names of windows, panels, pages or dialog boxes</entry>
 </row>
 </tbody>

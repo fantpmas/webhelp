@@ -42,7 +42,7 @@
 </note>
 <note id="note_slf_nxm_sjb">
 <p id="p_igv_nxm_sjb">Using the same topic several times in the same DITA map can create problems when generating output (all links to the topic will point to the first instance of the topic). </p>
-<p id="p_opl_yxm_sjb">If you need the same topic to appear several times in the same map, you should use the @copy-to attribute. You enter a new filename in the @copy-to attribute of the <codeph>&lt;topicref></codeph> element. In this way, you create duplicate topic references in the DITA map without actually creating additional topics in the source files. You can then use the <codeph>&lt;linktext></codeph> and <codeph>&lt;shortdesc></codeph> elements in the <codeph>&lt;topicmeta></codeph> element of the topic reference to provide a unique title and short description to help you distinguish between the two in link previews.</p>
+<p id="p_opl_yxm_sjb">If you need the same topic to appear several times in the same map, you should use the <xmlatt>copy-to</xmlatt> attribute. You enter a new filename in the <xmlatt>copy-to</xmlatt> attribute of the <xmlelement>topicref</xmlelement> element. In this way, you create duplicate topic references in the DITA map without actually creating additional topics in the source files. You can then use the <xmlelement>linktext</xmlelement> and <xmlelement>shortdesc</xmlelement> elements in the <xmlelement>topicmeta</xmlelement> element of the topic reference to provide a unique title and short description to help you distinguish between the two in link previews.</p>
 <draft-comment author="Kimberley.De.Moor">Een aparte topic maken van deze note? (task-topic of troubleshooting)</draft-comment>
 </note>
 </conbody>

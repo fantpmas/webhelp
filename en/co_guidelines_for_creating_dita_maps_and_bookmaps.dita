@@ -36,15 +36,15 @@
 </section>
 <section id="section_k11_cf4_sjb">
 <title>Use stub topics</title>
-<p id="p_l11_cf4_sjb">When you are organizing your topics into groups, avoid using topic headings (<codeph>topichead</codeph> elements). Instead, use stub or title topics: these are general topics that contain only a title.</p>
-<p id="p_ym3_sf4_sjb">This type of topic is automatically filled in with links to its child topics in output. If you want it to display content instead, you can use the @chunk attribute on this stub topic and enter the value <userinput>to-content</userinput>. This way all information from the child topics will be added to the stub topic in the output.</p>
+<p id="p_l11_cf4_sjb">When you are organizing your topics into groups, avoid using topic headings (<xmlelement>topichead</xmlelement> elements). Instead, use stub or title topics: these are general topics that contain only a title.</p>
+<p id="p_ym3_sf4_sjb">This type of topic is automatically filled in with links to its child topics in output. If you want it to display content instead, you can use the <xmlatt>chunk</xmlatt> attribute on this stub topic and enter the value <userinput>to-content</userinput>. This way all information from the child topics will be added to the stub topic in the output.</p>
 <p id="p_ghw_3g4_sjb">A stub topic as it appears in DITA:<fig id="fig_lzr_jg4_sjb">
 <image href="../_graphics/stub_topic.png" id="image_sf1_lg4_sjb"/>
 </fig></p>
 <p id="p_g4d_mg4_sjb">The same stub topic as it appears in webhelp. It only includes links to its child topics:<fig id="fig_qj5_pg4_sjb">
 <image href="../_graphics/stub_topic_webhelp.png" id="image_uwz_qg4_sjb"/>
 </fig></p>
-<p id="p_ryd_sg4_sjb">The same stub topic with the attribute @chunk and the value <userinput>to-content</userinput> added to it. The stub topic is automatically filled in with the information from the child topics:<fig id="fig_kgz_vg4_sjb">
+<p id="p_ryd_sg4_sjb">The same stub topic with the <xmlatt>chunk</xmlatt> attribute and the value <userinput>to-content</userinput> added to it. The stub topic is automatically filled in with the information from the child topics:<fig id="fig_kgz_vg4_sjb">
 <image href="../_graphics/stub_topic_chunked.png" id="image_m1q_wg4_sjb"/>
 </fig></p>
 </section>
@@ -59,12 +59,16 @@
 <note id="note_rd4_234_sjb" type="important">
 <p id="p_v5c_f34_sjb">Avoid nesting bookmaps within DITA maps as the structure will cause confusion for both processing software and documentation authors. Bookmaps should only be used at the top level.</p>
 </note>
-<draft-comment author="Kimberley.De.Moor">Hieronder nog extra xrefs toevoegen</draft-comment>
 </section>
 </conbody>
 <related-links>
 <link href="to_different_levels_of_content_re_use.dita"/>
 <link href="co_free_e_learning_course_learningdita.dita"/>
 <link href="co_guidelines_for_chunking_content.dita"/>
+<link href="to_guidelines_for_creating_links.dita"/>
+<link href="co_what_is_a_bookmap.dita"/>
+<link href="co_what_is_a_dita_map.dita"/>
+<link href="co_what_is_a_topic.dita"/>
+<link href="co_what_is_an_information_type.dita"/>
 </related-links>
 </concept>

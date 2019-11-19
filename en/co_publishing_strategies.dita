@@ -33,7 +33,7 @@
 </fig></p>
 <p id="p_nsv_gcw_sjb">These ways can be grouped into two main methods for publishing documentation:<ol id="ol_mfr_jcw_sjb">
 <li>
-<p id="p_h5l_lcw_sjb">The first method is by using the <xref href="co_what_is_the_dita_open_toolkit__ot.dita">DITA OT</xref> (Open Toolkit) that is embedded in many DITA editors, such as oXygen XML Editor. This makes the publishing process easier as you can apply the type of transformation you want directly to your files, using the same program in which you’ve written them. Your processor will then run the files through the toolkit and generate the output you want.</p>
+<p id="p_h5l_lcw_sjb">The first method is by using the <xref href="co_what_is_the_dita_open_toolkit__ot.dita">DITA OT</xref> (Open Toolkit) that is embedded in many DITA editors, such as Oxygen XML Editor. This makes the publishing process easier as you can apply the type of transformation you want directly to your files, using the same program in which you’ve written them. Your processor will then run the files through the toolkit and generate the output you want.</p>
 <p id="p_gxm_scw_sjb">While using the OT is easy at first, it may require a lot of work and understanding of the processes involved to achieve a proper result. More often than not, the output from the OT gives your text a very basic lay-out. When you write and publish for different clients and different products, you might need varying lay-outs. Therefore, you might need to adjust the process manually to achieve the desired result.</p>
 </li>
 <li>

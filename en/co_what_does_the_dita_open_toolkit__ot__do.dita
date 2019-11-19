@@ -40,7 +40,7 @@
 <li><term>XML-Path</term> (Path Language): an expression language used by XSL-T to access or refer parts of an XML document</li>
 <li><term>XSL-FO</term> (XSL Formatting Objects): an XML vocabulary for specifying formatting semantics</li>
 </ul>
-<draft-comment author="Kimberley.De.Moor">@PJ: Welk element gebruik ik voor deze 3 onderdelen van XSL?</draft-comment>
+<draft-comment author="Kimberley.De.Moor">@PJ: Welk element gebruik ik voor deze 3 onderdelen van XSL? (voorlopig aangeduid met een term-element)</draft-comment>
 </section>
 <section id="section_n4n_hbq_tjb">
 <title>What it doesn't do</title>

@@ -48,7 +48,7 @@
 <cmd id="cmd_y3f_w4r_tjb">Click <uicontrol>Create</uicontrol>.</cmd>
 </step>
 <step id="step_rwc_x4r_tjb">
-<cmd id="cmd_swc_x4r_tjb">Fill out the <codeph>&lt;glossterm></codeph> and the <codeph>&lt;glossdef></codeph> elements.</cmd>
+<cmd id="cmd_swc_x4r_tjb">Fill out the <xmlelement>glossterm</xmlelement> and the <xmlelement>glossdef</xmlelement> elements.</cmd>
 </step>
 <step id="step_hvd_gpr_tjb">
 <cmd id="cmd_ivd_gpr_tjb">Save the glossentry topic in your project.</cmd>

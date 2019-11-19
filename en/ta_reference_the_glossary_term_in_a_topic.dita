@@ -33,14 +33,14 @@
 <cmd>In a topic, select the words for which you wish to show a tooltip.</cmd>
 </step>
 <step id="step_o1s_dtr_tjb">
-<cmd id="cmd_p1s_dtr_tjb">Surround them with a <codeph>&lt;term></codeph> element.</cmd>
+<cmd id="cmd_p1s_dtr_tjb">Surround them with a <xmlelement>term</xmlelement> element.</cmd>
 </step>
 <step id="step_qjv_dtr_tjb">
-<cmd id="cmd_rjv_dtr_tjb">In the <uicontrol>Attributes</uicontrol> window, open the <uicontrol>keyref</uicontrol> attribute list by clicking the downward arrow in the <uicontrol>keyref</uicontrol> field. </cmd>
+<cmd id="cmd_rjv_dtr_tjb">In the <uicontrol>Attributes</uicontrol> window, open the <xmlatt>keyref</xmlatt> attribute list by clicking the downward arrow in the <xmlatt>keyref</xmlatt> field. </cmd>
 <stepresult>It lists all possible glossentries for your publication.</stepresult>
 </step>
 <step id="step_ysz_dtr_tjb">
-<cmd id="cmd_zsz_dtr_tjb">Select the appropriate <uicontrol>keyref</uicontrol>.</cmd>
+<cmd id="cmd_zsz_dtr_tjb">Select the appropriate value for the <xmlatt>keyref</xmlatt> attribute.</cmd>
 </step>
 <step id="step_czc_2tr_tjb">
 <cmd id="cmd_dzc_2tr_tjb">Save your changes.</cmd>

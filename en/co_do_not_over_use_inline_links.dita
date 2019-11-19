@@ -37,7 +37,7 @@
 </section>
 <section id="section_imy_1j4_sjb">
 <title>Create inline links to repeated steps</title>
-<p id="p_jmy_1j4_sjb">You might use phrases such as ‘Repeat step 2 to add each topic to the DITA map’. In this case you will need to update this phrase every time you add a step before ‘step 2’. You can solve this by adding an <codeph>&lt;xref></codeph> element that links to the relevant step. In doing so, every time the numbering changes in the steps, the <codeph>&lt;xref></codeph> element will ensure the text changes automatically.</p>
+<p id="p_jmy_1j4_sjb">You might use phrases such as ‘Repeat step 2 to add each topic to the DITA map’. In this case you will need to update this phrase every time you add a step before ‘step 2’. You can solve this by adding an <xmlelement>xref</xmlelement> element that links to the relevant step. In doing so, every time the numbering changes in the steps, the <xmlelement>xref</xmlelement> element will ensure the text changes automatically.</p>
 </section>
 <section id="section_ugv_rj4_sjb">
 <title><b>Create inline links to high-level tasks</b></title>
