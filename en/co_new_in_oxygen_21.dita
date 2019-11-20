@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_new_in_oxygen_21_1" xml:lang="en-US">
+<title>New in Oxygen 21.0</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_nn4_1l2_5jb"><title>New in Oxygen 21.0</title><p id="p_yn4_1l2_5jb">Text: <xref href="https://www.oxygenxml.com/xml_editor/whatisnew21.0.html" format="html" scope="external"/></p><object width="1280" height="720" data="https://www.youtube.com/embed/nuNqiD7Yyd8" outputclass="iframe">
+<param name="allowfullscreen"/>
+</object><p id="p_dkb_xq2_5jb">If you do not have time to view the entire video, use this list with time stamps to view the topic you are interested in.</p><p id="p_k4k_lv2_5jb"><b>DITA Authoring Improvements</b><ul id="ul_nkr_dr2_5jb">
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=24" format="html" scope="external">[0:24]</xref> Search for keys in the Dita Reusable Components view with the improved filtering options.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=42" format="html" scope="external">[0:42]</xref> When inserting an image, edit the attributes and reference of an image by using the <xmlatt>keyref</xmlatt> attribute.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=51" format="html" scope="external">[0:51]</xref> See a preview of the image that you are referencing using the <xmlatt>keyref</xmlatt> attribute in the in-place attributes editor or the <wintitle>Attributes</wintitle> view.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=64" format="html" scope="external">[1:04]</xref> Specify conditional processing attributes using grouped values, when a particular attribute applies to multiple specialized subcategories.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=80" format="html" scope="external">[1:20]</xref> Oxygen now includes version 3.2.1 of the DITA OT publishing engine.</li>
+</ul></p><p id="p_axh_qv2_5jb"><b>Web Author Enhancements</b><ul id="ul_lfq_pv2_5jb">
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=88" format="html" scope="external">[1:28]</xref> Use the <uicontrol>DITA Keys</uicontrol> toolbar button in Web Author to quickly find a particular key and insert a reference to it in your document.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=108" format="html" scope="external">[1:48]</xref> Integrate Web Author with file repository services such as Alfresco, Perforce Helix etc.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=123" format="html" scope="external">[2:03]</xref> New document template in Web Author to create markdown documents.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=140" format="html" scope="external">[2:20]</xref> Design improvements for working with tables in Web Author.</li>
+</ul></p><p id="p_mhl_tv2_5jb"><b>CSS-based PDF Publishing Features</b><ul id="ul_ofm_vv2_5jb">
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=170" format="html" scope="external">[2:50]</xref> Add an edit link for each topic in the PDF output.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=185" format="html" scope="external">[3:05]</xref> Display tracked changes and comments in the PDF output.</li>
+</ul></p><p id="p_smn_2w2_5jb"><b>JSON New Features and Improvements</b><ul id="ul_dlt_gw2_5jb">
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=206" format="html" scope="external">[3:26]</xref>
+<uicontrol>Outline</uicontrol> view was redesigned for JSON documents.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=218" format="html" scope="external">[3:38]</xref> A more robust internal model for JSON editing support.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=232" format="html" scope="external">[3:52]</xref> Addition of intelligent JSON schema-driven content completion assistant.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=250" format="html" scope="external">[4:10]</xref> Support for using XSLT processing to transform JSON document to various formats.</li>
+</ul></p><p id="p_cj4_5x2_5jb"><b>XSLT &amp; XQuery Improvements</b><ul id="ul_hy1_wx2_5jb">
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=269" format="html" scope="external">[4:29]</xref> Content completion offers proposals for options and funtions.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=284" format="html" scope="external">[4:44]</xref> New XPath 3.1 functions in the content completion of XSLT documents.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=294" format="html" scope="external">[4:54]</xref> New XPath 3.1 proposals in content completion of XQuery documents.</li>
+<li><xref href="https://youtu.be/nuNqiD7Yyd8?t=306" format="html" scope="external">[5:06]</xref> Use a Saxon configuration file in the <uicontrol>Compile XSL Stylesheet for Saxon</uicontrol> tool.</li>
+</ul></p><draft-comment author="Kimberley.De.Moor">@PJ: nieuwe topic, moet nagekeken worden</draft-comment></section>
+</conbody>
+</concept>

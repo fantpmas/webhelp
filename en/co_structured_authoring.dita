@@ -67,18 +67,5 @@
 <li>wikis such as Confluence or MediaWiki</li>
 </ul>
 </section>
-<section id="section_sty_vpx_tjb">
-<title>Best practices @ Flow</title>
-<p id="p_tty_vpx_tjb">Every technical writer should frame the list below (or stick it to the door of the lavatory) to be reminded daily of how to write good documentation.<ol id="ol_i33_xpx_tjb">
-<li><xref href="co_segmentation.dita"/></li>
-<li><xref href="co_coherence.dita"/></li>
-<li><xref href="co_titles.dita"/></li>
-<li><xref href="co_consistency.dita"/></li>
-<li><xref href="co_illustrations_and_animations.dita"/></li>
-<li><xref href="co_audience_oriented_authoring.dita"/></li>
-<li><xref href="co_structure.dita"/></li>
-<li><xref href="co_minimalism.dita"/></li>
-</ol></p>
-</section>
 </conbody>
 </concept>

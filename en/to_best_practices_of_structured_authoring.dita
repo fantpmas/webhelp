@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="to_best_practices_of_structured_authoring" xml:lang="en-US">
+<title>Best practices of structured authoring</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<body>
+<p id="p_tty_vpx_tjb">Every technical writer should frame the list below (or stick it to the door of the lavatory) to be reminded daily of how to write good documentation.<ol id="ol_i33_xpx_tjb">
+<li><xref href="co_segmentation.dita"/></li>
+<li><xref href="co_coherence.dita"/></li>
+<li><xref href="co_titles.dita"/></li>
+<li><xref href="co_consistency.dita"/></li>
+<li><xref href="co_illustrations_and_animations.dita"/></li>
+<li><xref href="co_audience_oriented_authoring.dita"/></li>
+<li><xref href="co_structure.dita"/></li>
+<li><xref href="co_minimalism.dita"/></li>
+</ol></p>
+</body>
+</topic>

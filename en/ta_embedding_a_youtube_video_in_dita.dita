@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ta_embedding_a_youtube_video_in_dita" xml:lang="en-US">
+<title>Embedding a YouTube video in a DITA topic</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<taskbody>
+<steps>
+<stepsection>Proceed as follows to succesfully embed a YouTube video into a DITA topic:</stepsection>
+<step>
+<cmd>Find the video that you want to include in your DITA topic on <xref href="https://www.youtube.com/" format="html" scope="external">Youtube</xref> and right-click it.</cmd>
+</step>
+<step id="step_r1v_5kf_5jb">
+<cmd id="cmd_s1v_5kf_5jb">Select <uicontrol>Copy embed code</uicontrol> in the selection menu that appears.</cmd>
+<info>
+<fig id="fig_gzm_kmf_5jb">
+<image href="../_graphics/copy_embed_code.png" id="image_ksk_tmf_5jb"/>
+</fig>
+</info>
+</step>
+<step id="step_i5n_wlf_5jb">
+<cmd id="cmd_j5n_wlf_5jb">Select <image href="../_graphics/insert_reference_to_media_resource_button.png" id="image_ikg_2nf_5jb"/> in the toolbar of Oxygen XML Editor/Author.</cmd>
+<stepresult>The <wintitle>Insert Media</wintitle> window opens.</stepresult>
+</step>
+<step id="step_vq5_nnf_5jb">
+<cmd id="cmd_wq5_nnf_5jb">Paste the embed code into the field next to <uicontrol>Location</uicontrol>.</cmd>
+<stepresult>The embed code will automatically convert to a URL.<fig id="fig_ymx_tzf_5jb">
+<image href="../_graphics/insert_media_window.png" id="image_txm_5zf_5jb"/>
+</fig></stepresult>
+</step>
+<step id="step_jfv_lzf_5jb">
+<cmd id="cmd_kfv_lzf_5jb">Make sure to check the radio button next to <uicontrol>iframe (embed remote HTML frame, such as a YouTube video)</uicontrol>.</cmd>
+</step>
+<step id="step_zdy_wxf_5jb">
+<cmd id="cmd_a2y_wxf_5jb">Select <uicontrol>Insert</uicontrol>.<draft-comment author="Kimberley.De.Moor">@PJ: nieuwe topic, moet nagekeken worden</draft-comment></cmd>
+</step>
+</steps>
+</taskbody>
+</task>

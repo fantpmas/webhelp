@@ -32,15 +32,14 @@
 <p id="p_j4b_d5r_tjb"><object data="https://www.youtube.com/embed/8zauzOSfyY4" outputclass="iframe">
 <param name="allowfullscreen"/>
 </object></p>
-<p id="p_rcp_h5r_tjb">If you do not have time to view the entire video, use this list with time stamps to view a particular topic at once.<ul id="ul_xqw_35r_tjb">
-<li>[0:30] Create (multiple) new topics at once and automatically add them to your DITA map</li>
-<li>[1:00] Convert topics to a different information type</li>
-<li>[1:23] DITA <xmlelement>keydef</xmlelement> elements presented in a separate pane</li>
-<li>[1:45] Autocompletion in the webhelp search</li>
-<li>[2:01] Search for phrases in the webhelp by putting the text in quotes</li>
-<li>[2:24] Oxygen Chemistry (XML + CSS = PDF) makes it easier to style and customize your PDF output</li>
-<li>[3:07] Multimedia support: easily insert audio clips and video into your topics at the click of a button</li>
+<p id="p_rcp_h5r_tjb">If you do not have time to view the entire video, use this list with time stamps to view the topic you are interested in.<ul id="ul_xqw_35r_tjb">
+<li><xref href="https://youtu.be/8zauzOSfyY4?t=30" format="html" scope="external">[0:30]</xref> Create (multiple) new topics at once and automatically add them to your DITA map</li>
+<li><xref href="https://youtu.be/8zauzOSfyY4?t=60" format="html" scope="external">[1:00]</xref> Convert topics to a different information type</li>
+<li><xref href="https://youtu.be/8zauzOSfyY4?t=83" format="html" scope="external">[1:23]</xref> DITA <xmlelement>keydef</xmlelement> elements presented in a separate pane</li>
+<li><xref href="https://youtu.be/8zauzOSfyY4?t=105" format="html" scope="external">[1:45]</xref> Autocompletion in the webhelp search</li>
+<li><xref href="https://youtu.be/8zauzOSfyY4?t=105" format="html" scope="external">[2:01]</xref> Search for phrases in the webhelp by putting the text in quotes</li>
+<li><xref href="https://youtu.be/8zauzOSfyY4?t=144" format="html" scope="external">[2:24]</xref> Oxygen Chemistry (XML + CSS = PDF) makes it easier to style and customize your PDF output</li>
+<li><xref href="https://youtu.be/8zauzOSfyY4?t=187" format="html" scope="external">[3:07]</xref> Multimedia support: easily insert audio clips and video into your topics at the click of a button</li>
 </ul></p>
-<draft-comment author="Kimberley.De.Moor">Ook een nieuwe topic "New in Oxygen 21.0" maken.</draft-comment>
 </conbody>
 </concept>

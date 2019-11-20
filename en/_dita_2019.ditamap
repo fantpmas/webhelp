@@ -7,6 +7,24 @@
 <metadata/>
 </topicmeta>
 <topicref href="co_what_is_dita.dita"/>
+<topicref href="to_technical_writing.dita">
+<topicref href="co_structured_authoring.dita">
+<topicref href="co_what_is_a_topic.dita"/>
+<topicref href="co_information_model.dita"/>
+<topicref href="to_best_practices_of_structured_authoring.dita">
+<topicref href="co_audience_oriented_authoring.dita"/>
+<topicref href="co_coherence.dita"/>
+<topicref href="co_consistency.dita"/>
+<topicref href="co_illustrations_and_animations.dita"/>
+<topicref href="co_minimalism.dita"/>
+<topicref href="co_segmentation.dita"/>
+<topicref href="co_structure.dita"/>
+<topicref href="co_titles.dita"/>
+</topicref>
+<topicref href="co_guidelines_for_chunking_content.dita"/>
+</topicref>
+<topicref href="co_five_copywriting_errors.dita"/>
+</topicref>
 <topicref href="co_automatic_flowchart_generation.dita"/>
 <topicref href="to_different_levels_of_content_re_use.dita">
 <topicref href="co_using_conrefs.dita"/>
@@ -18,7 +36,6 @@
 <topicref href="ta_dita2pdf.dita"/>
 <topicref href="co_dita_for_kids.dita"/>
 <topicref href="co_free_e_learning_course_learningdita.dita"/>
-<topicref href="co_guidelines_for_chunking_content.dita"/>
 <topicref href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
 <topicref href="to_guidelines_for_creating_links.dita">
 <topicref href="co_do_not_over_use_inline_links.dita"/>
@@ -39,7 +56,6 @@
 <topicref href="co_what_is_a_bookmap.dita"/>
 <topicref href="co_what_is_a_dita_map.dita"/>
 <topicref href="co_what_is_an_information_type.dita"/>
-<topicref href="co_what_is_a_topic.dita"/>
 <topicref href="co_what_is_conditional_processing.dita"/>
 <topicref href="co_what_is_the_dita_open_toolkit__ot.dita"/>
 <topicref href="co_why_re_use_content.dita"/>
@@ -57,7 +73,11 @@
 <topicref href="ta_reference_the_glossary_term_in_a_topic.dita"/>
 </topicref>
 </topicref>
+<topicref href="ta_displaying_topic_titles_instead_of_file_names_in_a__ditamap_file.dita"/>
+<topicref href="ta_embedding_a_youtube_video_in_dita.dita"/>
 <topicref href="co_new_in_oxygen_19_0.dita"/>
+<topicref href="co_new_in_oxygen_21.dita"/>
+<topicref href="co_new_in_oxygen_21_1.dita"/>
 <topicref href="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check.dita"/>
 <topicref href="co_quick_fixes.dita"/>
 <topicref href="co_responsive_online_help.dita">
@@ -66,21 +86,7 @@
 <topicref href="tr_oxygen_webhelp_and_epub_transformation_error.dita"/>
 </topicref>
 </topicref>
-<topicref href="to_technical_writing.dita">
-<topicref href="co_structured_authoring.dita">
-<topicref href="co_audience_oriented_authoring.dita"/>
-<topicref href="co_coherence.dita"/>
-<topicref href="co_consistency.dita"/>
-<topicref href="co_illustrations_and_animations.dita"/>
-<topicref href="co_minimalism.dita"/>
-<topicref href="co_segmentation.dita"/>
-<topicref href="co_structure.dita"/>
-<topicref href="co_titles.dita"/>
-</topicref>
-<topicref href="co_five_copywriting_errors.dita"/>
-</topicref>
 <topicref href="co_terminology.dita">
-<topicref href="co_information_model.dita"/>
 <topicref href="co_information_type.dita"/>
 <topicref href="co_information_unit.dita"/>
 <topicref href="co_single_sourcing.dita"/>

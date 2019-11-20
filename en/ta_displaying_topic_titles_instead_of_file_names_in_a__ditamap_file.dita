@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ta_displaying_topic_titles_instead_of_file_names_in_a__ditamap_file" xml:lang="en-US">
+<title>Displaying topic titles instead of file names in a .DITAMAP file</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<taskbody>
+<context>
+<p>If you open a ditamap (or bookmap) in the <uicontrol>Author</uicontrol> mode in Oxygen, you will instantly notice that all the <xmlelement>topicref</xmlelement> elements are by default displayed according to their file name.</p>
+</context>
+<steps>
+<stepsection>To change the file names of <xmlelement>topicref</xmlelement> elements in a .DITAMAP file to their corresponding topic titles, proceed as follows:</stepsection>
+<step>
+<cmd>Select the <uicontrol>Styles</uicontrol> button in the toolbar: <image href="../_graphics/styles_button.png" id="image_rgq_12g_5jb"/>.</cmd>
+</step>
+<step id="step_hcg_w2g_5jb">
+<cmd id="cmd_icg_w2g_5jb">In the selection menu that appears, select the option <uicontrol>+ Show topic titles</uicontrol>.</cmd>
+<info>
+<fig id="fig_cwv_pfg_5jb">
+<image href="../_graphics/show_topic_titles.png" id="image_zcv_fgg_5jb"/>
+</fig>
+</info>
+<info>
+<note id="note_w4v_hgg_5jb" type="tip">Another useful option in the <uicontrol>Styles</uicontrol> selection menu is <uicontrol>+ Edit topicref attributes inplace</uicontrol> which allows you to adjust the attributes specific to each topic within the ditamap in which these topics are referenced. <fig id="fig_s3n_zgg_5jb">
+<image href="../_graphics/edit_topicref_attributes_inplace.png" id="image_jth_zhg_5jb"/>
+</fig></note>
+<draft-comment author="Kimberley.De.Moor">@PJ: nieuwe topic, moet nagekeken worden</draft-comment>
+</info>
+</step>
+</steps>
+</taskbody>
+</task>

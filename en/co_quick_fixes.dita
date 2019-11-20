@@ -36,9 +36,9 @@
 </ol><fig id="fig_qf2_nyr_tjb">
 <image href="../_graphics/oxygen_xml_quick_fixes.png" id="image_gby_4yr_tjb"/>
 </fig></p>
-<p id="p_ybz_pyr_tjb"><object data="https://www.youtube.com/embed/SF2cPf7CqBA&amp;feature=youtu.be" outputclass="iframe">
+<p id="p_ybz_pyr_tjb"><object width="425" height="350" data="https://www.youtube.com/embed/SF2cPf7CqBA" outputclass="iframe">
 <param name="allowfullscreen"/>
-</object><draft-comment author="Kimberley.De.Moor">@PJ: Youtube-video geeft error-message in Oxygen (niet in Youtube zelf)</draft-comment><draft-comment author="Kimberley.De.Moor">@PJ: Welk element kan ik gebruiken voor alle termen die nu met een Italics-element zijn aangeduid?</draft-comment></p>
+</object><draft-comment author="Kimberley.De.Moor">@PJ: Welk element kan ik gebruiken voor alle termen die nu met een Italics-element zijn aangeduid?</draft-comment></p>
 <p id="p_zg2_21s_tjb">More info: <xref href="http://blog.oxygenxml.com/2015/05/schematron-checks-to-help-technical.html" format="html" scope="external"/></p>
 </conbody>
 </concept>
