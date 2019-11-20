@@ -26,6 +26,10 @@
 <topicref href="co_five_copywriting_errors.dita"/>
 </topicref>
 <topicref href="co_automatic_flowchart_generation.dita"/>
+<topicref href="to_dita.dita">
+<topicref href="co_what_is_an_information_type.dita"/>
+<topicref href="co_information_type.dita"/>
+</topicref>
 <topicref href="to_different_levels_of_content_re_use.dita">
 <topicref href="co_using_conrefs.dita"/>
 <topicref href="co_re_using_elements.dita"/>
@@ -55,7 +59,6 @@
 <topicref href="co_what_does_the_dita_open_toolkit__ot__do.dita"/>
 <topicref href="co_what_is_a_bookmap.dita"/>
 <topicref href="co_what_is_a_dita_map.dita"/>
-<topicref href="co_what_is_an_information_type.dita"/>
 <topicref href="co_what_is_conditional_processing.dita"/>
 <topicref href="co_what_is_the_dita_open_toolkit__ot.dita"/>
 <topicref href="co_why_re_use_content.dita"/>
@@ -87,7 +90,6 @@
 </topicref>
 </topicref>
 <topicref href="co_terminology.dita">
-<topicref href="co_information_type.dita"/>
 <topicref href="co_information_unit.dita"/>
 <topicref href="co_single_sourcing.dita"/>
 </topicref>
