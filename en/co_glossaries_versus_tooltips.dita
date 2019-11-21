@@ -29,7 +29,9 @@
 </prolog>
 <conbody>
 <p id="p_s4v_3nr_tjb">If your documentation contains a lot of technical terms or acronyms, you can support your reader with a glossary. Glossaries are usually limited to static lists, added as a chapter at the end of a manual.</p>
-<p id="p_t4v_3nr_tjb">However, Oxygen’s online help outputs offer a solution whereby users are no longer forced to leave the page they are reading: glossaries through tooltips. Tooltips are one-term glossary pop-ups that appear on screen if you hover your mouse over the term or acronym. If you click the term, the glossary item opens as a separate topic.</p>
-<draft-comment author="Kimberley.De.Moor">@PJ: Hierna volgt normaal een voorbeeld, maar de pagina wordt niet gevonden wanneer je de link aanklikt: <xref href="http://flowtime.be/samples/dita_glossary/to_term.html" format="html" scope="external"/>.</draft-comment>
+<p id="p_t4v_3nr_tjb">However, Oxygen’s WebHelp outputs offer a solution whereby users are no longer forced to leave the page they are reading: glossaries through tooltips. Tooltips are one-term glossary pop-ups that appear on screen if you hover your mouse over the term or acronym. If you click the term, the glossary item opens as a separate topic.</p>
+<draft-comment author="Kimberley.De.Moor">@PJ: <p id="p_rcf_svm_5jb">Hierna volgt normaal een voorbeeld, maar de pagina wordt niet gevonden wanneer je de link aanklikt: <xref href="http://flowtime.be/samples/dita_glossary/to_term.html" format="html" scope="external"/>.</p><p id="p_xxk_svm_5jb">Misschien in de plek een afbeelding? (zoals de volgende van Wikipedia)<fig id="fig_ngj_lwm_5jb">
+<image href="../_graphics/wikipedia_tooltip_example.png" id="image_oyy_lwm_5jb"/>
+</fig></p></draft-comment>
 </conbody>
 </concept>
