@@ -22,17 +22,15 @@
 <topicref href="co_structure.dita"/>
 <topicref href="co_titles.dita"/>
 </topicref>
-<topicref href="co_guidelines_for_chunking_content.dita"/>
 </topicref>
 <topicref href="co_five_copywriting_errors.dita"/>
 </topicref>
 <topicref href="to_dita.dita">
 <topicref href="co_what_is_an_information_type.dita"/>
-<topicref href="co_information_type.dita"/>
-<topicref href="co_what_is_a_dita_map.dita"/>
+<topicref href="co_what_is_a_dita_map.dita">
 <topicref href="co_why_use_dita_maps.dita"/>
+</topicref>
 <topicref href="co_what_is_a_bookmap.dita"/>
-<topicref href="co_why_use_bookmaps.dita"/>
 <topicref href="to_learning_dita.dita">
 <topicref href="co_dita_for_kids.dita"/>
 <topicref href="co_free_e_learning_course_learningdita.dita"/>
@@ -44,13 +42,15 @@
 <topicref href="co_multi_channel_publishing.dita">
 <topicref href="co_structure_vs__lay_out.dita"/>
 <topicref href="co_publishing.dita"/>
-<topicref href="co_publishing_strategies.dita"/>
 </topicref>
 <topicref href="co_why_use_metadata.dita"/>
 </topicref>
 <topicref href="co_xml_editors.dita">
 <topicref href="co_oxygen_xml.dita">
+<topicref href="to_guidelines_and_tips_oxygen_xml.dita">
+<topicref href="co_guidelines_for_chunking_content.dita"/>
 <topicref href="co_guidelines_for_writing_topic_titles.dita"/>
+<topicref href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
 <topicref href="to_different_levels_of_content_re_use.dita">
 <topicref href="co_using_conrefs.dita"/>
 <topicref href="co_re_using_elements.dita"/>
@@ -77,20 +77,24 @@
 <topicref href="ta_selecting_dita_map_webhelp_responsive_as_output_format.dita"/>
 </topicref>
 <topicref href="tr_oxygen_webhelp_and_epub_transformation_error.dita"/>
-<topicref href="to_oxygen_xml_software_updates.dita">
-<topicref href="co_new_in_oxygen_19_0.dita"/>
-<topicref href="co_new_in_oxygen_21.dita"/>
-<topicref href="co_new_in_oxygen_21_1.dita"/>
-</topicref>
-<topicref href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
 <topicref href="to_guidelines_for_creating_links.dita">
 <topicref href="co_do_not_over_use_inline_links.dita"/>
 <topicref href="co_think_about_the_phrasing_and_positioning_of_inline_links.dita"/>
 <topicref href="co_do_not_overuse_relationship_tables.dita"/>
 <topicref href="co_add_collection_type_links.dita"/>
 </topicref>
-<topicref href="ta_dita2pdf.dita"/>
+</topicref>
+<topicref href="to_publishing_dita_content.dita">
+<topicref href="co_publishing_strategies.dita">
 <topicref href="ta_publishing_your_dita_content_to_multiple_output_formats.dita"/>
+<topicref href="ta_dita2pdf.dita"/>
+</topicref>
+</topicref>
+<topicref href="to_oxygen_xml_software_updates.dita">
+<topicref href="co_new_in_oxygen_19_0.dita"/>
+<topicref href="co_new_in_oxygen_21.dita"/>
+<topicref href="co_new_in_oxygen_21_1.dita"/>
+</topicref>
 </topicref>
 </topicref>
 <topicref href="co_dita_open_toolkit__ot.dita">
@@ -101,4 +105,34 @@
 <topicref href="co_ditatoo_dita_cms.dita">
 <topicref href="co_automatic_flowchart_generation.dita"/>
 </topicref>
+<reltable>
+<relheader>
+<relcolspec/>
+<relcolspec/>
+</relheader>
+<relrow>
+<relcell/>
+<relcell/>
+</relrow>
+<relrow>
+<relcell/>
+<relcell/>
+</relrow>
+<relrow>
+<relcell/>
+<relcell/>
+</relrow>
+<relrow>
+<relcell/>
+<relcell/>
+</relrow>
+<relrow>
+<relcell/>
+<relcell/>
+</relrow>
+<relrow>
+<relcell/>
+<relcell/>
+</relrow>
+</reltable>
 </map>

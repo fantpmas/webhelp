@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="ta_publishing_your_dita_content_to_multiple_output_formats" xml:lang="en-US">
-<title>Publishing your DITA content to multiple output formats</title>
+<title>Publishing your DITA content with DITA OT</title>
 <prolog status="new">
 <author>Kimberley.De.Moor</author>
 <copyright status="new">
@@ -29,7 +29,7 @@
 </prolog>
 <taskbody>
 <context>
-<p>With the help of Oxygen, you can write one file and publish it to multiple output types, such as:<ul id="ul_kwy_g2w_sjb">
+<p>With the help of Oxygen, you can write one file and publish it to multiple output formats, such as:<ul id="ul_kwy_g2w_sjb">
 <li>PDF</li>
 <li>DOCX</li>
 <li>EPUB</li>

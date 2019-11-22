@@ -28,7 +28,9 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p>A bookmap is a specialization of a <xref href="co_what_is_a_dita_map.dita">DITA map</xref> and is meant to be used when you intend to publish your documents in a book format. It contains structure and metadata, but no content. It is especially designed to create output in book-style formation and therefore includes the following major structures:<ul id="ul_v2n_tfq_tjb">
+<section id="section_x3k_pb5_5jb">
+<title>Definition</title>
+<p id="p_jjk_pb5_5jb">A bookmap is a specialization of a <xref href="co_what_is_a_dita_map.dita">DITA map</xref> and is meant to be used when you intend to publish your documents in a book format. It contains structure and metadata, but no content. It is especially designed to create output in book-style formation and therefore includes the following major structures:<ul id="ul_v2n_tfq_tjb">
 <li>title</li>
 <li> bookmeta (owners, authors, publishing data,…)</li>
 <li>front matter (acknowledgements, definitions, abbrevations,…)</li>
@@ -39,6 +41,14 @@
 </ul><fig id="fig_yh1_bgq_tjb">
 <image href="../_graphics/ditamap.png" id="image_vdn_bgq_tjb"/>
 </fig></p>
+</section>
+<section id="section_jwp_ph5_5jb">
+<title>Purpose of a bookmap</title>
+<p id="p_nvk_sh5_5jb">A bookmap is best suited for when you specifically want to create output in the traditional form of a book. Its template allows you to organize your content in a book format by adding, among others, chapters, parts and appendixes.<note id="note_ydx_wvq_tjb">Bookmaps are not suited for output formats other than traditional book formats. If you are planning different types of output, you should consider using a regular DITA map and including book metadata by using the elements and attributes in the <xmlelement>topicmeta</xmlelement> element.</note></p>
+</section>
+<example>
+<p id="p_mzv_1wq_tjb">You use DITA to publish a research paper, so you write your information in a bookmap and add the necessary chapters. You can now make use of, for instance, the frontmatter to add a cover and the backmatter for glossaries.</p>
+</example>
 </conbody>
 <related-links>
 <link href="to_different_levels_of_content_re_use.dita"/>
@@ -46,7 +56,6 @@
 <link href="co_guidelines_for_chunking_content.dita"/>
 <link href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
 <link href="to_guidelines_for_creating_links.dita"/>
-<link href="co_what_is_a_bookmap.dita"/>
 <link href="co_why_use_bookmaps.dita"/>
 <link href="co_what_is_a_dita_map.dita"/>
 <link href="co_what_is_an_information_type.dita"/>

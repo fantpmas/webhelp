@@ -30,7 +30,7 @@
 <conbody>
 <p>DITA for kids is a project teachers can make use of in class. The project itself is finished, but the code is open-source and can still be edited.</p>
 <p id="p_epb_pmn_sjb">Teachers can download and edit Wikipedia articles with the open-source tool. All content in the articles (including images) can be reused and edited in the DITA-editor. The teacher can then group the new topics in themes and publish everything to a package. This package can then be shared with other PCs.</p>
-<p id="p_fqs_ymn_sjb">The full explanation can be found on <xref href="http://dita.xml.org/node/2400" format="html" scope="external"/>.<draft-comment author="Kimberley.De.Moor">Deze link geeft een Privacy Error.</draft-comment></p>
+<p id="p_fqs_ymn_sjb">The full explanation can be found on <xref href="http://dita.xml.org/node/2400" format="html" scope="external"/>.<draft-comment author="Kimberley.De.Moor">@PJ: Deze link geeft een Privacy Error.</draft-comment></p>
 <p id="p_wr5_cnn_sjb">Don’t forget to take a look at the YouTube video: <object width="425" height="350" data="https://www.youtube.com/embed/Y0UDRi37MWM" outputclass="iframe">
 <param name="allowfullscreen"/>
 </object></p>

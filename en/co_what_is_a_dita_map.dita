@@ -37,7 +37,7 @@
 </section>
 <section id="section_b5y_xgq_tjb">
 <title>Hierarchy and nesting</title>
-<p id="p_c5y_xgq_tjb">DITA maps contain the structure of your topic references. This structure resembles a table of contents and helps your reader locate the required information. To create a meaningful structure, you can group relevant topics together and nest them under a topic grouping or a title topic. The head topic is referred to as the ‘parent topic’ and the nested topics underneath it as its ‘child topics’. The relationship between the child topics is defined as ‘siblings’.<fig id="fig_ipz_2hq_tjb">
+<p id="p_c5y_xgq_tjb">DITA maps contain the structure of your topic references. This structure resembles a table of contents and helps your reader locate the required information. To create a meaningful structure, you can group relevant topics together and nest them under a topic grouping or a <xref href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita#co_guidelines_for_creating_dita_maps_and_bookmaps/section_k11_cf4_sjb" format="dita">title topic</xref>. The head topic is referred to as the ‘parent topic’ and the nested topics underneath it as its ‘child topics’. The relationship between the child topics is defined as ‘siblings’.<fig id="fig_ipz_2hq_tjb">
 <image href="../_graphics/dita_map_tree.png" id="image_h14_fhq_tjb"/>
 </fig></p>
 </section>
