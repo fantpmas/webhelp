@@ -51,6 +51,12 @@
 <topicref href="co_guidelines_for_chunking_content.dita"/>
 <topicref href="co_guidelines_for_writing_topic_titles.dita"/>
 <topicref href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
+<topicref href="to_guidelines_for_creating_links.dita">
+<topicref href="co_do_not_over_use_inline_links.dita"/>
+<topicref href="co_think_about_the_phrasing_and_positioning_of_inline_links.dita"/>
+<topicref href="co_do_not_overuse_relationship_tables.dita"/>
+<topicref href="co_add_collection_type_links.dita"/>
+</topicref>
 <topicref href="to_different_levels_of_content_re_use.dita">
 <topicref href="co_using_conrefs.dita"/>
 <topicref href="co_re_using_elements.dita"/>
@@ -58,9 +64,6 @@
 <topicref href="co_re_using_dita_maps.dita"/>
 <topicref href="co_re_using_content_from_non_dita_sources.dita"/>
 </topicref>
-<topicref href="co_what_is_conditional_processing.dita"/>
-<topicref href="co_how_does_conditional_processing_work.dita"/>
-<topicref href="co_why_use_conditional_processing.dita"/>
 <topicref href="to_glossaries_through_tooltips.dita">
 <topicref href="co_glossaries_versus_tooltips.dita"/>
 <topicref href="ta_creating_tooltips_in_oxygen_s_online_help_output.dita">
@@ -72,22 +75,22 @@
 <topicref href="ta_displaying_topic_titles_instead_of_file_names_in_a__ditamap_file.dita"/>
 <topicref href="ta_embedding_a_youtube_video_in_dita.dita"/>
 <topicref href="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check.dita"/>
-<topicref href="co_quick_fixes.dita"/>
 <topicref href="co_responsive_online_help.dita">
 <topicref href="ta_selecting_dita_map_webhelp_responsive_as_output_format.dita"/>
-</topicref>
 <topicref href="tr_oxygen_webhelp_and_epub_transformation_error.dita"/>
-<topicref href="to_guidelines_for_creating_links.dita">
-<topicref href="co_do_not_over_use_inline_links.dita"/>
-<topicref href="co_think_about_the_phrasing_and_positioning_of_inline_links.dita"/>
-<topicref href="co_do_not_overuse_relationship_tables.dita"/>
-<topicref href="co_add_collection_type_links.dita"/>
 </topicref>
+<topicref href="co_quick_fixes.dita"/>
 </topicref>
 <topicref href="to_publishing_dita_content.dita">
 <topicref href="co_publishing_strategies.dita">
 <topicref href="ta_publishing_your_dita_content_to_multiple_output_formats.dita"/>
 <topicref href="ta_dita2pdf.dita"/>
+</topicref>
+<topicref href="to_conditional_processing.dita">
+<topicref href="co_what_is_conditional_processing.dita"/>
+<topicref href="co_what_is_a_ditaval_file.dita"/>
+<topicref href="co_how_does_conditional_processing_work.dita"/>
+<topicref href="co_why_use_conditional_processing.dita"/>
 </topicref>
 </topicref>
 <topicref href="to_oxygen_xml_software_updates.dita">

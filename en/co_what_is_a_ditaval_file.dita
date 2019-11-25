@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="co_what_is_a_ditaval_file" xml:lang="en-US">
+<title>What is a DITAVAL file</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<conbody>
+<section id="section_ld4_n1r_vjb">
+<p id="p_a24_2xq_vjb">A DITAVAL file (or a "conditional processing profile") is used to filter your DITA content depending on the type of:<ul id="ul_ogz_byq_vjb">
+<li>audience that your content is addressing: e.g. a novice audience, an expert audience ...</li>
+<li>product that your content is about: e.g. IPhone X, IPhone 11, IPhone 11 Pro ...</li>
+<li>platform that your audience is working with: e.g. iOS 12.4, iOS 13 ...</li>
+<li>...</li>
+</ul></p>
+<p id="p_szs_5yq_vjb">Within the DITAVAL file, you establish rules to include, exclude or flag DITA content that has been attributed a particular value.</p>
+</section>
+<example>
+<p id="p_cj1_r5q_vjb">This is what one of these rules might look like in the <uicontrol>text</uicontrol> view of the DITAVAL file:<codeblock>&lt;val>
+    &lt;prop action="exclude" att="audience" val="novice"/>
+&lt;/val></codeblock></p>
+<p id="p_qr5_p1r_vjb">The <xmlatt>action</xmlatt> attribute determines what should happen with the various attribute values of the <xmlatt>audience</xmlatt> attribute. In this case, the DITAVAL file will exclude all content, that is applicable to a novice audience, from the published output (in other words: all content that has been marked with the <xmlatt>novice</xmlatt> attribute value for the <xmlatt>audience</xmlatt> attribute).</p>
+<draft-comment author="Kimberley.De.Moor">@PJ: is het niet verwarrend om "novice" hier als attribute te taggen (in de webhelp-output zal er een @-je voor verschijnen)?</draft-comment>
+</example>
+<section id="section_jfy_t1r_vjb">
+<title>Four possible actions of the DITAVAL file</title>
+<p id="p_kfy_t1r_vjb"><table id="table_sck_dbr_vjb">
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="2*"/>
+<thead>
+<row>
+<entry>Value of <xmlatt>action</xmlatt> attribute</entry>
+<entry>Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Include</entry>
+<entry>This action will include the content in the output. </entry>
+</row>
+<row>
+<entry>Exclude</entry>
+<entry>This action will exclude the content from the output.</entry>
+</row>
+<row>
+<entry>Flag</entry>
+<entry>This action will include and highlight the content in the output. </entry>
+</row>
+<row>
+<entry>Passthrough</entry>
+<entry>
+<p id="p_ysl_dfr_vjb">This action will:<ul id="ul_kx2_22r_vjb">
+<li>include the content in the output</li>
+<li>preserve the attribute value as part of the output stream for further processing within the (dynamic) output.</li>
+</ul></p>
+<p id="p_mrq_dfr_vjb">In other words, the conditional processing (or filtering) does not take place during the publishing phase of the DITA content. Instead, the various types of content along with the various attribute values are passed on to the output, where the filtering will take place depending on the preferences or specifications of the user. <draft-comment author="Kimberley.De.Moor">Deze zin nog aanpassen en aanvullen met een voorbeeld. </draft-comment></p>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table><fn>Source: <xref href="https://www.webworks.com/Documentation/Reverb/index.html#page/Preparing%20and%20Publishing%20Content/Preparing%20DITA%20Files.3.07.htm" format="html" scope="external"/></fn></p>
+</section>
+<section id="section_rht_mbr_vjb">
+<title>Applying the DITAVAL file to your DITA map</title>
+<p id="p_sht_mbr_vjb">
+<draft-comment author="Kimberley.De.Moor">@PJ: Hoe doe je dit? (Deze sectie hoort wss beter thuis in de volgende topic)</draft-comment>
+</p>
+</section>
+</conbody>
+</concept>

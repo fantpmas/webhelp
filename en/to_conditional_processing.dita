@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="to_conditional_processing" xml:lang="en-US">
+<title>Conditional processing</title>
+<prolog status="new">
+<author>Kimberley.De.Moor</author>
+<copyright status="new">
+<copyryear status="new" year="2019"/>
+<copyrholder status="new"/>
+</copyright>
+<metadata status="new">
+<keywords>
+<keyword/>
+</keywords>
+<prodinfo status="new">
+<prodname status="new"/>
+<vrmlist status="new">
+<vrm version="1" release="0" modification="0"/>
+</vrmlist>
+</prodinfo>
+</metadata>
+<change-historylist>
+<change-item>
+<change-person/>
+<change-completed/>
+<change-summary/>
+</change-item>
+</change-historylist>
+</prolog>
+<body>
+<p id="p_n2w_vsq_vjb">In the topics listed in the table below, you will find an answer to the following questions:<table id="table_pmm_ctq_vjb">
+<tgroup cols="2">
+<colspec colname="c1" colnum="1"/>
+<colspec colname="c2" colnum="2"/>
+<thead>
+<row>
+<entry>Question:</entry>
+<entry>Topic:</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>What is conditional processing?</entry>
+<entry><xref href="co_what_is_conditional_processing.dita"/></entry>
+</row>
+<row>
+<entry>What is a DITAVAL file?</entry>
+<entry><xref href="co_what_is_a_ditaval_file.dita"/></entry>
+</row>
+<row>
+<entry>How does conditional processing work?</entry>
+<entry><xref href="co_how_does_conditional_processing_work.dita"/></entry>
+</row>
+<row>
+<entry>Why use conditional processing?</entry>
+<entry><xref href="co_why_use_conditional_processing.dita"/></entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+</body>
+</topic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="co_why_use_conditional_processing" xml:lang="en-US">
-<title>Why use conditional processing</title>
+<title>Purpose and advantages of conditional processing</title>
 <prolog status="new">
 <author>Kimberley.De.Moor</author>
 <copyright status="new">
@@ -28,13 +28,19 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p>When you write documentation for a certain series of products, several products can share much information. For instance, the task describing how to install an appliance can largely be shared between different models or versions of that appliance. At the same time, each model might have its own unique requirements for the installation procedure.</p>
-<p id="p_dlb_lwq_tjb">Rather than having to rewrite the whole procedure for each model, you can include all information in one topic or map and apply conditional attributes to the model-specific information. When you later publish this information, you can use these attributes to either highlight relevant information per model or filter out unwanted information.</p>
+<section id="section_idp_fyp_vjb">
+<title>Purpose</title>
+<p id="p_odp_fyp_vjb">When you write documentation for a certain series of products, several products can share a lot of the same information. For instance, the task describing how to install an appliance can largely be shared between different models or versions of that appliance. At the same time, each model might have its own unique requirements for the installation procedure.</p>
+<p id="p_dlb_lwq_tjb">Rather than having to rewrite the whole procedure for each model, you can include all information in one topic or map and apply conditional attributes to the model-specific information. When you publish this information later on, you can use these attributes to either highlight relevant information per model or filter out unwanted information.</p>
+</section>
+<section id="section_ov1_gyp_vjb">
+<title>Advantages</title>
 <p id="p_kqy_mwq_tjb">Concretely, conditional processing allows you to:<ul id="ul_wyh_nwq_tjb">
-<li>Create different output from a single topic by filtering out unnecessary information for each output type. This way you only have to maintain one core set of topics and automatically ensure that all generated versions of it contain the same up-to-date shared content.</li>
-<li>Highlight specific content: for instance, information which is only relevant to a specific version of a program.</li>
-<li>Improve how writers find specific content: writers can find topics in their content management systems by searching for information about the topics, such as feature numbers or product names.</li>
+<li>Create different outputs from a single topic by filtering out unnecessary information for each output type. <note id="note_udw_pzp_vjb">This way you only have to maintain one core set of topics. This method automatically ensures that all generated versions of the core set of topics contain the same (up-to-date) shared content.</note></li>
+<li>Highlight specific content.<note id="note_hx5_4yp_vjb">For instance: information that is only relevant to a specific version of a program.</note></li>
+<li>Improve how writers find specific content.<note id="note_zjl_11q_vjb">Writers can find topics in their content management systems by searching for information about the topics, such as feature numbers or product names.</note></li>
 </ul></p>
+</section>
 </conbody>
 <related-links>
 <link href="co_how_does_conditional_processing_work.dita"/>

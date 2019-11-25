@@ -37,7 +37,7 @@
 <troubleSolution>
 <cause>
 <title>Cause</title>
-<p>It is possible that the language you are writing in isn’t defined in Oxygen. In that case, words such as Chapter, Search and Part might not be translated when creating output.</p>
+<p>It is possible that the language you are writing in, is not defined in Oxygen. In that case, words such as Chapter, Search and Part might not be translated when creating output.</p>
 </cause>
 <remedy>
 <title>Remedy</title>
