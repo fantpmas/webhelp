@@ -28,6 +28,13 @@
 </change-historylist>
 </prolog>
 <body>
-<p/>
+<p>The automation of documentation processes has been extremely beneficial to the productivity of many companies, saving time and cutting costs in multiple areas and at multiple stages of the document life cycle.</p>
+<p id="p_wzg_vtw_vjb">The concepts and methods described in the folowing topics have been invaluable in the development of automated documentation processes:<ul id="ul_mr1_qvw_vjb">
+<li><xref href="co_why_re_use_content.dita"/></li>
+<li><xref href="co_single_sourcing.dita"/></li>
+<li><xref href="co_multi_channel_publishing.dita"/></li>
+<li><xref href="co_why_use_metadata.dita"/></li>
+</ul></p>
+<draft-comment author="Kimberley.De.Moor">@PJ: nieuwe topic, moet nagekeken worden</draft-comment>
 </body>
 </topic>

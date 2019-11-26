@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Selecting DITA Map Webhelp Responsive as output format","href":"en\/ta_selecting_dita_map_webhelp_responsive_as_output_format.html","attributes": {"data-id":"ta_selecting_dita_map_webhelp_responsive_as_output_format",},"menu": {"hasChildren":false,},"tocID":"ta_selecting_dita_map_webhelp_responsive_as_output_format-d62e2127","topics":[]}]});

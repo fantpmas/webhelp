@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="co_what_is_dita" path="en/co_what_is_dita.html"/>
+   <appContext helpID="co_automatic_flowchart_generation"
+               path="en/co_automatic_flowchart_generation.html"/>
+   <appContext helpID="to_different_levels_of_content_re_use"
+               path="en/to_different_levels_of_content_re_use.html"/>
+   <appContext helpID="co_using_conrefs" path="en/co_using_conrefs.html"/>
+   <appContext helpID="co_re_using_elements" path="en/co_re_using_elements.html"/>
+   <appContext helpID="co_re_using_topics" path="en/co_re_using_topics.html"/>
+   <appContext helpID="co_re_using_dita_maps" path="en/co_re_using_dita_maps.html"/>
+   <appContext helpID="co_re_using_content_from_non_dita_sources"
+               path="en/co_re_using_content_from_non_dita_sources.html"/>
+   <appContext helpID="ta_dita2pdf" path="en/ta_dita2pdf.html"/>
+   <appContext helpID="co_dita_for_kids" path="en/co_dita_for_kids.html"/>
+   <appContext helpID="co_free_e_learning_course_learningdita"
+               path="en/co_free_e_learning_course_learningdita.html"/>
+   <appContext helpID="co_guidelines_for_chunking_content"
+               path="en/co_guidelines_for_chunking_content.html"/>
+   <appContext helpID="co_guidelines_for_creating_dita_maps_and_bookmaps"
+               path="en/co_guidelines_for_creating_dita_maps_and_bookmaps.html"/>
+   <appContext helpID="to_guidelines_for_creating_links"
+               path="en/to_guidelines_for_creating_links.html"/>
+   <appContext helpID="co_do_not_over_use_inline_links"
+               path="en/co_do_not_over_use_inline_links.html"/>
+   <appContext helpID="co_think_about_the_phrasing_and_positioning_of_inline_links"
+               path="en/co_think_about_the_phrasing_and_positioning_of_inline_links.html"/>
+   <appContext helpID="co_do_not_overuse_relationship_tables"
+               path="en/co_do_not_overuse_relationship_tables.html"/>
+   <appContext helpID="co_add_collection_type_links"
+               path="en/co_add_collection_type_links.html"/>
+   <appContext helpID="co_guidelines_for_writing_topic_titles"
+               path="en/co_guidelines_for_writing_topic_titles.html"/>
+   <appContext helpID="co_how_does_conditional_processing_work"
+               path="en/co_how_does_conditional_processing_work.html"/>
+   <appContext helpID="co_multi_channel_publishing"
+               path="en/co_multi_channel_publishing.html"/>
+   <appContext helpID="co_structure_vs__lay_out"
+               path="en/co_structure_vs__lay_out.html"/>
+   <appContext helpID="co_publishing" path="en/co_publishing.html"/>
+   <appContext helpID="co_publishing_strategies"
+               path="en/co_publishing_strategies.html"/>
+   <appContext helpID="ta_publishing_your_dita_content_to_multiple_output_formats"
+               path="en/ta_publishing_your_dita_content_to_multiple_output_formats.html"/>
+   <appContext helpID="co_webcast__localization_and_the_dita_open_toolkit"
+               path="en/co_webcast__localization_and_the_dita_open_toolkit.html"/>
+   <appContext helpID="co_what_does_the_dita_open_toolkit__ot__do"
+               path="en/co_what_does_the_dita_open_toolkit__ot__do.html"/>
+   <appContext helpID="co_what_is_a_bookmap" path="en/co_what_is_a_bookmap.html"/>
+   <appContext helpID="co_what_is_a_dita_map" path="en/co_what_is_a_dita_map.html"/>
+   <appContext helpID="co_what_is_an_information_type"
+               path="en/co_what_is_an_information_type.html"/>
+   <appContext helpID="co_what_is_a_topic" path="en/co_what_is_a_topic.html"/>
+   <appContext helpID="co_what_is_conditional_processing"
+               path="en/co_what_is_conditional_processing.html"/>
+   <appContext helpID="co_what_is_the_dita_open_toolkit__ot"
+               path="en/co_what_is_the_dita_open_toolkit__ot.html"/>
+   <appContext helpID="co_why_re_use_content" path="en/co_why_re_use_content.html"/>
+   <appContext helpID="co_why_use_bookmaps" path="en/co_why_use_bookmaps.html"/>
+   <appContext helpID="co_why_use_conditional_processing"
+               path="en/co_why_use_conditional_processing.html"/>
+   <appContext helpID="co_why_use_dita_maps" path="en/co_why_use_dita_maps.html"/>
+   <appContext helpID="co_why_use_metadata" path="en/co_why_use_metadata.html"/>
+   <appContext helpID="co_xml_editors" path="en/co_xml_editors.html"/>
+   <appContext helpID="co_oxygen_xml" path="en/co_oxygen_xml.html"/>
+   <appContext helpID="to_glossaries_through_tooltips"
+               path="en/to_glossaries_through_tooltips.html"/>
+   <appContext helpID="co_glossaries_versus_tooltips"
+               path="en/co_glossaries_versus_tooltips.html"/>
+   <appContext helpID="ta_creating_tooltips_in_oxygen_s_online_help_output"
+               path="en/ta_creating_tooltips_in_oxygen_s_online_help_output.html"/>
+   <appContext helpID="ta_create_a_glossterm_topic"
+               path="en/ta_create_a_glossterm_topic.html"/>
+   <appContext helpID="ta_add_the_glossary_term_to_the_glossary_map"
+               path="en/ta_add_the_glossary_term_to_the_glossary_map.html"/>
+   <appContext helpID="ta_reference_the_glossary_term_in_a_topic"
+               path="en/ta_reference_the_glossary_term_in_a_topic.html"/>
+   <appContext helpID="co_new_in_oxygen_19_0" path="en/co_new_in_oxygen_19_0.html"/>
+   <appContext helpID="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check"
+               path="en/ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check.html"/>
+   <appContext helpID="co_quick_fixes" path="en/co_quick_fixes.html"/>
+   <appContext helpID="co_responsive_online_help"
+               path="en/co_responsive_online_help.html"/>
+   <appContext helpID="ta_selecting_dita_map_webhelp_responsive_as_output_format"
+               path="en/ta_selecting_dita_map_webhelp_responsive_as_output_format.html"/>
+   <appContext helpID="tr_oxygen_webhelp_and_epub_transformation_error"
+               path="en/tr_oxygen_webhelp_and_epub_transformation_error.html"/>
+   <appContext helpID="to_technical_writing" path="en/to_technical_writing.html"/>
+   <appContext helpID="co_structured_authoring" path="en/co_structured_authoring.html"/>
+   <appContext helpID="co_audience_oriented_authoring"
+               path="en/co_audience_oriented_authoring.html"/>
+   <appContext helpID="co_coherence" path="en/co_coherence.html"/>
+   <appContext helpID="co_consistency" path="en/co_consistency.html"/>
+   <appContext helpID="co_illustrations_and_animations"
+               path="en/co_illustrations_and_animations.html"/>
+   <appContext helpID="co_minimalism" path="en/co_minimalism.html"/>
+   <appContext helpID="co_segmentation" path="en/co_segmentation.html"/>
+   <appContext helpID="co_structure" path="en/co_structure.html"/>
+   <appContext helpID="co_titles" path="en/co_titles.html"/>
+   <appContext helpID="co_five_copywriting_errors"
+               path="en/co_five_copywriting_errors.html"/>
+   <appContext helpID="co_terminology" path="en/co_terminology.html"/>
+   <appContext helpID="co_information_model" path="en/co_information_model.html"/>
+   <appContext helpID="co_information_type" path="en/co_information_type.html"/>
+   <appContext helpID="co_information_unit" path="en/co_information_unit.html"/>
+   <appContext helpID="co_single_sourcing" path="en/co_single_sourcing.html"/>
+   <appContext helpID="co_what_is_dita" path="en/co_what_is_dita.html"/>
+   <appContext helpID="to_technical_writing" path="en/to_technical_writing.html"/>
+   <appContext helpID="co_structured_authoring" path="en/co_structured_authoring.html"/>
+   <appContext helpID="co_information_unit" path="en/co_information_unit.html"/>
+   <appContext helpID="co_what_is_a_topic" path="en/co_what_is_a_topic.html"/>
+   <appContext helpID="co_information_model" path="en/co_information_model.html"/>
+   <appContext helpID="to_best_practices_of_structured_authoring"
+               path="en/to_best_practices_of_structured_authoring.html"/>
+   <appContext helpID="co_audience_oriented_authoring"
+               path="en/co_audience_oriented_authoring.html"/>
+   <appContext helpID="co_coherence" path="en/co_coherence.html"/>
+   <appContext helpID="co_consistency" path="en/co_consistency.html"/>
+   <appContext helpID="co_illustrations_and_animations"
+               path="en/co_illustrations_and_animations.html"/>
+   <appContext helpID="co_minimalism" path="en/co_minimalism.html"/>
+   <appContext helpID="co_segmentation" path="en/co_segmentation.html"/>
+   <appContext helpID="co_structure" path="en/co_structure.html"/>
+   <appContext helpID="co_titles" path="en/co_titles.html"/>
+   <appContext helpID="co_five_copywriting_errors"
+               path="en/co_five_copywriting_errors.html"/>
+   <appContext helpID="to_dita" path="en/to_dita.html"/>
+   <appContext helpID="co_what_is_an_information_type"
+               path="en/co_what_is_an_information_type.html"/>
+   <appContext helpID="co_what_is_a_dita_map" path="en/co_what_is_a_dita_map.html"/>
+   <appContext helpID="co_why_use_dita_maps" path="en/co_why_use_dita_maps.html"/>
+   <appContext helpID="co_what_is_a_bookmap" path="en/co_what_is_a_bookmap.html"/>
+   <appContext helpID="to_learning_dita" path="en/to_learning_dita.html"/>
+   <appContext helpID="co_dita_for_kids" path="en/co_dita_for_kids.html"/>
+   <appContext helpID="co_free_e_learning_course_learningdita"
+               path="en/co_free_e_learning_course_learningdita.html"/>
+   <appContext helpID="to_automation_of_documentation_processes"
+               path="en/to_automation_of_documentation_processes.html"/>
+   <appContext helpID="co_why_re_use_content" path="en/co_why_re_use_content.html"/>
+   <appContext helpID="co_single_sourcing" path="en/co_single_sourcing.html"/>
+   <appContext helpID="co_multi_channel_publishing"
+               path="en/co_multi_channel_publishing.html"/>
+   <appContext helpID="co_structure_vs__lay_out"
+               path="en/co_structure_vs__lay_out.html"/>
+   <appContext helpID="co_publishing" path="en/co_publishing.html"/>
+   <appContext helpID="co_why_use_metadata" path="en/co_why_use_metadata.html"/>
+   <appContext helpID="co_xml_editors" path="en/co_xml_editors.html"/>
+   <appContext helpID="co_oxygen_xml" path="en/co_oxygen_xml.html"/>
+   <appContext helpID="to_guidelines_and_tips_oxygen_xml"
+               path="en/to_guidelines_and_tips_oxygen_xml.html"/>
+   <appContext helpID="co_guidelines_for_chunking_content"
+               path="en/co_guidelines_for_chunking_content.html"/>
+   <appContext helpID="co_guidelines_for_writing_topic_titles"
+               path="en/co_guidelines_for_writing_topic_titles.html"/>
+   <appContext helpID="co_guidelines_for_creating_dita_maps_and_bookmaps"
+               path="en/co_guidelines_for_creating_dita_maps_and_bookmaps.html"/>
+   <appContext helpID="to_guidelines_for_creating_links"
+               path="en/to_guidelines_for_creating_links.html"/>
+   <appContext helpID="co_do_not_over_use_inline_links"
+               path="en/co_do_not_over_use_inline_links.html"/>
+   <appContext helpID="co_think_about_the_phrasing_and_positioning_of_inline_links"
+               path="en/co_think_about_the_phrasing_and_positioning_of_inline_links.html"/>
+   <appContext helpID="co_do_not_overuse_relationship_tables"
+               path="en/co_do_not_overuse_relationship_tables.html"/>
+   <appContext helpID="co_add_collection_type_links"
+               path="en/co_add_collection_type_links.html"/>
+   <appContext helpID="to_different_levels_of_content_re_use"
+               path="en/to_different_levels_of_content_re_use.html"/>
+   <appContext helpID="co_using_conrefs" path="en/co_using_conrefs.html"/>
+   <appContext helpID="co_re_using_elements" path="en/co_re_using_elements.html"/>
+   <appContext helpID="co_re_using_topics" path="en/co_re_using_topics.html"/>
+   <appContext helpID="co_re_using_dita_maps" path="en/co_re_using_dita_maps.html"/>
+   <appContext helpID="co_re_using_content_from_non_dita_sources"
+               path="en/co_re_using_content_from_non_dita_sources.html"/>
+   <appContext helpID="to_glossaries_through_tooltips"
+               path="en/to_glossaries_through_tooltips.html"/>
+   <appContext helpID="co_glossaries_versus_tooltips"
+               path="en/co_glossaries_versus_tooltips.html"/>
+   <appContext helpID="ta_creating_tooltips_in_oxygen_s_online_help_output"
+               path="en/ta_creating_tooltips_in_oxygen_s_online_help_output.html"/>
+   <appContext helpID="ta_create_a_glossterm_topic"
+               path="en/ta_create_a_glossterm_topic.html"/>
+   <appContext helpID="ta_add_the_glossary_term_to_the_glossary_map"
+               path="en/ta_add_the_glossary_term_to_the_glossary_map.html"/>
+   <appContext helpID="ta_reference_the_glossary_term_in_a_topic"
+               path="en/ta_reference_the_glossary_term_in_a_topic.html"/>
+   <appContext helpID="ta_displaying_topic_titles_instead_of_file_names_in_a__ditamap_file"
+               path="en/ta_displaying_topic_titles_instead_of_file_names_in_a__ditamap_file.html"/>
+   <appContext helpID="ta_embedding_a_youtube_video_in_dita"
+               path="en/ta_embedding_a_youtube_video_in_dita.html"/>
+   <appContext helpID="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check"
+               path="en/ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check.html"/>
+   <appContext helpID="co_responsive_online_help"
+               path="en/co_responsive_online_help.html"/>
+   <appContext helpID="ta_selecting_dita_map_webhelp_responsive_as_output_format"
+               path="en/ta_selecting_dita_map_webhelp_responsive_as_output_format.html"/>
+   <appContext helpID="tr_oxygen_webhelp_and_epub_transformation_error"
+               path="en/tr_oxygen_webhelp_and_epub_transformation_error.html"/>
+   <appContext helpID="co_quick_fixes" path="en/co_quick_fixes.html"/>
+   <appContext helpID="to_publishing_dita_content"
+               path="en/to_publishing_dita_content.html"/>
+   <appContext helpID="co_publishing_strategies"
+               path="en/co_publishing_strategies.html"/>
+   <appContext helpID="ta_publishing_your_dita_content_to_multiple_output_formats"
+               path="en/ta_publishing_your_dita_content_to_multiple_output_formats.html"/>
+   <appContext helpID="ta_dita2pdf" path="en/ta_dita2pdf.html"/>
+   <appContext helpID="to_conditional_processing"
+               path="en/to_conditional_processing.html"/>
+   <appContext helpID="co_what_is_conditional_processing"
+               path="en/co_what_is_conditional_processing.html"/>
+   <appContext helpID="co_what_is_a_ditaval_file"
+               path="en/co_what_is_a_ditaval_file.html"/>
+   <appContext helpID="co_how_does_conditional_processing_work"
+               path="en/co_how_does_conditional_processing_work.html"/>
+   <appContext helpID="co_why_use_conditional_processing"
+               path="en/co_why_use_conditional_processing.html"/>
+   <appContext helpID="to_oxygen_xml_software_updates"
+               path="en/to_oxygen_xml_software_updates.html"/>
+   <appContext helpID="co_new_in_oxygen_19_0" path="en/co_new_in_oxygen_19_0.html"/>
+   <appContext helpID="co_new_in_oxygen_21_1" path="en/co_new_in_oxygen_21.html"/>
+   <appContext helpID="co_new_in_oxygen_21_1" path="en/co_new_in_oxygen_21_1.html"/>
+   <appContext helpID="co_dita_open_toolkit__ot"
+               path="en/co_dita_open_toolkit__ot.html#co_dita_open_toolkit__ot"/>
+   <appContext helpID="co_what_is_the_dita_open_toolkit__ot"
+               path="en/co_dita_open_toolkit__ot.html#co_what_is_the_dita_open_toolkit__ot"/>
+   <appContext helpID="co_what_does_the_dita_open_toolkit__ot__do"
+               path="en/co_dita_open_toolkit__ot.html#co_what_does_the_dita_open_toolkit__ot__do"/>
+   <appContext helpID="co_webcast__localization_and_the_dita_open_toolkit"
+               path="en/co_dita_open_toolkit__ot.html#co_webcast__localization_and_the_dita_open_toolkit"/>
+   <appContext helpID="co_ditatoo_dita_cms" path="en/co_ditatoo_dita_cms.html"/>
+   <appContext helpID="co_automatic_flowchart_generation"
+               path="en/co_automatic_flowchart_generation.html"/>
+</map>

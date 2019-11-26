@@ -1,0 +1,165 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:whc="http://www.oxygenxml.com/webhelp/components" xml:lang="en-us" lang="en-us" whc:version="21.0">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="description" content="Conditional processing means you apply attribute values to certain elements of your text. These values are then entered into a separate DITAVAL (DITA values) file in which you write rules that specify ..." /><meta charset="UTF-8" /><meta name="DC.type" content="concept" /><meta name="DC.relation" scheme="URI" content="co_why_use_conditional_processing.html" /><meta name="prodname" content="" /><meta name="prodname" content="" /><meta name="version" content="" /><meta name="version" content="1" /><meta name="release" content="0" /><meta name="modification" content="0" /><meta name="DC.creator" content="" /><meta name="DC.creator" content="Kimberley.De.Moor" /><meta name="DC.creator" content="Kimberley.De.Moor" /><meta name="rights" content="© 2019 " /><meta name="DC.format" content="HTML5" /><meta name="DC.identifier" content="co_how_does_conditional_processing_work" /><meta name="DC.language" content="en-US" /><title>Using DITAVAL files in DITA</title><!--  Generated with Oxygen version 21.0, build number 2019022122.  --><meta name="wh-path2root" content="../" /><meta name="wh-toc-id" content="co_how_does_conditional_processing_work-d62e885" /><link rel="stylesheet" type="text/css" href="../oxygen-webhelp/lib/bootstrap/css/bootstrap.min.css" /><link rel="stylesheet" href="../oxygen-webhelp/lib/jquery-ui/jquery-ui.min.css" /><link rel="stylesheet" type="text/css" href="../oxygen-webhelp/app/topic-page.css?buildId=2019022122" /><script type="text/javascript" src="../oxygen-webhelp/lib/jquery/jquery-3.1.1.min.js"><!----></script><script data-main="../oxygen-webhelp/app/topic-page.js" src="../oxygen-webhelp/lib/requirejs/require.js"></script><link rel="stylesheet" type="text/css" href="../oxygen-webhelp/template/oxygen.css?buildId=2019022122" /></head>
+
+    <body id="co_how_does_conditional_processing_work" class="wh_topic_page frmBody">
+        <a href="#wh_topic_body" class="sr-only sr-only-focusable">Jump to main content</a>
+        <!-- EXM-36950 - Expand the args.hdr parameter here -->
+        
+        
+        
+        <header class="navbar navbar-default wh_header" whc:version="21.0">
+    <div class="container-fluid">
+        <div class="wh_header_flex_container navbar-nav navbar-expand-md navbar-dark">
+            <div class="wh_logo_and_publication_title_container">
+                <div class="wh_logo_and_publication_title">
+                    
+                    <!--
+                            This component will be generated when the next parameters are specified in the transformation scenario:
+                            'webhelp.logo.image' and 'webhelp.logo.image.target.url'.
+                            See: http://oxygenxml.com/doc/versions/17.1/ug-editor/#topics/dita_webhelp_output.html.
+                    -->
+                    
+                    <div class=" wh_publication_title "><a href="../index.html"><span class="booktitle">  <span class="ph mainbooktitle">flow_dita_webhelp</span>  </span></a></div>
+                    
+                </div>
+                
+                <!-- The menu button for mobile devices is copied in the output only when the 'webhelp.show.top.menu' parameter is set to 'yes' -->
+                <button type="button" data-target="#wh_top_menu_and_indexterms_link" id="wh_menu_mobile_button" data-toggle="collapse" class="navbar-toggler collapsed wh_toggle_button" aria-expanded="false" aria-label="Toggle menu" aria-controls="wh_top_menu_and_indexterms_link">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+
+            <div class="wh_top_menu_and_indexterms_link collapse navbar-collapse" id="wh_top_menu_and_indexterms_link">
+                
+                <nav class=" wh_top_menu "><ul xmlns:xhtml="http://www.w3.org/1999/xhtml" role="menubar" aria-label="Menu"><li role="menuitem"><span id="co_what_is_dita-d62e124-mi" data-tocid="co_what_is_dita-d62e124" data-state="leaf" class=" topicref " data-id="co_what_is_dita"><span class="title"><a href="../en/co_what_is_dita.html">What is DITA?</a></span></span></li><li role="menuitem"><span id="co_automatic_flowchart_generation-d62e164-mi" data-tocid="co_automatic_flowchart_generation-d62e164" data-state="leaf" class=" topicref " data-id="co_automatic_flowchart_generation"><span class="title"><a href="../en/co_automatic_flowchart_generation.html">Automatic flowchart generation</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="to_different_levels_of_content_re_use-d62e204-mi" data-tocid="to_different_levels_of_content_re_use-d62e204" data-state="not-ready" class=" topicref " data-id="to_different_levels_of_content_re_use"><span class="title"><a href="../en/to_different_levels_of_content_re_use.html">Different levels of content re-use</a></span></span></li><li role="menuitem"><span id="ta_dita2pdf-d62e444-mi" data-tocid="ta_dita2pdf-d62e444" data-state="leaf" class=" topicref " data-id="ta_dita2pdf"><span class="title"><a href="../en/ta_dita2pdf.html">Publishing DITA files to PDF with DITA2PDF</a></span></span></li><li role="menuitem"><span id="co_dita_for_kids-d62e485-mi" data-tocid="co_dita_for_kids-d62e485" data-state="leaf" class=" topicref " data-id="co_dita_for_kids"><span class="title"><a href="../en/co_dita_for_kids.html">DITA for kids</a></span></span></li><li role="menuitem"><span id="co_free_e_learning_course_learningdita-d62e525-mi" data-tocid="co_free_e_learning_course_learningdita-d62e525" data-state="leaf" class=" topicref " data-id="co_free_e_learning_course_learningdita"><span class="title"><a href="../en/co_free_e_learning_course_learningdita.html">Free e-learning course LearningDITA</a></span></span></li><li role="menuitem"><span id="co_guidelines_for_chunking_content-d62e565-mi" data-tocid="co_guidelines_for_chunking_content-d62e565" data-state="leaf" class=" topicref " data-id="co_guidelines_for_chunking_content"><span class="title"><a href="../en/co_guidelines_for_chunking_content.html">Guidelines for chunking content</a></span></span></li><li role="menuitem"><span id="co_guidelines_for_creating_dita_maps_and_bookmaps-d62e605-mi" data-tocid="co_guidelines_for_creating_dita_maps_and_bookmaps-d62e605" data-state="leaf" class=" topicref " data-id="co_guidelines_for_creating_dita_maps_and_bookmaps"><span class="title"><a href="../en/co_guidelines_for_creating_dita_maps_and_bookmaps.html">Guidelines for creating DITA maps and bookmaps</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="to_guidelines_for_creating_links-d62e645-mi" data-tocid="to_guidelines_for_creating_links-d62e645" data-state="not-ready" class=" topicref " data-id="to_guidelines_for_creating_links"><span class="title"><a href="../en/to_guidelines_for_creating_links.html">Guidelines for creating links</a></span></span></li><li role="menuitem"><span id="co_guidelines_for_writing_topic_titles-d62e845-mi" data-tocid="co_guidelines_for_writing_topic_titles-d62e845" data-state="leaf" class=" topicref " data-id="co_guidelines_for_writing_topic_titles"><span class="title"><a href="../en/co_guidelines_for_writing_topic_titles.html">Guidelines for writing topic titles</a></span></span></li><li role="menuitem"><span id="co_how_does_conditional_processing_work-d62e885-mi" data-tocid="co_how_does_conditional_processing_work-d62e885" data-state="leaf" class=" topicref " data-id="co_how_does_conditional_processing_work"><span class="title"><a href="../en/co_how_does_conditional_processing_work.html">Using DITAVAL files in DITA</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="co_multi_channel_publishing-d62e925-mi" data-tocid="co_multi_channel_publishing-d62e925" data-state="not-ready" class=" topicref " data-id="co_multi_channel_publishing"><span class="title"><a href="../en/co_multi_channel_publishing.html">Multi-channel publishing</a></span></span></li><li role="menuitem"><span id="ta_publishing_your_dita_content_to_multiple_output_formats-d62e1085-mi" data-tocid="ta_publishing_your_dita_content_to_multiple_output_formats-d62e1085" data-state="leaf" class=" topicref " data-id="ta_publishing_your_dita_content_to_multiple_output_formats"><span class="title"><a href="../en/ta_publishing_your_dita_content_to_multiple_output_formats.html">Publishing your DITA content with DITA OT</a></span></span></li><li role="menuitem"><span id="co_webcast__localization_and_the_dita_open_toolkit-d62e1125-mi" data-tocid="co_webcast__localization_and_the_dita_open_toolkit-d62e1125" data-state="leaf" class=" topicref " data-id="co_webcast__localization_and_the_dita_open_toolkit"><span class="title"><a href="../en/co_webcast__localization_and_the_dita_open_toolkit.html">Webcast: Localization and the DITA Open Toolkit</a></span></span></li><li role="menuitem"><span id="co_what_does_the_dita_open_toolkit__ot__do-d62e1165-mi" data-tocid="co_what_does_the_dita_open_toolkit__ot__do-d62e1165" data-state="leaf" class=" topicref " data-id="co_what_does_the_dita_open_toolkit__ot__do"><span class="title"><a href="../en/co_what_does_the_dita_open_toolkit__ot__do.html">What does the DITA Open Toolkit (OT) do</a></span></span></li><li role="menuitem"><span id="co_what_is_a_bookmap-d62e1206-mi" data-tocid="co_what_is_a_bookmap-d62e1206" data-state="leaf" class=" topicref " data-id="co_what_is_a_bookmap"><span class="title"><a href="../en/co_what_is_a_bookmap.html">What is a bookmap</a></span></span></li><li role="menuitem"><span id="co_what_is_a_dita_map-d62e1246-mi" data-tocid="co_what_is_a_dita_map-d62e1246" data-state="leaf" class=" topicref " data-id="co_what_is_a_dita_map"><span class="title"><a href="../en/co_what_is_a_dita_map.html">What is a DITA map</a></span></span></li><li role="menuitem"><span id="co_what_is_an_information_type-d62e1286-mi" data-tocid="co_what_is_an_information_type-d62e1286" data-state="leaf" class=" topicref " data-id="co_what_is_an_information_type"><span class="title"><a href="../en/co_what_is_an_information_type.html">What is an information type</a></span></span></li><li role="menuitem"><span id="co_what_is_a_topic-d62e1326-mi" data-tocid="co_what_is_a_topic-d62e1326" data-state="leaf" class=" topicref " data-id="co_what_is_a_topic"><span class="title"><a href="../en/co_what_is_a_topic.html">What is a topic</a></span></span></li><li role="menuitem"><span id="co_what_is_conditional_processing-d62e1366-mi" data-tocid="co_what_is_conditional_processing-d62e1366" data-state="leaf" class=" topicref " data-id="co_what_is_conditional_processing"><span class="title"><a href="../en/co_what_is_conditional_processing.html">What is conditional processing</a></span></span></li><li role="menuitem"><span id="co_what_is_the_dita_open_toolkit__ot-d62e1406-mi" data-tocid="co_what_is_the_dita_open_toolkit__ot-d62e1406" data-state="leaf" class=" topicref " data-id="co_what_is_the_dita_open_toolkit__ot"><span class="title"><a href="../en/co_what_is_the_dita_open_toolkit__ot.html">What is the DITA Open Toolkit (OT)</a></span></span></li><li role="menuitem"><span id="co_why_re_use_content-d62e1446-mi" data-tocid="co_why_re_use_content-d62e1446" data-state="leaf" class=" topicref " data-id="co_why_re_use_content"><span class="title"><a href="../en/co_why_re_use_content.html">Advantages of re-using content</a></span></span></li><li role="menuitem"><span id="co_why_use_bookmaps-d62e1486-mi" data-tocid="co_why_use_bookmaps-d62e1486" data-state="leaf" class=" topicref " data-id="co_why_use_bookmaps"><span class="title"><a href="../en/co_why_use_bookmaps.html">Why use bookmaps (WEG)</a></span></span></li><li role="menuitem"><span id="co_why_use_conditional_processing-d62e1526-mi" data-tocid="co_why_use_conditional_processing-d62e1526" data-state="leaf" class=" topicref " data-id="co_why_use_conditional_processing"><span class="title"><a href="../en/co_why_use_conditional_processing.html">Purpose and advantages of conditional processing</a></span></span></li><li role="menuitem"><span id="co_why_use_dita_maps-d62e1566-mi" data-tocid="co_why_use_dita_maps-d62e1566" data-state="leaf" class=" topicref " data-id="co_why_use_dita_maps"><span class="title"><a href="../en/co_why_use_dita_maps.html">Purposes and advantages of DITA maps</a></span></span></li><li role="menuitem"><span id="co_why_use_metadata-d62e1606-mi" data-tocid="co_why_use_metadata-d62e1606" data-state="leaf" class=" topicref " data-id="co_why_use_metadata"><span class="title"><a href="../en/co_why_use_metadata.html">Why use metadata</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="co_xml_editors-d62e1647-mi" data-tocid="co_xml_editors-d62e1647" data-state="not-ready" class=" topicref " data-id="co_xml_editors"><span class="title"><a href="../en/co_xml_editors.html">XML editors</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="to_technical_writing-d62e2207-mi" data-tocid="to_technical_writing-d62e2207" data-state="not-ready" class=" topicref " data-id="to_technical_writing"><span class="title"><a href="../en/to_technical_writing.html">Technical writing</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="co_terminology-d62e2647-mi" data-tocid="co_terminology-d62e2647" data-state="not-ready" class=" topicref " data-id="co_terminology"><span class="title"><a href="../en/co_terminology.html">Terminology</a></span></span></li><li role="menuitem"><span id="co_what_is_dita-d62e2848-mi" data-tocid="co_what_is_dita-d62e2848" data-state="leaf" class=" topicref " data-id="co_what_is_dita"><span class="title"><a href="../en/co_what_is_dita_2.html">What is DITA?</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="to_technical_writing-d62e2888-mi" data-tocid="to_technical_writing-d62e2888" data-state="not-ready" class=" topicref " data-id="to_technical_writing"><span class="title"><a href="../en/to_technical_writing_2.html">Technical writing</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="to_dita-d62e3488-mi" data-tocid="to_dita-d62e3488" data-state="not-ready" class=" topicref " data-id="to_dita"><span class="title"><a href="../en/to_dita.html">DITA</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="to_automation_of_documentation_processes-d62e3808-mi" data-tocid="to_automation_of_documentation_processes-d62e3808" data-state="not-ready" class=" topicref " data-id="to_automation_of_documentation_processes"><span class="title"><a href="../en/to_automation_of_documentation_processes.html">Automation of documentation processes</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="co_xml_editors-d62e4088-mi" data-tocid="co_xml_editors-d62e4088" data-state="not-ready" class=" topicref " data-id="co_xml_editors"><span class="title"><a href="../en/co_xml_editors_2.html">XML editors</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="co_dita_open_toolkit__ot-d62e5809-mi" data-tocid="co_dita_open_toolkit__ot-d62e5809" data-state="not-ready" class=" topicref " data-id="co_dita_open_toolkit__ot"><span class="title"><a href="../en/co_dita_open_toolkit__ot.html#co_dita_open_toolkit__ot">DITA Open Toolkit (OT)</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="co_ditatoo_dita_cms-d62e5969-mi" data-tocid="co_ditatoo_dita_cms-d62e5969" data-state="not-ready" class=" topicref " data-id="co_ditatoo_dita_cms"><span class="title"><a href="../en/co_ditatoo_dita_cms.html">DITAToo DITA CMS</a></span></span></li></ul></nav>
+                
+                
+            </div>
+        </div>
+    </div>
+</header>
+        
+        <div class=" wh_search_input "><form id="searchForm" method="get" role="search" action="../search.html"><div><input type="search" placeholder="Search " class="wh_search_textfield" id="textToSearch" name="searchQuery" aria-label="Search query" required="required" /><button type="submit" class="wh_search_button" aria-label="Search"><span>Search</span></button></div></form></div>
+        
+        <div class="container-fluid">
+            <div class="row">
+
+                <nav class="wh_tools d-print-none">
+                    <div data-tooltip-position="bottom" class=" wh_breadcrumb "><ol xmlns:html="http://www.w3.org/1999/xhtml" class="d-print-none"><li><span class="home"><a href="../index.html"><span>Home</span></a></span></li><li class="active"><span class="topicref" data-id="co_how_does_conditional_processing_work"><span class="title"><a href="../en/co_how_does_conditional_processing_work.html">Using DITAVAL files in DITA</a></span></span></li></ol></div>
+
+                    <div class="wh_right_tools">
+                        <button class="wh_hide_highlight" aria-label="Toggle search highlights" title="Toggle search highlights"></button>
+                        <button class="webhelp_expand_collapse_sections" data-next-state="collapsed" aria-label="Collapse sections" title="Collapse sections"></button>
+                        <div class=" wh_navigation_links "><span id="topic_navigation_links" class="navheader"></span></div>
+                        <div class=" wh_print_link print d-none d-md-inline-block "><button onClick="window.print()" title="Print this page" aria-label="Print this page"></button></div>
+                    </div>
+                </nav>
+            </div>
+
+            <div class="wh_content_area">
+                <div class="row">
+                    
+                    
+                    <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12" id="wh_topic_body">
+                        <div class=" wh_topic_content body "><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+<h1 class="title topictitle1" id="ariaid-title1">Using DITAVAL files in DITA</h1>
+
+<div class="body conbody">
+<section class="section" id="co_how_does_conditional_processing_work__section_xd2_wtv_sjb">
+<p class="p" id="co_how_does_conditional_processing_work__p_yd2_wtv_sjb">Conditional processing means you apply attribute values to certain elements of your text. These values are then entered into a separate DITAVAL (DITA values) file in which you write rules that specify whether elements with those values need to be included, excluded (filtering) or flagged (highlighting). While generating output, the rules in this DITAVAL file are applied to the end-result.</p>
+</section>
+<section class="section" id="co_how_does_conditional_processing_work__section_vlj_kjp_vjb">Below, the three main steps in conditional processing are described.</section>
+<section class="section" id="co_how_does_conditional_processing_work__section_ify_wtv_sjb"><h2 class="title sectiontitle">Planning an attribute scheme</h2>
+
+<p class="p" id="co_how_does_conditional_processing_work__p_tbp_g5v_sjb">Before worrying about applying conditions, you should first establish a scheme and define exactly what you need to create conditions for. This way you can plan out which attributes you need and which values to assign to each of them. To do this, define your:</p>
+<ol class="ol" id="co_how_does_conditional_processing_work__ol_ubp_g5v_sjb">
+<li class="li">Audience: who will use your product and what specific information do they need?</li>
+<li class="li">Platform: which operating systems, platforms and other environments are used with your product?</li>
+<li class="li">Product: which models/versions are you planning and how do they differ?</li>
+</ol>
+<div class="note attention note_attention" id="co_how_does_conditional_processing_work__note_xnd_m5v_sjb"><span class="note__title">Attention:</span> 
+<p class="p" id="co_how_does_conditional_processing_work__p_kgz_m5v_sjb">Each of the items you define should receive a unique value in an attribute. Do not re-use value names in different attributes as this will lead to confusion for your writers.</p>
+</div>
+</section>
+<div class="example">You want to teach your users how to save their files using Microsoft Word, but you know there are several version of Word on the market. As your documents only deal with Word 2003 and Word 2007, you plan your conditional attributes and values accordingly:<table class="table frame-all" id="co_how_does_conditional_processing_work__table_ey4_r5v_sjb"><caption></caption><colgroup><col style="width:33.33333333333333%" /><col style="width:33.33333333333333%" /><col style="width:33.33333333333333%" /></colgroup><thead class="thead">
+<tr>
+<th class="entry" id="co_how_does_conditional_processing_work__table_ey4_r5v_sjb__entry__1">Purpose</th>
+<th class="entry" id="co_how_does_conditional_processing_work__table_ey4_r5v_sjb__entry__2">Attribute</th>
+<th class="entry" id="co_how_does_conditional_processing_work__table_ey4_r5v_sjb__entry__3">Value</th>
+</tr>
+</thead><tbody class="tbody">
+<tr>
+<td class="entry" headers="co_how_does_conditional_processing_work__table_ey4_r5v_sjb__entry__1 ">Only for Word 2003</td>
+<td class="entry" headers="co_how_does_conditional_processing_work__table_ey4_r5v_sjb__entry__2 "><code class="keyword markupname xmlatt">@platform</code></td>
+<td class="entry" headers="co_how_does_conditional_processing_work__table_ey4_r5v_sjb__entry__3 ">2003</td>
+</tr>
+<tr>
+<td class="entry" headers="co_how_does_conditional_processing_work__table_ey4_r5v_sjb__entry__1 ">Only for Word 2007</td>
+<td class="entry" headers="co_how_does_conditional_processing_work__table_ey4_r5v_sjb__entry__2 "><code class="keyword markupname xmlatt">@platform</code></td>
+<td class="entry" headers="co_how_does_conditional_processing_work__table_ey4_r5v_sjb__entry__3 ">2007</td>
+</tr>
+</tbody></table></div>
+<section class="section" id="co_how_does_conditional_processing_work__section_ad1_w5v_sjb"><h2 class="title sectiontitle">Applying attributes</h2>
+
+<p class="p" id="co_how_does_conditional_processing_work__p_bd1_w5v_sjb">Once you have specified which values you need and in which circumstances you will need them, you can start applying them as you write. Applying them while writing is far easier than having to hunt through your documentation afterwards to find the elements that are product-, audience- or platform-specific.</p>
+<div class="p" id="co_how_does_conditional_processing_work__p_fbx_y5v_sjb">You can apply conditional attribute values in:<table class="table frame-all" id="co_how_does_conditional_processing_work__table_y2k_z5v_sjb"><caption></caption><colgroup><col style="width:50%" /><col style="width:50%" /></colgroup><thead class="thead">
+<tr>
+<th class="entry" id="co_how_does_conditional_processing_work__table_y2k_z5v_sjb__entry__1">Element</th>
+<th class="entry" id="co_how_does_conditional_processing_work__table_y2k_z5v_sjb__entry__2">Purpose</th>
+</tr>
+</thead><tbody class="tbody">
+<tr>
+<td class="entry" headers="co_how_does_conditional_processing_work__table_y2k_z5v_sjb__entry__1 ">Topics</td>
+<td class="entry" headers="co_how_does_conditional_processing_work__table_y2k_z5v_sjb__entry__2 ">Include, exclude or flag specific elements</td>
+</tr>
+<tr>
+<td class="entry" headers="co_how_does_conditional_processing_work__table_y2k_z5v_sjb__entry__1 ">DITA maps</td>
+<td class="entry" headers="co_how_does_conditional_processing_work__table_y2k_z5v_sjb__entry__2 ">Include or exclude entire topics</td>
+</tr>
+</tbody></table><div class="note note note_note" id="co_how_does_conditional_processing_work__note_h12_2vv_sjb"><span class="note__title">Note:</span> It is recommended to apply attributes to the topic references in the DITA map, and not to the <code class="keyword markupname xmlelement">&lt;topic&gt;</code> element within the topic in question.</div></div>
+</section>
+</div>
+
+</article></main></div>
+                        
+                        <div class=" wh_related_links "><nav role="navigation" class="related-links"><div class="linklist relinfo relconcepts"><strong>Related concepts</strong><br /><ul class="linklist related_link"><li class="linklist"><a class="navheader_parent_path" href="co_why_use_conditional_processing.html" title="Purpose and advantages of conditional processing">Purpose and advantages of conditional processing</a></li></ul></div></nav></div>
+                        
+                        
+                    </div>
+                    
+                        <nav role="navigation" id="wh_topic_toc" class="col-lg-2 d-none d-lg-block navbar d-print-none"> 
+                            <div class=" wh_topic_toc "><div class="wh_topic_label">On this page</div><ul><li class="section-item"><div class="section-title"><a href="#co_how_does_conditional_processing_work__section_ify_wtv_sjb" data-tocid="co_how_does_conditional_processing_work__section_ify_wtv_sjb">Planning an attribute scheme</a></div></li><li class="section-item"><div class="section-title"><a href="#co_how_does_conditional_processing_work__section_ad1_w5v_sjb" data-tocid="co_how_does_conditional_processing_work__section_ad1_w5v_sjb">Applying attributes</a></div></li></ul></div>
+                        </nav>
+                    
+                </div>
+            </div>
+        </div> 
+        <footer class="navbar navbar-default wh_footer" whc:version="21.0">
+  <div class=" footer-container mx-auto ">
+    
+            Generated by <a class="oxyFooter" href="http://www.oxygenxml.com/xml_webhelp.html" target="_blank">
+            &lt;oXygen/&gt; XML WebHelp
+            </a>
+        
+  </div>
+</footer>
+        
+        <div id="go2top">
+            <span class="oxy-icon oxy-icon-up"></span>
+        </div>
+        
+        <!-- The modal container for images -->
+        <div id="modal_img_large" class="modal">
+            <span class="close oxy-icon oxy-icon-remove"></span>
+            <!-- Modal Content (The Image) -->
+            <img class="modal-content" id="modal-img" />
+            <!-- Modal Caption (Image Text) -->
+            <div id="caption"></div>
+        </div>
+        
+        
+    </body>
+</html>

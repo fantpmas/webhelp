@@ -50,13 +50,13 @@
 <li>Time and date of creation</li>
 <li>File size</li>
 </ul></p>
-<p id="p_wpb_21r_tjb">These examples occur frequently when applying metadata. But you can add different types of metadata to files if you think that is necessary. For example: if you’re working in Photoshop, Lightroom or other graphic editors, it is not uncommon to add metadata that apply to the size of the picture or the location where the picture was taken.<ul id="ul_q5q_h1r_tjb">
+<p id="p_wpb_21r_tjb">These examples occur frequently when applying metadata. But you can add different types of metadata to files if you think that is necessary.</p>
+</section>
+<example>If you’re working in Photoshop, Lightroom or other graphic editors, it is not uncommon to add metadata that apply to the size of the picture or the location where the picture was taken.<ul id="ul_q5q_h1r_tjb">
 <li>How large is the picture?</li>
 <li>Which colors are being used?</li>
 <li>Where has the picture been taken?</li>
-</ul></p>
-<p id="p_tkw_j1r_tjb">But you can even go further: Which mood does this picture provoke? The possibilities with metadata are infinite.</p>
-</section>
+</ul>But you can even go further: Which mood does this picture provoke? The possibilities with metadata are infinite.</example>
 <section id="section_a1k_k1r_tjb">
 <title>International standards for metadata</title>
 <p id="p_b1k_k1r_tjb">The possibilities may be endless, but they are bound by international standards. The most important of these are the American National Standards Institute (ANSI) and the International Organization for Standardization (ISO). The most exalted metadata standard is ISO/IEC 11179 Metadata Registries (MDR).</p>

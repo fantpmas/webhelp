@@ -100,7 +100,7 @@
 </topicref>
 </topicref>
 </topicref>
-<topicref href="co_dita_open_toolkit__ot.dita">
+<topicref href="co_dita_open_toolkit__ot.dita" chunk="to-content">
 <topicref href="co_what_is_the_dita_open_toolkit__ot.dita"/>
 <topicref href="co_what_does_the_dita_open_toolkit__ot__do.dita"/>
 <topicref href="co_webcast__localization_and_the_dita_open_toolkit.dita"/>

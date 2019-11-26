@@ -1,0 +1,2576 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml"><title><span xmlns="http://www.w3.org/1999/xhtml" class="booktitle">  <span class="ph mainbooktitle">flow_dita_webhelp</span>  </span></title><topicmeta>
+<author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author>
+<authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation>
+<metadata class="- topic/metadata ">
+<keywords class="- topic/keywords "></keywords>
+<prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo>
+<data class="- topic/data "></data>
+</metadata>
+<bookchangehistory class="- topic/data bookmap/bookchangehistory ">
+<reviewed class="- topic/data bookmap/reviewed ">
+<started class="- topic/ph bookmap/started ">
+<year class="- topic/ph bookmap/year "></year>
+<month class="- topic/ph bookmap/month "></month>
+<day class="- topic/ph bookmap/day "></day>
+</started>
+<completed class="- topic/ph bookmap/completed ">
+<year class="- topic/ph bookmap/year "></year>
+<month class="- topic/ph bookmap/month "></month>
+<day class="- topic/ph bookmap/day "></day>
+</completed>
+<summary class="- topic/ph bookmap/summary "></summary>
+</reviewed>
+<edited class="- topic/data bookmap/edited ">
+<person class="- topic/data bookmap/person "></person>
+<started class="- topic/ph bookmap/started ">
+<year class="- topic/ph bookmap/year "></year>
+<month class="- topic/ph bookmap/month "></month>
+<day class="- topic/ph bookmap/day "></day>
+</started>
+<completed class="- topic/ph bookmap/completed ">
+<year class="- topic/ph bookmap/year "></year>
+<month class="- topic/ph bookmap/month "></month>
+<day class="- topic/ph bookmap/day "></day>
+</completed>
+<summary class="- topic/ph bookmap/summary "></summary>
+</edited>
+</bookchangehistory>
+<bookrights class="- topic/data bookmap/bookrights ">
+<bookowner class="- topic/data bookmap/bookowner ">
+<organization class="- topic/data bookmap/organization "></organization>
+</bookowner>
+</bookrights>
+</topicmeta><topic href="en/co_what_is_dita.html" data-id="co_what_is_dita" wh-toc-id="co_what_is_dita-d62e124"><title>What is DITA?</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_dita"></resourceid><navtitle class="- topic/navtitle ">What is DITA?</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is DITA?</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_automatic_flowchart_generation.html" data-id="co_automatic_flowchart_generation" wh-toc-id="co_automatic_flowchart_generation-d62e164"><title>Automatic flowchart generation</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_automatic_flowchart_generation"></resourceid><navtitle class="- topic/navtitle ">Automatic flowchart generation</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Automatic flowchart generation</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/to_different_levels_of_content_re_use.html" data-id="to_different_levels_of_content_re_use" wh-toc-id="to_different_levels_of_content_re_use-d62e204"><title>Different levels of content re-use</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_different_levels_of_content_re_use"></resourceid><navtitle class="- topic/navtitle ">Different levels of content re-use</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Different levels of content re-use</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_using_conrefs.html" data-id="co_using_conrefs" wh-toc-id="co_using_conrefs-d62e244"><title>Using content references (conrefs)</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_using_conrefs"></resourceid><navtitle class="- topic/navtitle ">Using content references (conrefs)</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Using content references (conrefs)</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_re_using_elements.html" data-id="co_re_using_elements" wh-toc-id="co_re_using_elements-d62e284"><title>Re-using elements</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_re_using_elements"></resourceid><navtitle class="- topic/navtitle ">Re-using elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Re-using elements</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_re_using_topics.html" data-id="co_re_using_topics" wh-toc-id="co_re_using_topics-d62e324"><title>Re-using topics</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_re_using_topics"></resourceid><navtitle class="- topic/navtitle ">Re-using topics</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Re-using topics</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_re_using_dita_maps.html" data-id="co_re_using_dita_maps" wh-toc-id="co_re_using_dita_maps-d62e364"><title>Re-using DITA maps</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_re_using_dita_maps"></resourceid><navtitle class="- topic/navtitle ">Re-using DITA maps</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Re-using DITA maps</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_re_using_content_from_non_dita_sources.html" data-id="co_re_using_content_from_non_dita_sources" wh-toc-id="co_re_using_content_from_non_dita_sources-d62e404"><title>Re-using content from non-DITA sources</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_re_using_content_from_non_dita_sources"></resourceid><navtitle class="- topic/navtitle ">Re-using content from non-DITA sources</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Re-using content from non-DITA sources</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/ta_dita2pdf.html" data-id="ta_dita2pdf" wh-toc-id="ta_dita2pdf-d62e444"><title>Publishing DITA files to PDF with DITA2PDF</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_dita2pdf"></resourceid><navtitle class="- topic/navtitle ">Publishing DITA files to PDF with DITA2PDF</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Publishing DITA files to PDF with DITA2PDF</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_dita_for_kids.html" data-id="co_dita_for_kids" wh-toc-id="co_dita_for_kids-d62e485"><title>DITA for kids</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_dita_for_kids"></resourceid><navtitle class="- topic/navtitle ">DITA for kids</navtitle><?ditaot gentext?><linktext class="- map/linktext ">DITA for kids</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_free_e_learning_course_learningdita.html" data-id="co_free_e_learning_course_learningdita" wh-toc-id="co_free_e_learning_course_learningdita-d62e525"><title>Free e-learning course LearningDITA</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_free_e_learning_course_learningdita"></resourceid><navtitle class="- topic/navtitle ">Free e-learning course LearningDITA</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Free e-learning course LearningDITA</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_guidelines_for_chunking_content.html" data-id="co_guidelines_for_chunking_content" wh-toc-id="co_guidelines_for_chunking_content-d62e565"><title>Guidelines for chunking content</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_guidelines_for_chunking_content"></resourceid><navtitle class="- topic/navtitle ">Guidelines for chunking content</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Guidelines for chunking content</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_guidelines_for_creating_dita_maps_and_bookmaps.html" data-id="co_guidelines_for_creating_dita_maps_and_bookmaps" wh-toc-id="co_guidelines_for_creating_dita_maps_and_bookmaps-d62e605"><title>Guidelines for creating DITA maps and bookmaps</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_guidelines_for_creating_dita_maps_and_bookmaps"></resourceid><navtitle class="- topic/navtitle ">Guidelines for creating DITA maps and bookmaps</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Guidelines for creating DITA maps and bookmaps</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/to_guidelines_for_creating_links.html" data-id="to_guidelines_for_creating_links" wh-toc-id="to_guidelines_for_creating_links-d62e645"><title>Guidelines for creating links</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_guidelines_for_creating_links"></resourceid><navtitle class="- topic/navtitle ">Guidelines for creating links</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Guidelines for creating links</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_do_not_over_use_inline_links.html" data-id="co_do_not_over_use_inline_links" wh-toc-id="co_do_not_over_use_inline_links-d62e685"><title>Do not overuse inline links</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_do_not_over_use_inline_links"></resourceid><navtitle class="- topic/navtitle ">Do not overuse inline links</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Do not overuse inline links</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_think_about_the_phrasing_and_positioning_of_inline_links.html" data-id="co_think_about_the_phrasing_and_positioning_of_inline_links" wh-toc-id="co_think_about_the_phrasing_and_positioning_of_inline_links-d62e725"><title>Think about the phrasing and positioning of inline links</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_think_about_the_phrasing_and_positioning_of_inline_links"></resourceid><navtitle class="- topic/navtitle ">Think about the phrasing and positioning of inline links</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Think about the phrasing and positioning of inline links</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_do_not_overuse_relationship_tables.html" data-id="co_do_not_overuse_relationship_tables" wh-toc-id="co_do_not_overuse_relationship_tables-d62e765"><title>Do not overuse relationship tables</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_do_not_overuse_relationship_tables"></resourceid><navtitle class="- topic/navtitle ">Do not overuse relationship tables</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Do not overuse relationship tables</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_add_collection_type_links.html" data-id="co_add_collection_type_links" wh-toc-id="co_add_collection_type_links-d62e805"><title>Add collection-type links</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_add_collection_type_links"></resourceid><navtitle class="- topic/navtitle ">Add collection-type links</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Add collection-type links</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/co_guidelines_for_writing_topic_titles.html" data-id="co_guidelines_for_writing_topic_titles" wh-toc-id="co_guidelines_for_writing_topic_titles-d62e845"><title>Guidelines for writing topic titles</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_guidelines_for_writing_topic_titles"></resourceid><navtitle class="- topic/navtitle ">Guidelines for writing topic titles</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Guidelines for writing topic titles</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_how_does_conditional_processing_work.html" data-id="co_how_does_conditional_processing_work" wh-toc-id="co_how_does_conditional_processing_work-d62e885"><title>Using DITAVAL files in DITA</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_how_does_conditional_processing_work"></resourceid><navtitle class="- topic/navtitle ">Using DITAVAL files in DITA</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Using DITAVAL files in DITA</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_multi_channel_publishing.html" data-id="co_multi_channel_publishing" wh-toc-id="co_multi_channel_publishing-d62e925"><title>Multi-channel publishing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_multi_channel_publishing"></resourceid><navtitle class="- topic/navtitle ">Multi-channel publishing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Multi-channel publishing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_structure_vs__lay_out.html" data-id="co_structure_vs__lay_out" wh-toc-id="co_structure_vs__lay_out-d62e965"><title>Structure vs. lay-out</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_structure_vs__lay_out"></resourceid><navtitle class="- topic/navtitle ">Structure vs. lay-out</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Structure vs. lay-out</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_publishing.html" data-id="co_publishing" wh-toc-id="co_publishing-d62e1005"><title>Publishing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_publishing"></resourceid><navtitle class="- topic/navtitle ">Publishing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Publishing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_publishing_strategies.html" data-id="co_publishing_strategies" wh-toc-id="co_publishing_strategies-d62e1045"><title>Two main publishing strategies</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_publishing_strategies"></resourceid><navtitle class="- topic/navtitle ">Two main publishing strategies</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Two main publishing strategies</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/ta_publishing_your_dita_content_to_multiple_output_formats.html" data-id="ta_publishing_your_dita_content_to_multiple_output_formats" wh-toc-id="ta_publishing_your_dita_content_to_multiple_output_formats-d62e1085"><title>Publishing your DITA content with DITA OT</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_publishing_your_dita_content_to_multiple_output_formats"></resourceid><navtitle class="- topic/navtitle ">Publishing your DITA content with DITA OT</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Publishing your DITA content with DITA OT</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_webcast__localization_and_the_dita_open_toolkit.html" data-id="co_webcast__localization_and_the_dita_open_toolkit" wh-toc-id="co_webcast__localization_and_the_dita_open_toolkit-d62e1125"><title>Webcast: Localization and the DITA Open Toolkit</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_webcast__localization_and_the_dita_open_toolkit"></resourceid><navtitle class="- topic/navtitle ">Webcast: Localization and the DITA Open Toolkit</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Webcast: Localization and the DITA Open Toolkit</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_what_does_the_dita_open_toolkit__ot__do.html" data-id="co_what_does_the_dita_open_toolkit__ot__do" wh-toc-id="co_what_does_the_dita_open_toolkit__ot__do-d62e1165"><title>What does the DITA Open Toolkit (OT) do</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_does_the_dita_open_toolkit__ot__do"></resourceid><navtitle class="- topic/navtitle ">What does the DITA Open Toolkit (OT) do</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What does the DITA Open Toolkit (OT) do</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_what_is_a_bookmap.html" data-id="co_what_is_a_bookmap" wh-toc-id="co_what_is_a_bookmap-d62e1206"><title>What is a bookmap</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_a_bookmap"></resourceid><navtitle class="- topic/navtitle ">What is a bookmap</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is a bookmap</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_what_is_a_dita_map.html" data-id="co_what_is_a_dita_map" wh-toc-id="co_what_is_a_dita_map-d62e1246"><title>What is a DITA map</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_a_dita_map"></resourceid><navtitle class="- topic/navtitle ">What is a DITA map</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is a DITA map</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_what_is_an_information_type.html" data-id="co_what_is_an_information_type" wh-toc-id="co_what_is_an_information_type-d62e1286"><title>What is an information type</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_an_information_type"></resourceid><navtitle class="- topic/navtitle ">What is an information type</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is an information type</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_what_is_a_topic.html" data-id="co_what_is_a_topic" wh-toc-id="co_what_is_a_topic-d62e1326"><title>What is a topic</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_a_topic"></resourceid><navtitle class="- topic/navtitle ">What is a topic</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is a topic</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_what_is_conditional_processing.html" data-id="co_what_is_conditional_processing" wh-toc-id="co_what_is_conditional_processing-d62e1366"><title>What is conditional processing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_conditional_processing"></resourceid><navtitle class="- topic/navtitle ">What is conditional processing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is conditional processing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_what_is_the_dita_open_toolkit__ot.html" data-id="co_what_is_the_dita_open_toolkit__ot" wh-toc-id="co_what_is_the_dita_open_toolkit__ot-d62e1406"><title>What is the DITA Open Toolkit (OT)</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_the_dita_open_toolkit__ot"></resourceid><navtitle class="- topic/navtitle ">What is the DITA Open Toolkit (OT)</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is the DITA Open Toolkit (OT)</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_why_re_use_content.html" data-id="co_why_re_use_content" wh-toc-id="co_why_re_use_content-d62e1446"><title>Advantages of re-using content</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_why_re_use_content"></resourceid><navtitle class="- topic/navtitle ">Advantages of re-using content</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Advantages of re-using content</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_why_use_bookmaps.html" data-id="co_why_use_bookmaps" wh-toc-id="co_why_use_bookmaps-d62e1486"><title>Why use bookmaps (WEG)</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_why_use_bookmaps"></resourceid><navtitle class="- topic/navtitle ">Why use bookmaps (WEG)</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Why use bookmaps (WEG)</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_why_use_conditional_processing.html" data-id="co_why_use_conditional_processing" wh-toc-id="co_why_use_conditional_processing-d62e1526"><title>Purpose and advantages of conditional processing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_why_use_conditional_processing"></resourceid><navtitle class="- topic/navtitle ">Purpose and advantages of conditional processing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Purpose and advantages of conditional processing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_why_use_dita_maps.html" data-id="co_why_use_dita_maps" wh-toc-id="co_why_use_dita_maps-d62e1566"><title>Purposes and advantages of DITA maps</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_why_use_dita_maps"></resourceid><navtitle class="- topic/navtitle ">Purposes and advantages of DITA maps</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Purposes and advantages of DITA maps</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_why_use_metadata.html" data-id="co_why_use_metadata" wh-toc-id="co_why_use_metadata-d62e1606"><title>Why use metadata</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_why_use_metadata"></resourceid><navtitle class="- topic/navtitle ">Why use metadata</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Why use metadata</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_xml_editors.html" data-id="co_xml_editors" wh-toc-id="co_xml_editors-d62e1647"><title>XML editors</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_xml_editors"></resourceid><navtitle class="- topic/navtitle ">XML editors</navtitle><?ditaot gentext?><linktext class="- map/linktext ">XML editors</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_oxygen_xml.html" data-id="co_oxygen_xml" wh-toc-id="co_oxygen_xml-d62e1687"><title>Oxygen XML</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_oxygen_xml"></resourceid><navtitle class="- topic/navtitle ">Oxygen XML</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Oxygen XML</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/to_glossaries_through_tooltips.html" data-id="to_glossaries_through_tooltips" wh-toc-id="to_glossaries_through_tooltips-d62e1727"><title>Glossaries through tooltips</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_glossaries_through_tooltips"></resourceid><navtitle class="- topic/navtitle ">Glossaries through tooltips</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Glossaries through tooltips</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_glossaries_versus_tooltips.html" data-id="co_glossaries_versus_tooltips" wh-toc-id="co_glossaries_versus_tooltips-d62e1767"><title>Glossaries versus tooltips</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_glossaries_versus_tooltips"></resourceid><navtitle class="- topic/navtitle ">Glossaries versus tooltips</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Glossaries versus tooltips</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/ta_creating_tooltips_in_oxygen_s_online_help_output.html" data-id="ta_creating_tooltips_in_oxygen_s_online_help_output" wh-toc-id="ta_creating_tooltips_in_oxygen_s_online_help_output-d62e1807"><title>Creating tooltips in Oxygen's online help output</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_creating_tooltips_in_oxygen_s_online_help_output"></resourceid><navtitle class="- topic/navtitle ">Creating tooltips in Oxygen's online help output</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Creating tooltips in Oxygen's online help output</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/ta_create_a_glossterm_topic.html" data-id="ta_create_a_glossterm_topic" wh-toc-id="ta_create_a_glossterm_topic-d62e1847"><title>Create a glossterm topic</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_create_a_glossterm_topic"></resourceid><navtitle class="- topic/navtitle ">Create a glossterm topic</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Create a glossterm topic</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/ta_add_the_glossary_term_to_the_glossary_map.html" data-id="ta_add_the_glossary_term_to_the_glossary_map" wh-toc-id="ta_add_the_glossary_term_to_the_glossary_map-d62e1887"><title>Add the glossary term to the glossary map</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_add_the_glossary_term_to_the_glossary_map"></resourceid><navtitle class="- topic/navtitle ">Add the glossary term to the glossary map</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Add the glossary term to the glossary map</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/ta_reference_the_glossary_term_in_a_topic.html" data-id="ta_reference_the_glossary_term_in_a_topic" wh-toc-id="ta_reference_the_glossary_term_in_a_topic-d62e1927"><title>Reference the glossary term in a topic</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_reference_the_glossary_term_in_a_topic"></resourceid><navtitle class="- topic/navtitle ">Reference the glossary term in a topic</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Reference the glossary term in a topic</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic></topic><topic href="en/co_new_in_oxygen_19_0.html" data-id="co_new_in_oxygen_19_0" wh-toc-id="co_new_in_oxygen_19_0-d62e1967"><title>New in Oxygen 19.0</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_new_in_oxygen_19_0"></resourceid><navtitle class="- topic/navtitle ">New in Oxygen 19.0</navtitle><?ditaot gentext?><linktext class="- map/linktext ">New in Oxygen 19.0</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check.html" data-id="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check" wh-toc-id="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check-d62e2007"><title>Adding a Dutch dictionary to Oxygen's Spell Check</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check"></resourceid><navtitle class="- topic/navtitle ">Adding a Dutch dictionary to Oxygen's Spell Check</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Adding a Dutch dictionary to Oxygen's Spell Check</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_quick_fixes.html" data-id="co_quick_fixes" wh-toc-id="co_quick_fixes-d62e2047"><title>Quick Fixes</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_quick_fixes"></resourceid><navtitle class="- topic/navtitle ">Quick Fixes</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Quick Fixes</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_responsive_online_help.html" data-id="co_responsive_online_help" wh-toc-id="co_responsive_online_help-d62e2087"><title>Responsive online help</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_responsive_online_help"></resourceid><navtitle class="- topic/navtitle ">Responsive online help</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Responsive online help</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/ta_selecting_dita_map_webhelp_responsive_as_output_format.html" data-id="ta_selecting_dita_map_webhelp_responsive_as_output_format" wh-toc-id="ta_selecting_dita_map_webhelp_responsive_as_output_format-d62e2127"><title>Selecting DITA Map Webhelp Responsive as output format</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_selecting_dita_map_webhelp_responsive_as_output_format"></resourceid><navtitle class="- topic/navtitle ">Selecting DITA Map Webhelp Responsive as output format</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Selecting DITA Map Webhelp Responsive as output format</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/tr_oxygen_webhelp_and_epub_transformation_error.html" data-id="tr_oxygen_webhelp_and_epub_transformation_error" wh-toc-id="tr_oxygen_webhelp_and_epub_transformation_error-d62e2167"><title>Oxygen Webhelp and EPUB transformation error</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="tr_oxygen_webhelp_and_epub_transformation_error"></resourceid><navtitle class="- topic/navtitle ">Oxygen Webhelp and EPUB transformation error</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Oxygen Webhelp and EPUB transformation error</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic></topic><topic href="en/to_technical_writing.html" data-id="to_technical_writing" wh-toc-id="to_technical_writing-d62e2207"><title>Technical writing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_technical_writing"></resourceid><navtitle class="- topic/navtitle ">Technical writing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Technical writing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_structured_authoring.html" data-id="co_structured_authoring" wh-toc-id="co_structured_authoring-d62e2247"><title>Structured authoring</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_structured_authoring"></resourceid><navtitle class="- topic/navtitle ">Structured authoring</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Structured authoring</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_audience_oriented_authoring.html" data-id="co_audience_oriented_authoring" wh-toc-id="co_audience_oriented_authoring-d62e2287"><title>Audience-oriented authoring</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_audience_oriented_authoring"></resourceid><navtitle class="- topic/navtitle ">Audience-oriented authoring</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Audience-oriented authoring</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_coherence.html" data-id="co_coherence" wh-toc-id="co_coherence-d62e2327"><title>Coherence</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_coherence"></resourceid><navtitle class="- topic/navtitle ">Coherence</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Coherence</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_consistency.html" data-id="co_consistency" wh-toc-id="co_consistency-d62e2367"><title>Consistency</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_consistency"></resourceid><navtitle class="- topic/navtitle ">Consistency</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Consistency</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_illustrations_and_animations.html" data-id="co_illustrations_and_animations" wh-toc-id="co_illustrations_and_animations-d62e2407"><title>Illustrations and animations</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_illustrations_and_animations"></resourceid><navtitle class="- topic/navtitle ">Illustrations and animations</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Illustrations and animations</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_minimalism.html" data-id="co_minimalism" wh-toc-id="co_minimalism-d62e2447"><title>Minimalism</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_minimalism"></resourceid><navtitle class="- topic/navtitle ">Minimalism</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Minimalism</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_segmentation.html" data-id="co_segmentation" wh-toc-id="co_segmentation-d62e2487"><title>Segmentation</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_segmentation"></resourceid><navtitle class="- topic/navtitle ">Segmentation</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Segmentation</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_structure.html" data-id="co_structure" wh-toc-id="co_structure-d62e2527"><title>Structure</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_structure"></resourceid><navtitle class="- topic/navtitle ">Structure</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Structure</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_titles.html" data-id="co_titles" wh-toc-id="co_titles-d62e2567"><title>Titles</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_titles"></resourceid><navtitle class="- topic/navtitle ">Titles</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Titles</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/co_five_copywriting_errors.html" data-id="co_five_copywriting_errors" wh-toc-id="co_five_copywriting_errors-d62e2607"><title>Five copywriting errors</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_five_copywriting_errors"></resourceid><navtitle class="- topic/navtitle ">Five copywriting errors</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Five copywriting errors</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/co_terminology.html" data-id="co_terminology" wh-toc-id="co_terminology-d62e2647"><title>Terminology</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_terminology"></resourceid><navtitle class="- topic/navtitle ">Terminology</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Terminology</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_information_model.html" data-id="co_information_model" wh-toc-id="co_information_model-d62e2687"><title>What is an information model</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_information_model"></resourceid><navtitle class="- topic/navtitle ">What is an information model</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is an information model</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_information_type.html" data-id="co_information_type" wh-toc-id="co_information_type-d62e2727"><title>Information type (WEG)</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_information_type"></resourceid><navtitle class="- topic/navtitle ">Information type (WEG)</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Information type (WEG)</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_information_unit.html" data-id="co_information_unit" wh-toc-id="co_information_unit-d62e2767"><title>Information unit</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_information_unit"></resourceid><navtitle class="- topic/navtitle ">Information unit</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Information unit</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_single_sourcing.html" data-id="co_single_sourcing" wh-toc-id="co_single_sourcing-d62e2807"><title>Single sourcing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_single_sourcing"></resourceid><navtitle class="- topic/navtitle ">Single sourcing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Single sourcing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/co_what_is_dita_2.html" data-id="co_what_is_dita" wh-toc-id="co_what_is_dita-d62e2848"><title>What is DITA?</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_dita"></resourceid><navtitle class="- topic/navtitle ">What is DITA?</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is DITA?</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/to_technical_writing_2.html" data-id="to_technical_writing" wh-toc-id="to_technical_writing-d62e2888"><title>Technical writing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_technical_writing"></resourceid><navtitle class="- topic/navtitle ">Technical writing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Technical writing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_structured_authoring_2.html" data-id="co_structured_authoring" wh-toc-id="co_structured_authoring-d62e2928"><title>Structured authoring</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_structured_authoring"></resourceid><navtitle class="- topic/navtitle ">Structured authoring</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Structured authoring</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_information_unit_2.html" data-id="co_information_unit" wh-toc-id="co_information_unit-d62e2968"><title>Information unit</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_information_unit"></resourceid><navtitle class="- topic/navtitle ">Information unit</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Information unit</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_what_is_a_topic_2.html" data-id="co_what_is_a_topic" wh-toc-id="co_what_is_a_topic-d62e3008"><title>What is a topic</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_a_topic"></resourceid><navtitle class="- topic/navtitle ">What is a topic</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is a topic</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_information_model_2.html" data-id="co_information_model" wh-toc-id="co_information_model-d62e3048"><title>What is an information model</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_information_model"></resourceid><navtitle class="- topic/navtitle ">What is an information model</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is an information model</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/to_best_practices_of_structured_authoring.html" data-id="to_best_practices_of_structured_authoring" wh-toc-id="to_best_practices_of_structured_authoring-d62e3088"><title>Best practices of structured authoring</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_best_practices_of_structured_authoring"></resourceid><navtitle class="- topic/navtitle ">Best practices of structured authoring</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Best practices of structured authoring</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_audience_oriented_authoring_2.html" data-id="co_audience_oriented_authoring" wh-toc-id="co_audience_oriented_authoring-d62e3128"><title>Audience-oriented authoring</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_audience_oriented_authoring"></resourceid><navtitle class="- topic/navtitle ">Audience-oriented authoring</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Audience-oriented authoring</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_coherence_2.html" data-id="co_coherence" wh-toc-id="co_coherence-d62e3168"><title>Coherence</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_coherence"></resourceid><navtitle class="- topic/navtitle ">Coherence</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Coherence</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_consistency_2.html" data-id="co_consistency" wh-toc-id="co_consistency-d62e3208"><title>Consistency</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_consistency"></resourceid><navtitle class="- topic/navtitle ">Consistency</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Consistency</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_illustrations_and_animations_2.html" data-id="co_illustrations_and_animations" wh-toc-id="co_illustrations_and_animations-d62e3248"><title>Illustrations and animations</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_illustrations_and_animations"></resourceid><navtitle class="- topic/navtitle ">Illustrations and animations</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Illustrations and animations</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_minimalism_2.html" data-id="co_minimalism" wh-toc-id="co_minimalism-d62e3288"><title>Minimalism</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_minimalism"></resourceid><navtitle class="- topic/navtitle ">Minimalism</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Minimalism</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_segmentation_2.html" data-id="co_segmentation" wh-toc-id="co_segmentation-d62e3328"><title>Segmentation</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_segmentation"></resourceid><navtitle class="- topic/navtitle ">Segmentation</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Segmentation</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_structure_2.html" data-id="co_structure" wh-toc-id="co_structure-d62e3368"><title>Structure</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_structure"></resourceid><navtitle class="- topic/navtitle ">Structure</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Structure</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_titles_2.html" data-id="co_titles" wh-toc-id="co_titles-d62e3408"><title>Titles</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_titles"></resourceid><navtitle class="- topic/navtitle ">Titles</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Titles</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic></topic><topic href="en/co_five_copywriting_errors_2.html" data-id="co_five_copywriting_errors" wh-toc-id="co_five_copywriting_errors-d62e3448"><title>Five copywriting errors</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_five_copywriting_errors"></resourceid><navtitle class="- topic/navtitle ">Five copywriting errors</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Five copywriting errors</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/to_dita.html" data-id="to_dita" wh-toc-id="to_dita-d62e3488"><title>DITA</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_dita"></resourceid><navtitle class="- topic/navtitle ">DITA</navtitle><?ditaot gentext?><linktext class="- map/linktext ">DITA</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_what_is_an_information_type_2.html" data-id="co_what_is_an_information_type" wh-toc-id="co_what_is_an_information_type-d62e3528"><title>What is an information type</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_an_information_type"></resourceid><navtitle class="- topic/navtitle ">What is an information type</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is an information type</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_what_is_a_dita_map_2.html" data-id="co_what_is_a_dita_map" wh-toc-id="co_what_is_a_dita_map-d62e3568"><title>What is a DITA map</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_a_dita_map"></resourceid><navtitle class="- topic/navtitle ">What is a DITA map</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is a DITA map</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_why_use_dita_maps_2.html" data-id="co_why_use_dita_maps" wh-toc-id="co_why_use_dita_maps-d62e3608"><title>Purposes and advantages of DITA maps</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_why_use_dita_maps"></resourceid><navtitle class="- topic/navtitle ">Purposes and advantages of DITA maps</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Purposes and advantages of DITA maps</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/co_what_is_a_bookmap_2.html" data-id="co_what_is_a_bookmap" wh-toc-id="co_what_is_a_bookmap-d62e3648"><title>What is a bookmap</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_a_bookmap"></resourceid><navtitle class="- topic/navtitle ">What is a bookmap</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is a bookmap</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/to_learning_dita.html" data-id="to_learning_dita" wh-toc-id="to_learning_dita-d62e3688"><title>Learning DITA</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_learning_dita"></resourceid><navtitle class="- topic/navtitle ">Learning DITA</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Learning DITA</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_dita_for_kids_2.html" data-id="co_dita_for_kids" wh-toc-id="co_dita_for_kids-d62e3728"><title>DITA for kids</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_dita_for_kids"></resourceid><navtitle class="- topic/navtitle ">DITA for kids</navtitle><?ditaot gentext?><linktext class="- map/linktext ">DITA for kids</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_free_e_learning_course_learningdita_2.html" data-id="co_free_e_learning_course_learningdita" wh-toc-id="co_free_e_learning_course_learningdita-d62e3768"><title>Free e-learning course LearningDITA</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_free_e_learning_course_learningdita"></resourceid><navtitle class="- topic/navtitle ">Free e-learning course LearningDITA</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Free e-learning course LearningDITA</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic></topic><topic href="en/to_automation_of_documentation_processes.html" data-id="to_automation_of_documentation_processes" wh-toc-id="to_automation_of_documentation_processes-d62e3808"><title>Automation of documentation processes</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_automation_of_documentation_processes"></resourceid><navtitle class="- topic/navtitle ">Automation of documentation processes</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Automation of documentation processes</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_why_re_use_content_2.html" data-id="co_why_re_use_content" wh-toc-id="co_why_re_use_content-d62e3848"><title>Advantages of re-using content</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_why_re_use_content"></resourceid><navtitle class="- topic/navtitle ">Advantages of re-using content</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Advantages of re-using content</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_single_sourcing_2.html" data-id="co_single_sourcing" wh-toc-id="co_single_sourcing-d62e3888"><title>Single sourcing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_single_sourcing"></resourceid><navtitle class="- topic/navtitle ">Single sourcing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Single sourcing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_multi_channel_publishing_2.html" data-id="co_multi_channel_publishing" wh-toc-id="co_multi_channel_publishing-d62e3928"><title>Multi-channel publishing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_multi_channel_publishing"></resourceid><navtitle class="- topic/navtitle ">Multi-channel publishing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Multi-channel publishing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_structure_vs__lay_out_2.html" data-id="co_structure_vs__lay_out" wh-toc-id="co_structure_vs__lay_out-d62e3968"><title>Structure vs. lay-out</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_structure_vs__lay_out"></resourceid><navtitle class="- topic/navtitle ">Structure vs. lay-out</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Structure vs. lay-out</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_publishing_2.html" data-id="co_publishing" wh-toc-id="co_publishing-d62e4008"><title>Publishing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_publishing"></resourceid><navtitle class="- topic/navtitle ">Publishing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Publishing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/co_why_use_metadata_2.html" data-id="co_why_use_metadata" wh-toc-id="co_why_use_metadata-d62e4048"><title>Why use metadata</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_why_use_metadata"></resourceid><navtitle class="- topic/navtitle ">Why use metadata</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Why use metadata</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/co_xml_editors_2.html" data-id="co_xml_editors" wh-toc-id="co_xml_editors-d62e4088"><title>XML editors</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_xml_editors"></resourceid><navtitle class="- topic/navtitle ">XML editors</navtitle><?ditaot gentext?><linktext class="- map/linktext ">XML editors</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_oxygen_xml_2.html" data-id="co_oxygen_xml" wh-toc-id="co_oxygen_xml-d62e4128"><title>Oxygen XML</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_oxygen_xml"></resourceid><navtitle class="- topic/navtitle ">Oxygen XML</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Oxygen XML</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/to_guidelines_and_tips_oxygen_xml.html" data-id="to_guidelines_and_tips_oxygen_xml" wh-toc-id="to_guidelines_and_tips_oxygen_xml-d62e4168"><title>Guidelines and tips for writing in Oxygen XML</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_guidelines_and_tips_oxygen_xml"></resourceid><navtitle class="- topic/navtitle ">Guidelines and tips for writing in Oxygen XML</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Guidelines and tips for writing in Oxygen XML</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_guidelines_for_chunking_content_2.html" data-id="co_guidelines_for_chunking_content" wh-toc-id="co_guidelines_for_chunking_content-d62e4208"><title>Guidelines for chunking content</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_guidelines_for_chunking_content"></resourceid><navtitle class="- topic/navtitle ">Guidelines for chunking content</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Guidelines for chunking content</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_guidelines_for_writing_topic_titles_2.html" data-id="co_guidelines_for_writing_topic_titles" wh-toc-id="co_guidelines_for_writing_topic_titles-d62e4248"><title>Guidelines for writing topic titles</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_guidelines_for_writing_topic_titles"></resourceid><navtitle class="- topic/navtitle ">Guidelines for writing topic titles</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Guidelines for writing topic titles</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_guidelines_for_creating_dita_maps_and_bookmaps_2.html" data-id="co_guidelines_for_creating_dita_maps_and_bookmaps" wh-toc-id="co_guidelines_for_creating_dita_maps_and_bookmaps-d62e4288"><title>Guidelines for creating DITA maps and bookmaps</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_guidelines_for_creating_dita_maps_and_bookmaps"></resourceid><navtitle class="- topic/navtitle ">Guidelines for creating DITA maps and bookmaps</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Guidelines for creating DITA maps and bookmaps</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/to_guidelines_for_creating_links_2.html" data-id="to_guidelines_for_creating_links" wh-toc-id="to_guidelines_for_creating_links-d62e4328"><title>Guidelines for creating links</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_guidelines_for_creating_links"></resourceid><navtitle class="- topic/navtitle ">Guidelines for creating links</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Guidelines for creating links</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_do_not_over_use_inline_links_2.html" data-id="co_do_not_over_use_inline_links" wh-toc-id="co_do_not_over_use_inline_links-d62e4368"><title>Do not overuse inline links</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_do_not_over_use_inline_links"></resourceid><navtitle class="- topic/navtitle ">Do not overuse inline links</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Do not overuse inline links</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_think_about_the_phrasing_and_positioning_of_inline_links_2.html" data-id="co_think_about_the_phrasing_and_positioning_of_inline_links" wh-toc-id="co_think_about_the_phrasing_and_positioning_of_inline_links-d62e4408"><title>Think about the phrasing and positioning of inline links</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_think_about_the_phrasing_and_positioning_of_inline_links"></resourceid><navtitle class="- topic/navtitle ">Think about the phrasing and positioning of inline links</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Think about the phrasing and positioning of inline links</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_do_not_overuse_relationship_tables_2.html" data-id="co_do_not_overuse_relationship_tables" wh-toc-id="co_do_not_overuse_relationship_tables-d62e4448"><title>Do not overuse relationship tables</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_do_not_overuse_relationship_tables"></resourceid><navtitle class="- topic/navtitle ">Do not overuse relationship tables</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Do not overuse relationship tables</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_add_collection_type_links_2.html" data-id="co_add_collection_type_links" wh-toc-id="co_add_collection_type_links-d62e4488"><title>Add collection-type links</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_add_collection_type_links"></resourceid><navtitle class="- topic/navtitle ">Add collection-type links</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Add collection-type links</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/to_different_levels_of_content_re_use_2.html" data-id="to_different_levels_of_content_re_use" wh-toc-id="to_different_levels_of_content_re_use-d62e4528"><title>Different levels of content re-use</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_different_levels_of_content_re_use"></resourceid><navtitle class="- topic/navtitle ">Different levels of content re-use</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Different levels of content re-use</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_using_conrefs_2.html" data-id="co_using_conrefs" wh-toc-id="co_using_conrefs-d62e4568"><title>Using content references (conrefs)</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_using_conrefs"></resourceid><navtitle class="- topic/navtitle ">Using content references (conrefs)</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Using content references (conrefs)</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_re_using_elements_2.html" data-id="co_re_using_elements" wh-toc-id="co_re_using_elements-d62e4608"><title>Re-using elements</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_re_using_elements"></resourceid><navtitle class="- topic/navtitle ">Re-using elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Re-using elements</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_re_using_topics_2.html" data-id="co_re_using_topics" wh-toc-id="co_re_using_topics-d62e4648"><title>Re-using topics</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_re_using_topics"></resourceid><navtitle class="- topic/navtitle ">Re-using topics</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Re-using topics</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_re_using_dita_maps_2.html" data-id="co_re_using_dita_maps" wh-toc-id="co_re_using_dita_maps-d62e4688"><title>Re-using DITA maps</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_re_using_dita_maps"></resourceid><navtitle class="- topic/navtitle ">Re-using DITA maps</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Re-using DITA maps</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_re_using_content_from_non_dita_sources_2.html" data-id="co_re_using_content_from_non_dita_sources" wh-toc-id="co_re_using_content_from_non_dita_sources-d62e4728"><title>Re-using content from non-DITA sources</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_re_using_content_from_non_dita_sources"></resourceid><navtitle class="- topic/navtitle ">Re-using content from non-DITA sources</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Re-using content from non-DITA sources</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/to_glossaries_through_tooltips_2.html" data-id="to_glossaries_through_tooltips" wh-toc-id="to_glossaries_through_tooltips-d62e4768"><title>Glossaries through tooltips</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_glossaries_through_tooltips"></resourceid><navtitle class="- topic/navtitle ">Glossaries through tooltips</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Glossaries through tooltips</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_glossaries_versus_tooltips_2.html" data-id="co_glossaries_versus_tooltips" wh-toc-id="co_glossaries_versus_tooltips-d62e4808"><title>Glossaries versus tooltips</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_glossaries_versus_tooltips"></resourceid><navtitle class="- topic/navtitle ">Glossaries versus tooltips</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Glossaries versus tooltips</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/ta_creating_tooltips_in_oxygen_s_online_help_output_2.html" data-id="ta_creating_tooltips_in_oxygen_s_online_help_output" wh-toc-id="ta_creating_tooltips_in_oxygen_s_online_help_output-d62e4848"><title>Creating tooltips in Oxygen's online help output</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_creating_tooltips_in_oxygen_s_online_help_output"></resourceid><navtitle class="- topic/navtitle ">Creating tooltips in Oxygen's online help output</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Creating tooltips in Oxygen's online help output</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/ta_create_a_glossterm_topic_2.html" data-id="ta_create_a_glossterm_topic" wh-toc-id="ta_create_a_glossterm_topic-d62e4888"><title>Create a glossterm topic</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_create_a_glossterm_topic"></resourceid><navtitle class="- topic/navtitle ">Create a glossterm topic</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Create a glossterm topic</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/ta_add_the_glossary_term_to_the_glossary_map_2.html" data-id="ta_add_the_glossary_term_to_the_glossary_map" wh-toc-id="ta_add_the_glossary_term_to_the_glossary_map-d62e4928"><title>Add the glossary term to the glossary map</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_add_the_glossary_term_to_the_glossary_map"></resourceid><navtitle class="- topic/navtitle ">Add the glossary term to the glossary map</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Add the glossary term to the glossary map</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/ta_reference_the_glossary_term_in_a_topic_2.html" data-id="ta_reference_the_glossary_term_in_a_topic" wh-toc-id="ta_reference_the_glossary_term_in_a_topic-d62e4968"><title>Reference the glossary term in a topic</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_reference_the_glossary_term_in_a_topic"></resourceid><navtitle class="- topic/navtitle ">Reference the glossary term in a topic</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Reference the glossary term in a topic</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic></topic><topic href="en/ta_displaying_topic_titles_instead_of_file_names_in_a__ditamap_file.html" data-id="ta_displaying_topic_titles_instead_of_file_names_in_a__ditamap_file" wh-toc-id="ta_displaying_topic_titles_instead_of_file_names_in_a__ditamap_file-d62e5008"><title>Displaying topic titles instead of file names in a .DITAMAP file</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_displaying_topic_titles_instead_of_file_names_in_a__ditamap_file"></resourceid><navtitle class="- topic/navtitle ">Displaying topic titles instead of file names in a .DITAMAP file</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Displaying topic titles instead of file names in a .DITAMAP file</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/ta_embedding_a_youtube_video_in_dita.html" data-id="ta_embedding_a_youtube_video_in_dita" wh-toc-id="ta_embedding_a_youtube_video_in_dita-d62e5048"><title>Embedding a YouTube video in a DITA topic</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_embedding_a_youtube_video_in_dita"></resourceid><navtitle class="- topic/navtitle ">Embedding a YouTube video in a DITA topic</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Embedding a YouTube video in a DITA topic</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check_2.html" data-id="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check" wh-toc-id="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check-d62e5088"><title>Adding a Dutch dictionary to Oxygen's Spell Check</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check"></resourceid><navtitle class="- topic/navtitle ">Adding a Dutch dictionary to Oxygen's Spell Check</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Adding a Dutch dictionary to Oxygen's Spell Check</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_responsive_online_help_2.html" data-id="co_responsive_online_help" wh-toc-id="co_responsive_online_help-d62e5128"><title>Responsive online help</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_responsive_online_help"></resourceid><navtitle class="- topic/navtitle ">Responsive online help</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Responsive online help</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/ta_selecting_dita_map_webhelp_responsive_as_output_format_2.html" data-id="ta_selecting_dita_map_webhelp_responsive_as_output_format" wh-toc-id="ta_selecting_dita_map_webhelp_responsive_as_output_format-d62e5168"><title>Selecting DITA Map Webhelp Responsive as output format</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_selecting_dita_map_webhelp_responsive_as_output_format"></resourceid><navtitle class="- topic/navtitle ">Selecting DITA Map Webhelp Responsive as output format</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Selecting DITA Map Webhelp Responsive as output format</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/tr_oxygen_webhelp_and_epub_transformation_error_2.html" data-id="tr_oxygen_webhelp_and_epub_transformation_error" wh-toc-id="tr_oxygen_webhelp_and_epub_transformation_error-d62e5208"><title>Oxygen Webhelp and EPUB transformation error</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="tr_oxygen_webhelp_and_epub_transformation_error"></resourceid><navtitle class="- topic/navtitle ">Oxygen Webhelp and EPUB transformation error</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Oxygen Webhelp and EPUB transformation error</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/co_quick_fixes_2.html" data-id="co_quick_fixes" wh-toc-id="co_quick_fixes-d62e5249"><title>Quick Fixes</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_quick_fixes"></resourceid><navtitle class="- topic/navtitle ">Quick Fixes</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Quick Fixes</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/to_publishing_dita_content.html" data-id="to_publishing_dita_content" wh-toc-id="to_publishing_dita_content-d62e5289"><title>Publishing DITA content in Oxygen XML</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_publishing_dita_content"></resourceid><navtitle class="- topic/navtitle ">Publishing DITA content in Oxygen XML</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Publishing DITA content in Oxygen XML</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_publishing_strategies_2.html" data-id="co_publishing_strategies" wh-toc-id="co_publishing_strategies-d62e5329"><title>Two main publishing strategies</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_publishing_strategies"></resourceid><navtitle class="- topic/navtitle ">Two main publishing strategies</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Two main publishing strategies</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/ta_publishing_your_dita_content_to_multiple_output_formats_2.html" data-id="ta_publishing_your_dita_content_to_multiple_output_formats" wh-toc-id="ta_publishing_your_dita_content_to_multiple_output_formats-d62e5369"><title>Publishing your DITA content with DITA OT</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_publishing_your_dita_content_to_multiple_output_formats"></resourceid><navtitle class="- topic/navtitle ">Publishing your DITA content with DITA OT</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Publishing your DITA content with DITA OT</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/ta_dita2pdf_2.html" data-id="ta_dita2pdf" wh-toc-id="ta_dita2pdf-d62e5409"><title>Publishing DITA files to PDF with DITA2PDF</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="ta_dita2pdf"></resourceid><navtitle class="- topic/navtitle ">Publishing DITA files to PDF with DITA2PDF</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Publishing DITA files to PDF with DITA2PDF</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/to_conditional_processing.html" data-id="to_conditional_processing" wh-toc-id="to_conditional_processing-d62e5449"><title>Conditional processing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_conditional_processing"></resourceid><navtitle class="- topic/navtitle ">Conditional processing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Conditional processing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_what_is_conditional_processing_2.html" data-id="co_what_is_conditional_processing" wh-toc-id="co_what_is_conditional_processing-d62e5489"><title>What is conditional processing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_conditional_processing"></resourceid><navtitle class="- topic/navtitle ">What is conditional processing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is conditional processing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_what_is_a_ditaval_file.html" data-id="co_what_is_a_ditaval_file" wh-toc-id="co_what_is_a_ditaval_file-d62e5529"><title>What is a DITAVAL file</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_a_ditaval_file"></resourceid><navtitle class="- topic/navtitle ">What is a DITAVAL file</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is a DITAVAL file</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_how_does_conditional_processing_work_2.html" data-id="co_how_does_conditional_processing_work" wh-toc-id="co_how_does_conditional_processing_work-d62e5569"><title>Using DITAVAL files in DITA</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_how_does_conditional_processing_work"></resourceid><navtitle class="- topic/navtitle ">Using DITAVAL files in DITA</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Using DITAVAL files in DITA</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_why_use_conditional_processing_2.html" data-id="co_why_use_conditional_processing" wh-toc-id="co_why_use_conditional_processing-d62e5609"><title>Purpose and advantages of conditional processing</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_why_use_conditional_processing"></resourceid><navtitle class="- topic/navtitle ">Purpose and advantages of conditional processing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Purpose and advantages of conditional processing</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic></topic><topic href="en/to_oxygen_xml_software_updates.html" data-id="to_oxygen_xml_software_updates" wh-toc-id="to_oxygen_xml_software_updates-d62e5649"><title>Oxygen XML software updates</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="to_oxygen_xml_software_updates"></resourceid><navtitle class="- topic/navtitle ">Oxygen XML software updates</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Oxygen XML software updates</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_new_in_oxygen_19_0_2.html" data-id="co_new_in_oxygen_19_0" wh-toc-id="co_new_in_oxygen_19_0-d62e5689"><title>New in Oxygen 19.0</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_new_in_oxygen_19_0"></resourceid><navtitle class="- topic/navtitle ">New in Oxygen 19.0</navtitle><?ditaot gentext?><linktext class="- map/linktext ">New in Oxygen 19.0</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_new_in_oxygen_21.html" data-id="co_new_in_oxygen_21_1" wh-toc-id="co_new_in_oxygen_21_1-d62e5729"><title>New in Oxygen 21.0</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_new_in_oxygen_21_1"></resourceid><navtitle class="- topic/navtitle ">New in Oxygen 21.0</navtitle><?ditaot gentext?><linktext class="- map/linktext ">New in Oxygen 21.0</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_new_in_oxygen_21_1.html" data-id="co_new_in_oxygen_21_1" wh-toc-id="co_new_in_oxygen_21_1-d62e5769"><title>New in Oxygen 21.1</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_new_in_oxygen_21_1"></resourceid><navtitle class="- topic/navtitle ">New in Oxygen 21.1</navtitle><?ditaot gentext?><linktext class="- map/linktext ">New in Oxygen 21.1</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic></topic></topic><topic href="en/co_dita_open_toolkit__ot.html#co_dita_open_toolkit__ot" chunk="to-content" data-id="co_dita_open_toolkit__ot" wh-toc-id="co_dita_open_toolkit__ot-d62e5809"><title>DITA Open Toolkit (OT)</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_dita_open_toolkit__ot"></resourceid><navtitle class="- topic/navtitle ">DITA Open Toolkit (OT)</navtitle><?ditaot gentext?><linktext class="- map/linktext ">DITA Open Toolkit (OT)</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_dita_open_toolkit__ot.html#co_what_is_the_dita_open_toolkit__ot" data-id="co_what_is_the_dita_open_toolkit__ot" wh-toc-id="co_what_is_the_dita_open_toolkit__ot-d62e5849"><title>What is the DITA Open Toolkit (OT)</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_is_the_dita_open_toolkit__ot"></resourceid><navtitle class="- topic/navtitle ">What is the DITA Open Toolkit (OT)</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What is the DITA Open Toolkit (OT)</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_dita_open_toolkit__ot.html#co_what_does_the_dita_open_toolkit__ot__do" data-id="co_what_does_the_dita_open_toolkit__ot__do" wh-toc-id="co_what_does_the_dita_open_toolkit__ot__do-d62e5889"><title>What does the DITA Open Toolkit (OT) do</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_what_does_the_dita_open_toolkit__ot__do"></resourceid><navtitle class="- topic/navtitle ">What does the DITA Open Toolkit (OT) do</navtitle><?ditaot gentext?><linktext class="- map/linktext ">What does the DITA Open Toolkit (OT) do</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic><topic href="en/co_dita_open_toolkit__ot.html#co_webcast__localization_and_the_dita_open_toolkit" data-id="co_webcast__localization_and_the_dita_open_toolkit" wh-toc-id="co_webcast__localization_and_the_dita_open_toolkit-d62e5929"><title>Webcast: Localization and the DITA Open Toolkit</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_webcast__localization_and_the_dita_open_toolkit"></resourceid><navtitle class="- topic/navtitle ">Webcast: Localization and the DITA Open Toolkit</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Webcast: Localization and the DITA Open Toolkit</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic><topic href="en/co_ditatoo_dita_cms.html" data-id="co_ditatoo_dita_cms" wh-toc-id="co_ditatoo_dita_cms-d62e5969"><title>DITAToo DITA CMS</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_ditatoo_dita_cms"></resourceid><navtitle class="- topic/navtitle ">DITAToo DITA CMS</navtitle><?ditaot gentext?><linktext class="- map/linktext ">DITAToo DITA CMS</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta><topic href="en/co_automatic_flowchart_generation_2.html" data-id="co_automatic_flowchart_generation" wh-toc-id="co_automatic_flowchart_generation-d62e6009"><title>Automatic flowchart generation</title><topicmeta><resourceid class="- topic/resourceid " oxy-source="topic" appid="co_automatic_flowchart_generation"></resourceid><navtitle class="- topic/navtitle ">Automatic flowchart generation</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Automatic flowchart generation</linktext><author class="- topic/author " xml:lang="en-US">Kimberley.De.Moor</author><authorinformation class="+ topic/author xnal-d/authorinformation ">
+<personinfo class="+ topic/data xnal-d/personinfo ">
+<namedetails class="+ topic/data xnal-d/namedetails ">
+<personname class="+ topic/data xnal-d/personname ">
+<firstname class="+ topic/data xnal-d/firstname "></firstname>
+<lastname class="+ topic/data xnal-d/lastname "> </lastname>
+</personname>
+</namedetails>
+<emailaddresses class="+ topic/data xnal-d/emailaddresses ">
+<emailaddress class="+ topic/data xnal-d/emailaddress "></emailaddress>
+</emailaddresses>
+</personinfo>
+</authorinformation><prodinfo class="- topic/prodinfo ">
+<prodname class="- topic/prodname "></prodname>
+<vrmlist class="- topic/vrmlist ">
+<vrm class="- topic/vrm " version=""></vrm>
+</vrmlist>
+</prodinfo></topicmeta></topic></topic></toc>

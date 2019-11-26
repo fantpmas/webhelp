@@ -96,11 +96,6 @@
 </tgroup>
 </table><note id="note_h12_2vv_sjb">It is recommended to apply attributes to the topic references in the DITA map, and not to the <xmlelement>topic</xmlelement> element within the topic in question.</note></p>
 </section>
-<example>
-<p id="p_wlj_kjp_vjb">Here is an example of what a DITAVAL file looks like in the <uicontrol>Author</uicontrol> mode of Oxygen XML Author. <fig id="fig_lgr_lfp_vjb">
-<image href="../_graphics/ditaval_filter_file.png" id="image_lnf_4fp_vjb"/>
-</fig>In this particular case, all topics or elements that are attributed the attribute value <userinput>novice</userinput> for the <xmlatt>audience</xmlatt> attribute are exluded from the publication. On the other hand, all topics or elements that are connected to the <userinput>general</userinput> audience are not only included, but also flagged in the publication.</p>
-</example>
 </conbody>
 <related-links>
 <link href="co_why_use_conditional_processing.dita"/>

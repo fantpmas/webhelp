@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="co_why_re_use_content" xml:lang="en-US">
-<title>Why re-use content</title>
+<title>Advantages of re-using content</title>
 <prolog status="new">
 <author>Kimberley.De.Moor</author>
 <copyright status="new">
@@ -29,7 +29,7 @@
 </prolog>
 <conbody>
 <section id="section_jj2_b5q_tjb">
-<p id="p_kj2_b5q_tjb">Content re-use is one of the most important advantages of using DITA for authoring: it allows you to create content once and then re-use it wherever you need it again. Of course, if you want to take advantage of this feature, you have to write your topics in a way that they still make sense in different contexts, meaning your topics need to be self-contained snippets of content. When that is the case, you can enjoy the following merits of content re-use.</p>
+<p id="p_kj2_b5q_tjb">Content re-use is one of the most important advantages of using DITA for authoring: it allows you to create content once and then re-use it wherever you need it again. Of course, if you want to take advantage of this feature, you have to write your topics in such a way that they still make sense in different contexts. In other words, your topics need to be self-contained snippets of content. When that is the case, you can enjoy the following merits of content re-use.</p>
 </section>
 <section id="section_a1l_b5q_tjb">
 <title>Efficiency</title>
@@ -47,7 +47,7 @@
 </section>
 <section id="section_ztj_kvq_tjb">
 <title>Risk management</title>
-<p id="p_a5j_kvq_tjb">By re-using content, you reduce the risks that come with last-minute changes as your content is easier to update; you ensure that all instances are updated at once. If you need to update every instance of an element, the risk is far higher that one or two mistakes will slip through.</p>
+<p id="p_a5j_kvq_tjb">By re-using content, you reduce the risks that come with last-minute changes as your content is easier to update; you ensure that all instances are updated at once. If you need to update every individual instance of an element, there is a much higher risk that one or two mistakes will slip through.</p>
 </section>
 </conbody>
 </concept>
