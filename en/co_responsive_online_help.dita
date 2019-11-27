@@ -28,13 +28,16 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p>One of the outputs you can select in Oxygen is <uicontrol>DITA Map Webhelp Responsive</uicontrol>.The name comes from the system’s ability to adapt to any device or screen size to provide an optimal viewing and interaction experience.<fig id="fig_kqf_l1s_tjb">
+<p>One of the outputs you can select in Oxygen is <uicontrol>DITA Map Webhelp Responsive</uicontrol>. The name derives from the system’s ability to adapt to any device or screen size to provide an optimal viewing and interaction experience.<fig id="fig_kqf_l1s_tjb">
 <image href="../_graphics/result_of_oxygen_s_webhelp_responsive.png" id="image_cyv_n1s_tjb"/>
 </fig></p>
-<p id="p_oyf_s1s_tjb">The skins exist in two versions:<draft-comment author="Kimberley.De.Moor">@PJ: "The skins"? Hier moet waarschijnlijk een definitie van toegevoegd worden.</draft-comment><ul id="ul_pyf_s1s_tjb">
+<p id="p_p4c_s32_wjb">There are a variety of different templates from which you can choose (in the <wintitle>Edit DITA scenario</wintitle> window) to create your responsive online help.<note id="note_mv5_km2_wjb">You also have the possibility to use your own custom publishing template.</note></p>
+<p id="p_oyf_s1s_tjb">The templates exist in two versions:<ul id="ul_pyf_s1s_tjb">
 <li>The first-level topics in tiles.</li>
 <li>The first- and second-level topics as a tree.</li>
-</ul>For more information, see <xref href="https://www.oxygenxml.com/doc/versions/18/ug-editor/topics/webhelp-responsive-description.html" format="html" scope="external">https://www.oxygenxml.com/doc/versions/18/ug-editor/topics/webhelp-responsive-description.html</xref>.</p>
+</ul><fig id="fig_k4w_zn2_wjb">
+<image href="../_graphics/webhelp_responsive_templates.png" id="image_e1x_d42_wjb"/>
+</fig>For more information, see <xref href="https://www.oxygenxml.com/doc/versions/18/ug-editor/topics/webhelp-responsive-description.html" format="html" scope="external">https://www.oxygenxml.com/doc/versions/18/ug-editor/topics/webhelp-responsive-description.html</xref>.</p>
 </conbody>
 <related-links>
 <link href="ta_selecting_dita_map_webhelp_responsive_as_output_format.dita"/>

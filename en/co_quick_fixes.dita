@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="co_quick_fixes" xml:lang="en-US">
-<title>Quick Fixes</title>
+<title>Detecting and fixing errors with Quick Fixes</title>
 <prolog status="new">
 <author>Kimberley.De.Moor</author>
 <copyright status="new">
@@ -28,19 +28,25 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p>Oxygen XML Author 17 now has <i>quick fixes</i>. Quick fixes can help you quickly check if content adheres the so-called <i>business rules</i>. These are rules for writing and structuring content, much like the rules you can find in style guides.</p>
+<p>Oxygen XML Author 17 now has <i>quick fixes</i>. Quick fixes can help you quickly check if content adheres to the so-called <i>business rules</i>. These are rules for writing and structuring content, much like the rules you can find in style guides.</p>
 <p id="p_xvr_sxr_tjb">Quick fixes could work as follows:<ol id="ol_qcc_5xr_tjb">
 <li>Someone (for instance, an Information Architect) writes business rules.<note id="note_lqf_vxr_tjb">For example: "A semicolon cannot be used at the end of a list.“</note></li>
 <li>An XML-specialist turns the business rule into a <i>Schematron pattern</i>.</li>
 <li>This schematron pattern can be used to automatically detect instances in which a technical writer has not adhered to (one of) the predefined business rules. The technical writer can then quickly find excerpts that don’t match the business rules and instantly correct them by clicking on the light bulb that appears before the problem in question.</li>
 </ol><fig id="fig_qf2_nyr_tjb">
 <image href="../_graphics/oxygen_xml_quick_fixes.png" id="image_gby_4yr_tjb"/>
+</fig><fig id="fig_nfx_zz2_wjb">
+<object width="1280" height="720" data="https://www.youtube.com/embed/ROIOwoxZTks" outputclass="iframe">
+<param name="allowfullscreen"/>
+</object>
 </fig></p>
-<p id="p_ybz_pyr_tjb"><object width="425" height="350" data="https://www.youtube.com/embed/SF2cPf7CqBA" outputclass="iframe">
+<p id="p_ybz_pyr_tjb">
+<draft-comment author="Kimberley.De.Moor">@PJ: Welk element kan ik gebruiken voor alle termen die nu met een Italics-element zijn aangeduid? </draft-comment>
+<draft-comment author="Kimberley.De.Moor">@PJ: Onderstaande video is de video die aanvankelijk in deze topic stond, maar hij is nogal lang, dus heb ik hem vervangen door een kortere video. Is dat oke? <object width="425" height="350" data="https://www.youtube.com/embed/SF2cPf7CqBA" outputclass="iframe">
 <param name="allowfullscreen"/>
-</object><draft-comment author="Kimberley.De.Moor">@PJ: Welk element kan ik gebruiken voor alle termen die nu met een Italics-element zijn aangeduid? </draft-comment><draft-comment author="Kimberley.De.Moor">@PJ: Dit is een hele lange video, ik zou eerder een kortere video in de topic zetten, zoals deze: <object width="1280" height="720" data="https://www.youtube.com/embed/ROIOwoxZTks" outputclass="iframe">
-<param name="allowfullscreen"/>
-</object></draft-comment></p>
+</object>
+</draft-comment>
+</p>
 <p id="p_zg2_21s_tjb">More info: <xref href="http://blog.oxygenxml.com/2015/05/schematron-checks-to-help-technical.html" format="html" scope="external"/></p>
 </conbody>
 </concept>

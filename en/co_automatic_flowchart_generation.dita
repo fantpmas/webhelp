@@ -28,10 +28,14 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p>Some tools can generate flowcharts based on the DITA topics you have written.</p>
+<p>With DITAToo, you can automatically generate flowcharts based on the DITA troubleshooting topics you have written:<object width="853" height="480" data="https://www.youtube.com/embed/l2drJxXWdU8" outputclass="iframe">
+<param name="allowfullscreen"/>
+</object></p>
+<p id="p_l3h_dg2_wjb">If you are interested in other possibilities on content automation with respect to DITAToo DITA CMS, see also <xref href="http://www.ditatoo.com/products/automated-content-assembly/" format="html" scope="external"/>.</p>
 <example>
 <p id="p_r3d_msm_sjb">TransforMagic from Intuillion</p>
 <p id="p_n3m_msm_sjb">Info: <xref href="http://intuillion.com/products/content-automation/videos/" format="html" scope="external"/></p>
+<draft-comment author="Kimberley.De.Moor">@PJ: Moet TransforMagic wel vermeld worden? Dit is toch gewoon een onderdeel van DITAToo?</draft-comment>
 </example>
 </conbody>
 </concept>

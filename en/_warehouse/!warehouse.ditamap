@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
-    <title>Warehouse</title>
-    <topicmeta>
-        <metadata/>
-    </topicmeta>
-    <keydef href="to_warehouse_notes.dita" keys="notes"/>
-    <keydef href="to_warehouse_tables.dita" keys="tables"/>
-    <keydef href="ta_warehouse_steps.dita" keys="steps"/>
-    <keydef href="to_warehouse_images.dita" keys="images"/>
+<map processing-role="resource-only">
+<title>Warehouse</title>
+<topicmeta>
+<metadata/>
+</topicmeta>
+<keydef href="to_warehouse_notes.dita" keys="notes"/>
+<keydef href="to_warehouse_tables.dita" keys="tables"/>
+<keydef href="ta_warehouse_steps.dita" keys="steps"/>
+<keydef href="to_warehouse_images.dita" keys="images"/>
+<keydef href="to_warehouse_paragraphs.dita" keys="paragraphs"/>
 </map>

@@ -28,18 +28,12 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p>DITAToo is a DITA content management system (DITA CMS) developed by Intuillion<fn><xref href="http://www.ditatoo.com/" format="html" scope="external"/></fn>.</p>
-<p id="p_vmn_vcy_vjb">DITAToo consists of three major components:<ol id="ol_ppr_cdy_vjb">
-<li>DITAToo Content Repository: a database where you can store all your DITA content.</li>
-<li>DITAToo Admin: an application, used to perform administrative tasks, such as:<ul id="ul_ddn_22y_vjb">
-<li>creating user accounts</li>
-<li>specifying access permissions for each user</li>
-<li>specify translation languages</li>
-<li>...</li>
-</ul></li>
-<li>DITAToo Author: an application that you can use to remotely connect to the DITAToo Content Repository and work on your DITA content.</li>
-</ol></p>
-<p id="p_icr_5fy_vjb">DITAToo also allows you to automatically convert Word files to DITA files and it facilitates tasks like publishing DITA content, assembling maps, translation management … </p>
-<p id="p_h3p_ggy_vjb">To learn more about DITAToo and its various different features, you can visit <xref href="http://www.ditatoo.com/products/overview/" format="html" scope="external"/>.</p>
+<p conref="_warehouse/to_warehouse_paragraphs.dita#to_warehouse_paragraphs/p_ch5_ysd_wjb" id="p_kvl_clf_wjb"/>
+<p deliveryTarget="webhelp" id="p_ams_zcf_wjb">
+<ul id="ul_std_qvd_wjb">
+<li><xref href="co_what_is_ditatoo_dita_cms.dita"/></li>
+<li><xref href="co_automatic_flowchart_generation.dita"/></li>
+</ul>
+</p>
 </conbody>
 </concept>

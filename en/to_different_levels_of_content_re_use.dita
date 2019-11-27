@@ -28,7 +28,8 @@
 </change-historylist>
 </prolog>
 <body>
-<p>
+<p conref="_warehouse/to_warehouse_paragraphs.dita#to_warehouse_paragraphs/p_fr1_zcf_wjb" id="p_cfk_x4f_wjb"/>
+<p deliveryTarget="webhelp">
 <ul id="ul_lfc_5sn_sjb">
 <li><xref href="co_using_conrefs.dita"/></li>
 <li><xref href="co_re_using_elements.dita"/></li>

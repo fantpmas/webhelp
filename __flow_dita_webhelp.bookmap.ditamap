@@ -71,8 +71,9 @@
 <tablelist/>
 </booklists>
 <!--Add your warehouse and variable content in the frontmatter.-->
+<mapref href="en/_warehouse/!warehouse.ditamap" format="ditamap" scope="local" type="map"/>
 </frontmatter>
-<chapter href="en/_dita.ditamap" type="map" format="ditamap" scope="local"/>
 <chapter href="en/_dita_2019.ditamap" type="map" format="ditamap" scope="local"/>
+<chapter href="en/_dita.ditamap" type="map" format="ditamap" scope="local"/>
 <backmatter/>
 </bookmap>

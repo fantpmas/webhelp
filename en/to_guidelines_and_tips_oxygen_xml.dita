@@ -28,6 +28,18 @@
 </change-historylist>
 </prolog>
 <body>
-<p>The next topics will provide you with guidelines and tips for writing DITA documentation in Oxygen XML.</p>
+<p deliveryTarget="webhelp">The next topics will provide you with guidelines and tips for writing DITA documentation in Oxygen XML.<ul id="ul_hhq_2pf_wjb">
+<li><xref href="co_guidelines_for_chunking_content.dita"/></li>
+<li><xref href="co_guidelines_for_writing_topic_titles.dita"/></li>
+<li><xref href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/></li>
+<li><xref href="to_guidelines_for_creating_links.dita"/></li>
+<li><xref href="to_different_levels_of_content_re_use.dita"/></li>
+<li><xref href="to_glossaries_through_tooltips.dita"/></li>
+<li><xref href="ta_displaying_topic_titles_instead_of_file_names_in_a__ditamap_file.dita"/></li>
+<li><xref href="ta_embedding_a_youtube_video_in_dita.dita"/></li>
+<li><xref href="ta_adding_a_dutch_dictionary_to_oxygen_s_spell_check.dita"/></li>
+<li><xref href="co_responsive_online_help.dita"/></li>
+<li><xref href="co_quick_fixes.dita"/></li>
+</ul></p>
 </body>
 </topic>

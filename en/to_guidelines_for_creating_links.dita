@@ -28,14 +28,12 @@
 </change-historylist>
 </prolog>
 <body>
-<p>
-<ul id="ul_akm_vk4_sjb">
+<p>When it comes to creating links between topics, you should take into account the following guidelines:<ul id="ul_akm_vk4_sjb">
 <li><xref href="co_do_not_over_use_inline_links.dita"/></li>
 <li><xref href="co_think_about_the_phrasing_and_positioning_of_inline_links.dita"/></li>
 <li><xref href="co_do_not_overuse_relationship_tables.dita"/></li>
 <li><xref href="co_add_collection_type_links.dita"/></li>
-</ul>
-</p>
+</ul></p>
 </body>
 <related-links>
 <link href="to_different_levels_of_content_re_use.dita"/>

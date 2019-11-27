@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="to_publishing_dita_content" xml:lang="en-US">
-<title>Publishing DITA content in Oxygen XML</title>
+<topic id="to_warehouse_paragraphs" xml:lang="en-US">
+<title>Warehouse paragraphs</title>
 <prolog status="new">
 <author>Kimberley.De.Moor</author>
 <copyright status="new">
@@ -28,12 +28,7 @@
 </change-historylist>
 </prolog>
 <body>
-<p conref="_warehouse/to_warehouse_paragraphs.dita#to_warehouse_paragraphs/p_fr1_zcf_wjb" id="p_hd4_2lf_wjb"/>
-<p deliveryTarget="webhelp" id="p_gr1_zcf_wjb">
-<ul id="ul_sqh_mcf_wjb">
-<li>The<xref href="co_publishing_strategies.dita">two main publishing strategies</xref> in Oxygen XML</li>
-<li><xref href="to_conditional_processing.dita"/></li>
-</ul>
-</p>
+<p id="p_ch5_ysd_wjb" deliveryTarget="webhelp">This chapter comprises the following topics:</p>
+<p deliveryTarget="webhelp" id="p_fr1_zcf_wjb">In this chapter, we will discuss the following topics:</p>
 </body>
 </topic>

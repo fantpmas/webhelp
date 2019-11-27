@@ -28,6 +28,12 @@
 </change-historylist>
 </prolog>
 <body>
-<p/>
+<p conref="_warehouse/to_warehouse_paragraphs.dita#to_warehouse_paragraphs/p_ch5_ysd_wjb" id="p_tfq_14f_wjb"/>
+<p id="p_kkb_b4f_wjb" deliveryTarget="webhelp">
+<ul id="ul_xcr_b4f_wjb">
+<li><xref href="co_glossaries_versus_tooltips.dita"/></li>
+<li><xref href="ta_creating_tooltips_in_oxygen_s_online_help_output.dita"/></li>
+</ul>
+</p>
 </body>
 </topic>

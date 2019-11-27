@@ -28,6 +28,13 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p/>
+<p conref="_warehouse/to_warehouse_paragraphs.dita#to_warehouse_paragraphs/p_fr1_zcf_wjb" id="p_icp_jlf_wjb"/>
+<p id="p_cgv_jlf_wjb" deliveryTarget="webhelp">
+<ul id="ul_cqx_jlf_wjb">
+<li><xref href="co_what_is_the_dita_open_toolkit__ot.dita"/></li>
+<li><xref href="co_what_does_the_dita_open_toolkit__ot__do.dita"/></li>
+<li><xref href="co_webcast__localization_and_the_dita_open_toolkit.dita"/></li>
+</ul>
+</p>
 </conbody>
 </concept>
