@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="co_dita_for_kids" xml:lang="en-US">
-<title>DITA for kids</title>
+<title>DITA for kids (WEG?)</title>
 <prolog status="new">
 <author>Kimberley.De.Moor</author>
 <copyright status="new">
@@ -34,5 +34,6 @@
 <p id="p_wr5_cnn_sjb">Don’t forget to take a look at the YouTube video: <object width="425" height="350" data="https://www.youtube.com/embed/Y0UDRi37MWM" outputclass="iframe">
 <param name="allowfullscreen"/>
 </object></p>
+<draft-comment author="Kimberley.De.Moor">@PJ: Is deze topic wel nog up-to-date/relevant?</draft-comment>
 </conbody>
 </concept>

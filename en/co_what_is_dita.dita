@@ -47,9 +47,7 @@
 <li>concept</li>
 <li>reference</li>
 <li>(or other types of information)</li>
-</ul>See also:<ul id="ul_wjl_w4x_tjb">
-<li><xref href="co_what_is_an_information_type.dita"/></li>
-</ul></entry>
+</ul>See also: <xref href="co_what_is_an_information_type.dita"/></entry>
 </row>
 <row>
 <entry>Architecture:</entry>
@@ -69,7 +67,7 @@
 <ul id="ul_kc3_rpm_sjb">
 <li><xref href="co_why_re_use_content.dita">Re-use</xref><ul id="ul_ggx_ypm_sjb">
 <li><xref href="co_single_sourcing.dita"/> (content ↔ context)</li>
-<li><xref href="co_multi_channel_publishing.dita"/> (content ↔ output)</li>
+<li><xref href="co_multi_channel_publishing.dita"/> (write content once, publish to multiple outputs)</li>
 </ul></li>
 <li> Collaboration with other authors</li>
 <li><xref href="co_minimalism.dita"/></li>

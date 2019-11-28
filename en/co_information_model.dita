@@ -28,7 +28,7 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p>An information model is a formal description of the structure and the components of your information product.<table frame="all" id="table_cbt_qbx_tjb">
+<p>An information model is a formal description of the structure and the structural components of which your information product consists.<table frame="all" id="table_cbt_qbx_tjb">
 <tgroup cols="2">
 <colspec colname="c1" colnum="1" colwidth="1*"/>
 <colspec colname="c2" colnum="2" colwidth="1*"/>
@@ -38,7 +38,7 @@
 <entry>the combination of the components’ order and hierarchy</entry>
 </row>
 <row>
-<entry>component</entry>
+<entry>structural component</entry>
 <entry>title, warning, table, illustration, (un)ordered list …</entry>
 </row>
 <row>
@@ -52,8 +52,8 @@
 <example>
 <ul id="ul_cpw_wbx_tjb">
 <li><xref href="co_what_is_dita.dita">DITA</xref></li>
-<li>DocBook</li>
-<li>Information Mapping</li>
+<li><xref href="https://docbook.org/whatis" format="html" scope="external">DocBook</xref></li>
+<li><xref href="https://www.informationmapping.com/en/" format="html" scope="external">Information Mapping</xref></li>
 <li>templates in authoring tools</li>
 </ul>
 </example>

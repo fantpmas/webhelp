@@ -28,27 +28,19 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p>In DITA, all content is chunked into topics. Topics are discrete units of information, organized around a single subject or answering a single question. Each topic makes sense on its own and can be authored as a stand-alone piece.</p>
-<p id="p_wpz_ykq_tjb">A topic is traditionally composed of a title and some content. That content can include:<ul id="ul_efp_zkq_tjb">
-<li>One or more sentences</li>
+<p>In DITA, all content is chunked into topics. Topics are individual units of information, organized around a single subject or answering a single question. Each topic makes sense on its own and can be authored as a stand-alone piece of content. A topic is considered the smallest information unit and multiple topics can be combined to create bigger information units (like chapters and volumes).</p>
+<p id="p_wpz_ykq_tjb">A topic is traditionally composed of a title and some content. That content is built up of structural components, such as the following:<ul id="ul_efp_zkq_tjb">
+<li>Paragraphs</li>
 <li>Tables</li>
 <li>Lists (bulleted lists, numbered steps …)</li>
 <li>Illustrations</li>
+<li>Notes ("Warning!", "Attention!", "Tip" …)</li>
 </ul></p>
+<p id="p_e42_z4m_wjb">All the structural components of which your content consists are predefined in an <xref href="co_information_model.dita">information model</xref>. Technical writers working on the same project use this information model to ensure that all topics (that make up the final information product) are structured in the same manner.</p>
 <example>
 <p id="p_atl_2lq_tjb">The following topic answers the question “How do I take pictures in auto-adjustment mode?” It is composed of a title, some introductory sentences and a list of numbered steps.<fig id="fig_nsb_glq_tjb">
 <image href="../_graphics/example_topic.png" id="image_zq4_glq_tjb"/>
 </fig></p>
 </example>
 </conbody>
-<related-links>
-<link href="to_different_levels_of_content_re_use.dita"/>
-<link href="co_free_e_learning_course_learningdita.dita"/>
-<link href="co_guidelines_for_chunking_content.dita"/>
-<link href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
-<link href="to_guidelines_for_creating_links.dita"/>
-<link href="co_what_is_a_bookmap.dita"/>
-<link href="co_what_is_a_dita_map.dita"/>
-<link href="co_what_is_an_information_type.dita"/>
-</related-links>
 </concept>

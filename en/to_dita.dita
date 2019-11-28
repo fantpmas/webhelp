@@ -28,6 +28,15 @@
 </change-historylist>
 </prolog>
 <body>
-<p/>
+<p conref="_warehouse/to_warehouse_paragraphs.dita#to_warehouse_paragraphs/p_ch5_ysd_wjb" id="p_an1_sql_wjb"/>
+<p id="p_y1f_sql_wjb" deliveryTarget="webhelp">
+<ul id="ul_sgh_sql_wjb">
+<li><xref href="co_what_is_dita.dita"/></li>
+<li><xref href="co_what_is_an_information_type.dita"/></li>
+<li><xref href="co_what_is_a_dita_map.dita"/></li>
+<li><xref href="co_what_is_a_bookmap.dita"/></li>
+<li><xref href="to_learning_dita.dita"/></li>
+</ul>
+</p>
 </body>
 </topic>

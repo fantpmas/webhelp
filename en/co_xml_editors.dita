@@ -34,15 +34,15 @@
 <section id="section_hml_whr_tjb">
 <title>Technical editors</title>
 <p id="p_iml_whr_tjb">These editors give you the ability to ‘hide’ the tags while writing, allowing you to focus on the content while still writing structured XML documents.<ul id="ul_rgh_b3r_tjb">
-<li><b>Adobe FrameMaker</b> in Structured mode. In structured mode, you can edit DITA XML documents right from the familiar FrameMaker interface.</li>
-<li><b>Oxygen XML</b> is an editor especially for DITA. It consists of a few separate packages, with an ever-growing range of products:<ul id="ul_b3v_hjr_tjb">
-<li><b>Oxygen XML Editor</b> is the complete package, meant for people that do technical writing as well as developing DITA Schemas and transformations.</li>
-<li><b>Oxygen XML Author</b> is meant for technical writers. With this package you get a more user-friendly interface and most complicated DITA options are well-hidden in the interface.</li>
-<li><b>Oxygen XML Web Author</b> builds on the <b>Author</b> version, allowing online collaboration between different teams and automatic cloud storage.</li>
-<li><b>Oxygen XML Developer</b> is meant for documentation architects and designers. It is a tool you can use to determine how the documentation in the team should be structured and what the output should look like.</li>
+<li><xref href="https://www.adobe.com/be_en/products/framemaker.html" format="html" scope="external">Adobe FrameMaker</xref> in Structured mode. In structured mode, you can edit DITA XML documents right from the familiar FrameMaker interface.</li>
+<li><xref href="co_oxygen_xml.dita"/> is an editor especially for DITA. It consists of a few separate packages, with an ever-growing range of products:<ul id="ul_b3v_hjr_tjb">
+<li><xref href="https://www.oxygenxml.com/xml_editor.html" format="html" scope="external">Oxygen XML Editor</xref> is the complete package, meant for people that do technical writing as well as developing DITA Schemas and transformations.</li>
+<li><xref href="https://www.oxygenxml.com/xml_author.html" format="html" scope="external">Oxygen XML Author</xref> is meant for technical writers. With this package you get a more user-friendly interface and most complicated DITA options are well-hidden in the interface.</li>
+<li><xref href="https://www.oxygenxml.com/xml_web_author.html" format="html" scope="external">Oxygen XML Web Author</xref> builds on the Oxygen XML Author version, allowing online collaboration between different teams and automatic cloud storage.</li>
+<li><xref href="https://www.oxygenxml.com/xml_developer.html" format="html" scope="external">Oxygen XML Developer</xref> is meant for documentation architects and designers. It is a tool you can use to determine how the documentation in the team should be structured and what the output should look like.</li>
 </ul></li>
 <li>
-<draft-comment author="Kimberley.De.Moor">@PJ: Bestaat er ook een element voor de naam van softwareprogramma's?</draft-comment>
+<draft-comment author="Kimberley.De.Moor">@PJ: <p id="p_cmm_53l_wjb">Bestaat er ook een element voor de naam van softwareprogramma's?</p><p id="p_jpv_53l_wjb">Ik heb van alle softwareprogramma's de link naar de website in deze topic gestoken; enkel "Oxygen XML" verwijst naar een topic in de webhelp. Is dit goed zo?</p></draft-comment>
 </li>
 </ul></p>
 </section>

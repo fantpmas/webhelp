@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="co_segmentation" xml:lang="en-US">
-<title>Segmentation</title>
+<title>Segmentation ("Chunking")</title>
 <prolog status="new">
 <author>Kimberley.De.Moor</author>
 <copyright status="new">
@@ -28,7 +28,7 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p id="p_eb4_jmx_tjb">Split long blocks of text into smaller information units to facilitate access to the information.</p>
+<p id="p_eb4_jmx_tjb">Split or "chunk" long blocks of text into smaller information units to facilitate access to the information.</p>
 <p id="p_fb4_jmx_tjb">Use:</p>
 <ul id="ul_gb4_jmx_tjb">
 <li><xref href="co_information_type.dita">information types</xref></li>
@@ -37,4 +37,7 @@
 <li>lists</li>
 </ul>
 </conbody>
+<related-links>
+<link href="co_guidelines_for_chunking_content.dita"/>
+</related-links>
 </concept>

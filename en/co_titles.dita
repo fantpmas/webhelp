@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="co_titles" xml:lang="en-US">
-<title>Titles</title>
+<title>"Scannable" titles</title>
 <prolog status="new">
 <author>Kimberley.De.Moor</author>
 <copyright status="new">
@@ -29,5 +29,6 @@
 </prolog>
 <conbody>
 <p>Start with short but meaningful titles that express the quintessence of the message. Avoid vague titles, as readers use the titles to scan the document to quickly find the information that is relevant to them.</p>
+<draft-comment author="Kimberley.De.Moor">@PJ: Is deze titel oke?</draft-comment>
 </conbody>
 </concept>

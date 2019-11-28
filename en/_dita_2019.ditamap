@@ -6,10 +6,8 @@
 <author>Kimberley.De.Moor</author>
 <metadata/>
 </topicmeta>
-<topicref href="co_what_is_dita.dita"/>
 <topicref href="to_technical_writing.dita">
 <topicref href="co_structured_authoring.dita">
-<topicref href="co_information_unit.dita"/>
 <topicref href="co_what_is_a_topic.dita"/>
 <topicref href="co_information_model.dita"/>
 <topicref href="to_best_practices_of_structured_authoring.dita">
@@ -26,6 +24,7 @@
 <topicref href="co_five_copywriting_errors.dita"/>
 </topicref>
 <topicref href="to_dita.dita">
+<topicref href="co_what_is_dita.dita"/>
 <topicref href="co_what_is_an_information_type.dita"/>
 <topicref href="co_what_is_a_dita_map.dita">
 <topicref href="co_why_use_dita_maps.dita"/>
@@ -115,12 +114,47 @@
 <relcolspec/>
 </relheader>
 <relrow>
-<relcell/>
-<relcell/>
+<relcell>
+<topicref href="co_structured_authoring.dita"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_dita.dita"/>
+<topicref href="co_what_is_a_topic.dita"/>
+<topicref href="co_information_model.dita"/>
+<topicref href="to_best_practices_of_structured_authoring.dita"/>
+</relcell>
 </relrow>
 <relrow>
-<relcell/>
-<relcell/>
+<relcell>
+<topicref href="co_what_is_a_topic.dita"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_an_information_type.dita"/>
+<topicref href="co_information_model.dita"/>
+<topicref href="co_what_is_a_dita_map.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="to_dita.dita" linking="targetonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_dita.dita"/>
+<topicref href="co_what_is_an_information_type.dita"/>
+<topicref href="co_what_is_a_dita_map.dita"/>
+<topicref href="co_what_is_a_bookmap.dita"/>
+<topicref href="to_learning_dita.dita"/>
+<topicref href="co_free_e_learning_course_learningdita.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_what_is_an_information_type.dita"/>
+</relcell>
+<relcell>
+<topicref href="co_information_model.dita"/>
+<topicref href="co_what_is_dita.dita"/>
+</relcell>
 </relrow>
 <relrow>
 <relcell/>
@@ -139,4 +173,8 @@
 <relcell/>
 </relrow>
 </reltable>
+<data>
+<draft-comment author="Kimberley.De.Moor">@PJ: in output: zowel "Related concepts" als "Related information" naargelang of topic in L- of in R-kolom staat in de reltable? Waarom is dit zo? Maakt dit deel uit van de CSS?</draft-comment>
+<draft-comment author="Kimberley.De.Moor">@PJ: Als er al inline links in de tekst verwerkt zitten, moet ik die dan nog steeds in de reltable includeren? (voorbeeld: "Structured authoring"-topic)</draft-comment>
+</data>
 </map>

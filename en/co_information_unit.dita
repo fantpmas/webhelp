@@ -32,5 +32,6 @@
 <p id="p_cpm_jcx_tjb">The smallest information unit is a “topic”: it is a short piece of text explaining a single subject or answering a single question.</p>
 <p id="p_dpm_jcx_tjb">Every topic is a specific information type (concept, task/procedure, reference …).</p>
 <p id="p_epm_jcx_tjb">You build topics with components (titles, sections, paragraphs …) and combine them to create bigger information units (such as chapters and volumes).</p>
+<draft-comment author="Kimberley.De.Moor">@PJ: Deze topic gaat eigenlijk meer over "topics" dan over "information units".</draft-comment>
 </conbody>
 </concept>

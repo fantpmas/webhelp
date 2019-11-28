@@ -28,7 +28,15 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p>Oxygen is an XML editor (developed by Syncro Soft) that provides a suite of XML authoring and development tools. It is designed to accommodate a large number of users, ranging from beginners to XML experts. It is available on multiple platforms, all major operating systems, and as a standalone application or an Eclipse plug-in. You can use Oxygen XML Editor in conjunction with all XML-based technologies and it includes a variety of tools for creating, editing, and publishing XML documents.</p>
-<p id="p_ntj_blr_tjb">Source: <xref href="https://www.oxygenxml.com/" format="html" scope="external"/></p>
+<p>Oxygen is an XML editor (developed by Syncro Soft) that provides a suite of XML authoring and development tools. It is designed to accommodate a large number of users, ranging from beginners to XML experts. It is available on multiple platforms, all major operating systems, and as a standalone application or an Eclipse plug-in. You can use Oxygen XML Editor in conjunction with all XML-based technologies and it includes a variety of tools for creating, editing, and publishing XML documents.<fn>Source: <xref href="https://www.oxygenxml.com/" format="html" scope="external"/></fn></p>
+<p conref="_warehouse/to_warehouse_paragraphs.dita#to_warehouse_paragraphs/p_fr1_zcf_wjb" id="p_qwf_xdl_wjb"/>
+<p id="p_r3g_12l_wjb" deliveryTarget="webhelp">
+<ul id="ul_swj_12l_wjb">
+<li><xref href="to_guidelines_and_tips_oxygen_xml.dita"/></li>
+<li><xref href="to_publishing_dita_content.dita"/></li>
+<li><xref href="to_oxygen_xml_software_updates.dita"/></li>
+</ul>
+</p>
+<draft-comment author="Kimberley.De.Moor">@PJ: ik steek de child topics er telkens al bij (ook al kan dit ook automatisch) omdat er dan geen lijn boven de links staat zoals met de "related links". Ik vind het beter om een onderscheid te maken tussen de child topics en de related topics, opdat de lezer niet verloren raakt in de structuur.</draft-comment>
 </conbody>
 </concept>

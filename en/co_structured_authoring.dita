@@ -47,13 +47,12 @@
 <li>content</li>
 <li>structure</li>
 </ul></li>
-<li>Reuse<ul id="ul_bvk_4px_tjb">
-<li>single sourcing (content ↔ context)</li>
-<li>multichannel publishing (content ↔ output)</li>
+<li><xref href="co_why_re_use_content.dita">Re-use</xref><ul id="ul_bvk_4px_tjb">
+<li><xref href="co_single_sourcing.dita"/> (content ↔ context)</li>
+<li><xref href="co_multi_channel_publishing.dita"/> (write content once, publish to multiple outputs)</li>
 </ul></li>
 <li>Collaboration with other authors</li>
 </ul>
-<draft-comment author="Kimberley.De.Moor">Hier hergebruik mogelijk: zie <xref href="co_what_is_dita.dita"/></draft-comment>
 </section>
 <section id="section_e3q_tpx_tjb">
 <title>Use</title>

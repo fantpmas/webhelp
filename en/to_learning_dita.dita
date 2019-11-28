@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="to_learning_dita" xml:lang="en-US">
-<title>Learning DITA</title>
+<title>Learning DITA (WEG?)</title>
 <prolog status="new">
 <author>Kimberley.De.Moor</author>
 <copyright status="new">
@@ -28,6 +28,12 @@
 </change-historylist>
 </prolog>
 <body>
-<p/>
+<p conref="_warehouse/to_warehouse_paragraphs.dita#to_warehouse_paragraphs/p_fr1_zcf_wjb" id="p_cxq_jsl_wjb"/>
+<p id="p_w35_jsl_wjb" deliveryTarget="webhelp">
+<ul id="ul_g3y_jsl_wjb">
+<li><xref href="co_dita_for_kids.dita"/></li>
+<li><xref href="co_free_e_learning_course_learningdita.dita"/></li>
+</ul>
+</p>
 </body>
 </topic>

@@ -33,7 +33,7 @@
 </section>
 <section id="section_ec1_y34_sjb">
 <title>Avoid inline links to tables and figures in a topic</title>
-<p id="p_fc1_y34_sjb">Keep your topics short and self-contained. These links can become difficult to maintain when you update your topics, for instance by deleting a table or moving it to a different topic. They can also make it difficult to re-use topics. Instead, you can consider re-using the table or the figure somewhere else in the form of a content reference.</p>
+<p id="p_fc1_y34_sjb">Keep your topics short and self-contained. These links can become difficult to maintain when you update your topics, for instance by deleting a table or moving it to a different topic. They can also make it difficult to re-use topics. Instead, you can consider re-using the table or the figure somewhere else in the form of a content reference (conref).</p>
 </section>
 <section id="section_imy_1j4_sjb">
 <title>Create inline links to repeated steps</title>
