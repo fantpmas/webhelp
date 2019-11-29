@@ -64,7 +64,4 @@
 <p id="p_acx_2zq_tjb">The DITA map is a hierarchy of links to your topics. If you add a relationship table to the DITA map, you can also create links that go beyond the hierarchical structure. As such, most of your linking is centralized and easy to navigate in one file. This makes it easier to glance over the entire structure and establish which relationships exist and how they might need to be adjusted.</p>
 </section>
 </conbody>
-<related-links>
-<link href="co_do_not_overuse_relationship_tables.dita"/>
-</related-links>
 </concept>

@@ -132,6 +132,7 @@
 <topicref href="co_what_is_an_information_type.dita"/>
 <topicref href="co_information_model.dita"/>
 <topicref href="co_what_is_a_dita_map.dita"/>
+<topicref href="co_guidelines_for_chunking_content.dita"/>
 </relcell>
 </relrow>
 <relrow>
@@ -157,20 +158,216 @@
 </relcell>
 </relrow>
 <relrow>
-<relcell/>
-<relcell/>
+<relcell>
+<topicref href="co_audience_oriented_authoring.dita"/>
+</relcell>
+<relcell>
+<topicref href="to_conditional_processing.dita"/>
+</relcell>
 </relrow>
 <relrow>
-<relcell/>
-<relcell/>
+<relcell>
+<topicref href="co_coherence.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_a_topic.dita"/>
+</relcell>
 </relrow>
 <relrow>
-<relcell/>
-<relcell/>
+<relcell>
+<topicref href="co_consistency.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_information_model.dita"/>
+</relcell>
 </relrow>
 <relrow>
-<relcell/>
-<relcell/>
+<relcell>
+<topicref href="co_segmentation.dita"/>
+</relcell>
+<relcell>
+<topicref href="co_guidelines_for_chunking_content.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_titles.dita"/>
+</relcell>
+<relcell>
+<topicref href="co_guidelines_for_writing_topic_titles.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_what_is_a_dita_map.dita"/>
+</relcell>
+<relcell>
+<topicref href="co_why_use_dita_maps.dita"/>
+<topicref href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
+<topicref href="co_what_is_a_bookmap.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_why_use_dita_maps.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_a_topic.dita"/>
+<topicref href="co_do_not_overuse_relationship_tables.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_what_is_a_bookmap.dita"/>
+</relcell>
+<relcell>
+<topicref href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_free_e_learning_course_learningdita.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_dita.dita"/>
+<topicref href="co_what_is_a_topic.dita"/>
+<topicref href="co_what_is_an_information_type.dita"/>
+<topicref href="co_what_is_a_dita_map.dita"/>
+<topicref href="co_what_is_a_bookmap.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_why_re_use_content.dita"/>
+</relcell>
+<relcell>
+<topicref href="to_different_levels_of_content_re_use.dita"/>
+<topicref href="co_single_sourcing.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_single_sourcing.dita"/>
+</relcell>
+<relcell>
+<topicref href="to_different_levels_of_content_re_use.dita"/>
+<topicref href="co_multi_channel_publishing.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_multi_channel_publishing.dita"/>
+</relcell>
+<relcell>
+<topicref href="co_why_re_use_content.dita"/>
+<topicref href="to_publishing_dita_content.dita"/>
+<topicref href="to_conditional_processing.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_structure_vs__lay_out.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_dita.dita"/>
+<topicref href="co_what_is_the_dita_open_toolkit__ot.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_structure_vs__lay_out.dita"/>
+</relcell>
+<relcell>
+<topicref href="co_publishing_strategies.dita"/>
+<topicref href="co_publishing.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_publishing.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_dita.dita"/>
+<topicref href="co_what_is_a_dita_map.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_publishing.dita"/>
+</relcell>
+<relcell>
+<topicref href="to_publishing_dita_content.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_why_use_metadata.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_dita.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_xml_editors.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_dita.dita"/>
+<topicref href="co_why_use_metadata.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_guidelines_for_chunking_content.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_an_information_type.dita"/>
+<topicref href="to_guidelines_for_creating_links.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_guidelines_for_writing_topic_titles.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_a_topic.dita"/>
+<topicref href="co_what_is_an_information_type.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
+</relcell>
+<relcell>
+<topicref href="co_guidelines_for_chunking_content.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_do_not_over_use_inline_links.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_a_topic.dita"/>
+<topicref href="to_different_levels_of_content_re_use.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_do_not_overuse_relationship_tables.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_a_dita_map.dita"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref href="co_add_collection_type_links.dita" linking="sourceonly"/>
+</relcell>
+<relcell>
+<topicref href="co_what_is_a_topic.dita"/>
+<topicref href="co_what_is_a_dita_map.dita"/>
+<topicref href="co_do_not_overuse_relationship_tables.dita"/>
+</relcell>
 </relrow>
 </reltable>
 <data>

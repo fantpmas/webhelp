@@ -30,5 +30,12 @@
 <conbody>
 <p>Multi-channel publishing is publishing documentation in different output formats, such as webhelp or pdf.</p>
 <p id="p_mzz_qvv_sjb">One of the great advantages of DITA content is its ability to be published in many different kinds of output formats. Its characteristic re-use strategies along with conditional processing were designed with efficient content-managing and publishing in mind. Essentially, one single source can become many different types of documents.</p>
+<p conref="_warehouse/to_warehouse_paragraphs.dita#to_warehouse_paragraphs/p_fr1_zcf_wjb" id="p_uwy_kps_wjb"/>
+<p id="p_jbf_lps_wjb" deliveryTarget="webhelp">
+<ul id="ul_ntm_lps_wjb">
+<li><xref href="co_structure_vs__lay_out.dita"/></li>
+<li><xref href="co_publishing.dita"/></li>
+</ul>
+</p>
 </conbody>
 </concept>
