@@ -28,8 +28,9 @@
 </change-historylist>
 </prolog>
 <body>
+<section id="section_em2_jc5_wjb" deliveryTarget="webhelp">
 <p conref="_warehouse/to_warehouse_paragraphs.dita#to_warehouse_paragraphs/p_ch5_ysd_wjb" id="p_an1_sql_wjb"/>
-<p id="p_y1f_sql_wjb" deliveryTarget="webhelp">
+<p id="p_y1f_sql_wjb">
 <ul id="ul_sgh_sql_wjb">
 <li><xref href="co_what_is_dita.dita"/></li>
 <li><xref href="co_what_is_an_information_type.dita"/></li>
@@ -38,5 +39,7 @@
 <li><xref href="to_learning_dita.dita"/></li>
 </ul>
 </p>
+</section>
+<draft-comment author="Kimberley.De.Moor">Van sectie, deliveryTarget = webhelp maken, en deze attribuutwaarde verwijderen van <xmlelement>p</xmlelement> element in _warehouse_paragraphs</draft-comment>
 </body>
 </topic>

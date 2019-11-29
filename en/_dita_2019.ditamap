@@ -6,7 +6,6 @@
 <author>Kimberley.De.Moor</author>
 <metadata/>
 </topicmeta>
-<topicref href="to_technical_writing.dita">
 <topicref href="co_structured_authoring.dita">
 <topicref href="co_what_is_a_topic.dita"/>
 <topicref href="co_information_model.dita"/>
@@ -20,8 +19,6 @@
 <topicref href="co_structure.dita"/>
 <topicref href="co_titles.dita"/>
 </topicref>
-</topicref>
-<topicref href="co_five_copywriting_errors.dita"/>
 </topicref>
 <topicref href="to_dita.dita">
 <topicref href="co_what_is_dita.dita"/>
@@ -95,11 +92,6 @@
 <topicref href="co_how_does_conditional_processing_work.dita"/>
 <topicref href="co_why_use_conditional_processing.dita"/>
 </topicref>
-</topicref>
-<topicref href="to_oxygen_xml_software_updates.dita">
-<topicref href="co_new_in_oxygen_19_0.dita"/>
-<topicref href="co_new_in_oxygen_21.dita"/>
-<topicref href="co_new_in_oxygen_21_1.dita"/>
 </topicref>
 </topicref>
 </topicref>
