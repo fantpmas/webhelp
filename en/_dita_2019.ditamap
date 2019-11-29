@@ -47,8 +47,12 @@
 <topicref href="co_xml_editors.dita">
 <topicref href="co_oxygen_xml.dita">
 <topicref href="to_guidelines_and_tips_oxygen_xml.dita">
-<topicref href="co_guidelines_for_chunking_content.dita"/>
-<topicref href="co_guidelines_for_writing_topic_titles.dita"/>
+<topicref href="co_guidelines_for_chunking_content.dita" chunk="to-content">
+<topicref href="co_guidelines_for_chunking_content_include_enough_information.dita" navtitle="Include enough information"/>
+<topicref href="co_guidelines_for_chunking_content_mind_miller%27s_law_7_2.dita" navtitle="Include enough information"/>
+<topicref href="co_guidelines_for_chunking_content_section_jxp_z5n_sjb.dita" navtitle="Include enough information"/>
+</topicref>
+<topicref href="co_guidelines_for_writing_topic_titles.dita" navtitle="Guidelines for writing topic titles"/>
 <topicref href="co_guidelines_for_creating_dita_maps_and_bookmaps.dita"/>
 <topicref href="to_guidelines_for_creating_links.dita">
 <topicref href="co_do_not_over_use_inline_links.dita"/>
@@ -57,10 +61,10 @@
 <topicref href="co_add_collection_type_links.dita"/>
 </topicref>
 <topicref href="to_different_levels_of_content_re_use.dita">
+<topicref href="co_re_using_dita_maps.dita"/>
+<topicref href="co_re_using_topics.dita"/>
 <topicref href="co_using_conrefs.dita"/>
 <topicref href="co_re_using_elements.dita"/>
-<topicref href="co_re_using_topics.dita"/>
-<topicref href="co_re_using_dita_maps.dita"/>
 <topicref href="co_re_using_content_from_non_dita_sources.dita"/>
 </topicref>
 <topicref href="to_glossaries_through_tooltips.dita">

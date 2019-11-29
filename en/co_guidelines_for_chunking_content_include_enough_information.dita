@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="section_v3h_nvn_sjb">
+<title>Include enough information</title>
+<conbody>
+
+<p id="p_w3h_nvn_sjb">Although a topic should only answer a single question, it should still contain enough information to make sense on its own. Which info the topic has to contain depends on the information type:<table frame="all" id="table_jtp_pvn_sjb">
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1*"/>
+<thead>
+<row>
+<entry>Information type</entry>
+<entry>Has to include enough info to</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Task topic</entry>
+<entry>Begin and complete a particular task</entry>
+</row>
+<row>
+<entry>Concept topic</entry>
+<entry>Grasp a particular concept</entry>
+</row>
+<row>
+<entry>Reference topic</entry>
+<entry>Look up and understand particular information</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+<note id="note_ktw_yvn_sjb">Topics often include related content. A particular task topic can, for example, use concepts that are described in separate concept topics. As a result, it is impossible to make each topic completely autonomous. You can solve that problem by adding related links to your topic (using the <xmlelement>related-links</xmlelement> element); the body part of your topic remains discrete, while you still guide the user to the related information.</note>
+</conbody>
+</concept>

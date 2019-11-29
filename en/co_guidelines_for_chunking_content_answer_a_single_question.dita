@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="section_n5v_z5n_sjb">
+   <title>Answer a single question</title>
+   <body>
+
+      <p id="p_o5v_z5n_sjb">Each topic should answer a single question. If you cannot grasp the content of a particular topic with a single question, you should split it into two or more smaller topics.</p>
+      <p id="p_t2c_bvn_sjb">Which kind of question a particular topic answers, helps you to determine the information type of that topic:<table frame="all" id="table_fbq_dvn_sjb">
+            <tgroup cols="2">
+               <colspec colname="c1" colnum="1" colwidth="1*"/>
+               <colspec colname="c2" colnum="2" colwidth="1*"/>
+               <thead>
+                  <row>
+                     <entry>Question</entry>
+                     <entry>Information type</entry>
+                  </row>
+               </thead>
+               <tbody>
+                  <row>
+                     <entry>How do I insert batteries in my camera?</entry>
+                     <entry>Task topic</entry>
+                  </row>
+                  <row>
+                     <entry>What is white balance?</entry>
+                     <entry>Concept topic</entry>
+                  </row>
+                  <row>
+                     <entry>What do these battery icons mean?</entry>
+                     <entry>Reference topic</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </p>
+   </body>
+</topic>

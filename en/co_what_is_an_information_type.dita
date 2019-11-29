@@ -28,9 +28,10 @@
 </change-historylist>
 </prolog>
 <conbody>
-<p>DITA distinguishes different types of topics, each intended for a particular type of information. These topic types are therefore also called information types. A well-written topic includes only one type of information.<fig id="fig_plr_fpt_5jb">
+<p>DITA distinguishes different types of topics, each intended for a particular type of information. These topic types are therefore also called information types. A well-written topic includes only one type of information.</p>
+<fig id="fig_plr_fpt_5jb">
 <image href="../_graphics/information_types.png" id="image_srh_gpt_5jb" align="center"/>
-</fig></p>
+</fig>
 <p id="p_mvs_s3q_tjb">The three core information types in DITA are the following:<table id="table_brf_4qt_5jb">
 <tgroup cols="2">
 <colspec colname="c1" colnum="1"/>
@@ -56,7 +57,7 @@
 </row>
 </tbody>
 </tgroup>
-</table></p>
+</table><draft-comment author="Pieterjan.vandenwegh">Aanpassen</draft-comment></p>
 <p id="p_kxx_nqt_5jb"> Generic topics (<uicontrol>topic</uicontrol>) and <uicontrol>composite</uicontrol> topics should only be used for specific purposes:<table frame="all" id="table_brk_x3q_tjb">
 <tgroup cols="2">
 <colspec colname="c1" colnum="1" colwidth="1*"/>

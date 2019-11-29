@@ -29,7 +29,7 @@
 </prolog>
 <taskbody>
 <context>
-<p>If you use Oxygen to write Dutch texts, you can add a Dutch dictionary to the spell checker.</p>
+<p>If you use <keyword keyref="oxygen_editor">OxygenXML</keyword> to write Dutch texts, you can add a Dutch dictionary to the spell checker.</p>
 <draft-comment author="Kimberley.De.Moor">@PJ: Hoe deze eerste 2 stappen aanpassen?</draft-comment>
 </context>
 <steps>
@@ -38,13 +38,13 @@
 <cmd>Locate the following file: <filepath>S: \ temp \ hunspell_NL </filepath><draft-comment author="Kimberley.De.Moor">⇒ LINK NEEDS TO BE UPDATED (deze opmerking stond in de wiki zelf)</draft-comment></cmd>
 </step>
 <step id="step_sgg_w5r_tjb">
-<cmd id="cmd_tgg_w5r_tjb">Copy both files to <filepath>C: \ Program Files \ Oxygen XML Author 20 \ dicts \ spell</filepath>.<draft-comment author="Kimberley.De.Moor">Both files?</draft-comment></cmd>
+<cmd id="cmd_tgg_w5r_tjb">Copy both files to <filepath>C: \ Program Files \ Oxygen XML Author 20 \ dicts \ spell</filepath>.<draft-comment author="Pieterjan.vandenwegh">[OXYGEN_INSTALL_DIR]/dicts/spell</draft-comment><draft-comment author="Kimberley.De.Moor">Both files?</draft-comment></cmd>
 </step>
 <step id="step_ftz_1vr_tjb">
-<cmd id="cmd_gtz_1vr_tjb">Restart Oxygen.</cmd>
+<cmd id="cmd_gtz_1vr_tjb">Restart <keyword keyref="oxygen_editor"/>.</cmd>
 </step>
 <step id="step_yb1_cvr_tjb">
-<cmd id="cmd_zb1_cvr_tjb">Make sure the language of your topics is set to NL, so for example: <codeph>&lt;task xml: lang = “nl”></codeph>.</cmd>
+<cmd id="cmd_zb1_cvr_tjb">Make sure the language of your topics is set to NL, so for example: <codeph>&lt;task xml:lang="nl"></codeph>.</cmd>
 </step>
 <step id="step_g4z_dvr_tjb">
 <cmd id="cmd_h4z_dvr_tjb">Do one of the following:</cmd>

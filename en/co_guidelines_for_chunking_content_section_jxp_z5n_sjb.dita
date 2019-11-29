@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="section_jxp_z5n_sjb">
+<title>Include enough information</title>
+<conbody>
+<p id="p_qxp_z5n_sjb">The first challenge in topic-based authoring is chunking your content into discrete topics. It can be hard to determine the ideal length of a topic: it should be short enough to answer a single question yet still include enough information to stand on its own. Additionally, you should also keep in mind Miller’s law when chunking your content.</p>
+</conbody>
+</concept>

@@ -73,7 +73,7 @@
 <p id="p_y2t_3y4_sjb">However, you should also take care not to become too concise: your topic titles should still be specific. Vague topic titles are meaningless and do not speak to the user. When you have written a title, you should ask yourself if you do not have to add a word or two. Instead of using “Introduction” or “Overview” as a topic title, for example, specify what you are introducing or which information there is in the overview (“Introducing DITA”/“Getting started with DITA”, “Overview of DITA information types”).</p>
 </section>
 <section id="section_tbx_ly4_sjb">
-<title><b>Use consistent syntax</b></title>
+<title>Use consistent syntax</title>
 <p id="p_ubx_ly4_sjb">Use the same syntax for titles of similar topics or - if possible - for all topics of the same information type. Like that, the user immediately knows which kind of information he will find in the topic and can decide whether or not he has to read it.</p>
 <p id="p_jtb_ny4_sjb">“How to insert batteries in your camera”, “Inserting batteries in your camera”, “To insert batteries in your camera” or “Insert batteries in your camera”, for example, are all valid titles for a task topic. If you choose one formulation and use it for all your task topics, users can immediately distinguish task topics from concept and reference topics.</p>
 </section>

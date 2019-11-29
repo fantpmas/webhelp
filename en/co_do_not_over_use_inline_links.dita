@@ -42,7 +42,6 @@
 <section id="section_ugv_rj4_sjb">
 <title><b>Create inline links to high-level tasks</b></title>
 <p id="p_vgv_rj4_sjb">If you have a manual that contains a task flow with too many task topics, the user might start to lose track of the big picture. As these tasks might be spread throughout your DITA map, you might not be able to take advantage of the default linking system. In this case, you can use inline links to show users a roadmap of the task flow they will have to follow. This way, they can plan for tasks they will need to complete in the future.</p>
-<draft-comment author="Kimberley.De.Moor">@PJ: "inline links" zijn toch hetzelfde als "inline cross references" he?</draft-comment>
 </section>
 </conbody>
 </concept>

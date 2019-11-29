@@ -31,31 +31,30 @@
 <section id="section_bdx_s11_sjb">
 <title>Definition</title>
 <p id="p_cdx_s11_sjb">DITA is an open standard to structure documentation and is therefore often used in technical writing.</p>
-<p id="p_dff_v11_sjb">It stands for Darwin Information Typing Architecture.<table frame="all" id="table_ckl_bb1_sjb">
-<tgroup cols="2">
-<colspec colname="c1" colnum="1" colwidth="1*"/>
-<colspec colname="c2" colnum="2" colwidth="1*"/>
-<tbody>
-<row>
-<entry>Darwin:</entry>
-<entry>a set of information models that can evolve and be specialized to account for the client's particular authoring and publishing needs</entry>
-</row>
-<row>
-<entry>Information Typing:</entry>
-<entry>content is organized in chunks of information called "topics" and topics are categorized by the type of information they contain:<ul id="ul_vms_kb1_sjb">
+<p id="p_dff_v11_sjb">It stands for Darwin Information Typing Architecture.</p>
+<dl>
+<dlentry id="dlentry_oh1_p3t_wjb">
+<dt>Darwin</dt>
+<dd id="dd_ph1_p3t_wjb">A set of information models that can evolve and be specialized to account for the client's particular authoring and publishing needs.</dd>
+</dlentry>
+<dlentry id="dlentry_v3s_q3t_wjb">
+<dt>Information Typing</dt>
+<dd id="dd_w3s_q3t_wjb">
+<p id="p_ikp_r3t_wjb">Content is organized in chunks of information called "topics" and topics are categorized by the type of information they contain:</p>
+<ul id="ul_k3h_r3t_wjb">
 <li>task</li>
 <li>concept</li>
 <li>reference</li>
 <li>(or other types of information)</li>
-</ul>See also: <xref href="co_what_is_an_information_type.dita"/></entry>
-</row>
-<row>
-<entry>Architecture:</entry>
-<entry>a set of standardized, open-source, well-documented information models for various types of content</entry>
-</row>
-</tbody>
-</tgroup>
-</table></p>
+</ul>
+<p id="p_alk_w3t_wjb">See also: <xref href="co_what_is_an_information_type.dita"/></p>
+</dd>
+</dlentry>
+<dlentry id="dlentry_hck_s3t_wjb">
+<dt>Architecture</dt>
+<dd id="dd_ick_s3t_wjb">A set of standardized, open-source, well-documented information models for various types of content</dd>
+</dlentry>
+</dl>
 </section>
 <section id="section_g23_npm_sjb">
 <title>History</title>

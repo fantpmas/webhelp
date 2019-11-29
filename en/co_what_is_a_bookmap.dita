@@ -32,7 +32,7 @@
 <title>Definition</title>
 <p id="p_jjk_pb5_5jb">A bookmap is a specialization of a <xref href="co_what_is_a_dita_map.dita">DITA map</xref> and is meant to be used when you intend to publish your documents in a book format. It contains structure and metadata, but no content. It is especially designed to create output in book-style formation and therefore includes the following major structures:<ul id="ul_v2n_tfq_tjb">
 <li>title</li>
-<li> bookmeta (owners, authors, publishing data,…)</li>
+<li>bookmeta (owners, authors, publishing data,…)</li>
 <li>front matter (acknowledgements, definitions, abbrevations,…)</li>
 <li>chapters and parts</li>
 <li>appendix topics</li>

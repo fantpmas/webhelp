@@ -28,6 +28,9 @@
 </change-historylist>
 </prolog>
 <conbody>
+<p>
+<draft-comment author="Pieterjan.vandenwegh">Aanpassen 'writing tool'</draft-comment>
+</p>
 <p>DITA is an ideal writing tool as it helps you organize your content into specific elements embedded within a larger, universal structure. These structuring elements have nothing to do with a lay-out, instead they are fixed compartments in which you store your documentation. This also means that when your documentation is fully written, the DITA file cannot be published and immediately used as is.</p>
 <p id="p_cvj_yvv_sjb">The advantage of this universal (and free, open source) structure is that it can easily be opened in other programs more suited for publishing, such as publishing tools or DITA processors (Oxygen, XMetaL), which will do the transformation for you. They transform your base DITA files into a publishable file of your choosing, and in doing so, apply a new lay-out on top of the structure. Lay-out, in this sense, is merely a layer that makes the structure more visible and accessible to the reader.</p>
 <p id="p_vlw_bwv_sjb">It is important to understand that the underlying structure is not changed when the DITA files are transformed. Your content does not change; it is merely put in a new outfit more suited to your needs.</p>
