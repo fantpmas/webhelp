@@ -6892,10 +6892,6 @@ ${caret}</String>
                         <Boolean>true</Boolean>
                     </entry>
                     <entry>
-                        <String>keys.context</String>
-                        <String>${pdu}/__flow_dita_webhelp.bookmap.ditamap</String>
-                    </entry>
-                    <entry>
                         <String>profiling.conditions</String>
                         <Boolean>true</Boolean>
                     </entry>
